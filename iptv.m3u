@@ -36,7 +36,8 @@ https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="中央频道",CCTV-4K超高清
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-#EXTINF:-1 tvg-id="ZhejiangMinshengLeisure.cn" tvg-logo="https://i.imgur.com/RVGrS4U.png" group-title="Undefined",浙江民生休闲 (1080p) 
+
+#EXTINF:-1 tvg-id="ZhejiangMinshengLeisure.cn" tvg-logo="https://i.imgur.com/RVGrS4U.png" group-title="浙江频道",浙江民生休闲 (1080p) 
 https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="浙江频道",浙江新闻 (720p)
 https://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
@@ -48,14 +49,16 @@ https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="浙江频道",浙江教科影视 (1080p)
 https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="ZhejiangDigitalTimesChannel.cn" tvg-logo="https://i.imgur.com/zGw9tXK.png" group-title="Undefined",浙江之江记录 (1080p) 
+#EXTINF:-1 tvg-id="ZhejiangDigitalTimesChannel.cn" tvg-logo="https://i.imgur.com/zGw9tXK.png" group-title="浙江频道",浙江之江记录 (1080p) 
 https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="ZhejiangEconomicChannel.cn" tvg-logo="https://i.imgur.com/pq9Aeeb.png" group-title="Business",浙江经济生活 (1080p) 
+#EXTINF:-1 tvg-id="ZhejiangEconomicChannel.cn" tvg-logo="https://i.imgur.com/pq9Aeeb.png" group-title="浙江频道",浙江经济生活 (1080p) 
 https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="浙江频道",浙江钱江 (1080p)
 https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="浙江频道",浙江留学 (1080p) 
 https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",北京卫视
@@ -78,7 +81,9 @@ https://iptv.luas.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/bd
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",延边2台
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-logo="https://i.imgur.com/896132Z.png" group-title="General",TV BRICS Chinese (1080p) [Not 24/7]
+
+
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-logo="https://i.imgur.com/896132Z.png" group-title="卫视频道",TV BRICS Chinese (1080p) [Not 24/7]
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
@@ -116,6 +121,8 @@ http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",壹新聞
 http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="English",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="English",CNN International Europe (720p)
@@ -150,10 +157,13 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="English",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",France 24 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="English",France 24 (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="English",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="French",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="French",France 2
@@ -204,6 +214,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="French",RTI 1 (1080p)
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI2.ci" tvg-logo="https://i.imgur.com/WgdvLoK.png" group-title="French",RTI 2 (1080p)
+
+
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Spanish",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Spanish",La 2 (1080p)
