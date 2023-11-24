@@ -60,6 +60,12 @@ https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",江苏卫视
 http://cfss.cc/api/ysp/jsws.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",辽宁卫视
+https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",湖南卫视
+https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",北京卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",四川卫视
 https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/027c826f0e-0-0-4caf8e44f0157ea591d8857569b9a2c3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",湖北卫视
