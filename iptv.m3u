@@ -32,6 +32,8 @@ https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="中央频道",CCTV-4K超高清
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="中央频道",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="浙江频道",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
