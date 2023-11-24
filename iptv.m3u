@@ -72,6 +72,8 @@ https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/02
 https://iptv.luas.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/09ef2cf7aa-0-0-41178ff5e45faa352937baadccc115df/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",宁夏卫视
 https://iptv.luas.edu.cn/liverespath/eefad27700cf7ea30b4f5145f0b8d466a27c1478/a6521c76fe-0-0-122593a056f92b15e26f5c38aef3be42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",广西卫视
+http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",新疆卫视
 https://iptv.luas.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/da8869bb58-0-0-456269e3068e187c614daaeee51bb7fb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="卫视频道",甘肃卫视
