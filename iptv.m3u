@@ -419,18 +419,6 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 
-38371477140d58e09b8901224bb0c382.png" group-title="西班牙电视",CLAN HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323927
-#EXTINF:-1 tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://streamgo.vip:8008/images/bb8f34562e38dd39fddc3f8900b76350.png" group-title="西班牙电视",DISNEY CHANNEL FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323929
-#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="http://streamgo.vip:8008/images/f3b23b22f7d0803b4170d415df30860a.png" group-title="西班牙电视",DISNEY JUNIOR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323930
-#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="http://streamgo.vip:8008/images/cdeeafbf75d0756deafe04c647cb47be.png" group-title="西班牙电视",DISNEY XD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323931
-#EXTINF:-1 tvg-name="NICK JUNIOR" tvg-logo="http://streamgo.vip:8008/images/57f6f526c0a95af828613d43dac5cad0.png" group-title="西班牙电视",NICK JUNIOR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323932
-#EXTINF:-1 tvg-name="NICKELODEON FHD" tvg-logo="http://streamgo.vip:8008/images/7b7556a1b4244de75af6cf37ffa7ac07.png" group-title="西班牙电视",NICKELODEON FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323933
 #EXTINF:-1 tvg-name="TNT FHD" tvg-logo="http://streamgo.vip:8008/images/2bfef0530e86875773ac557931601714.png" group-title="西班牙电视",TNT FHD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323936
 #EXTINF:-1 tvg-name="TCM FHD" tvg-logo="http://streamgo.vip:8008/images/481ee88402266fde60880abc1b4f7a48.png" group-title="西班牙电视",TCM FHD
@@ -598,9 +586,7 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318965
 #EXTINF:-1 tvg-name="CUBA : CUBAVISION INTERNACIONAL" tvg-logo="noimage.png" group-title="拉美电视",CUBA : CUBAVISION INTERNACIONAL
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318966
 #EXTINF:-1 tvg-name="CUBA: AMRERICA TV" tvg-logo="noimage.png" group-title="拉美电视",CUBA: AMRERICA TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318967
-#EXTINF:-1 tvg-name="Cubavision" tvg-logo="noimage.png" group-title="拉美电视",Cubavision
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318968
+
 
 #EXTINF:-1 tvg-name="HON: TSI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/TSi_Honduras_new_logo.png.png/revision/latest/scale-to-width-down/200?cb=20201025145754&path-prefix=es" group-title="拉美电视",HON: TSI
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/319066
