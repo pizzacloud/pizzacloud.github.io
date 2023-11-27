@@ -431,22 +431,12 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323942
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323943
 #EXTINF:-1 tvg-name="MyTIME MOVIE NETWORK" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",MyTIME MOVIE NETWORK
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323944
-#EXTINF:-1 tvg-name="MOVISTAR  VAMOS FHD" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="西班牙电视",MOVISTAR  VAMOS FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323946
-#EXTINF:-1 tvg-name="MOVISTAR VAMOS FHD EXTRA" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="西班牙电视",MOVISTAR VAMOS FHD EXTRA
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323947
-#EXTINF:-1 tvg-name="MOVISTAR  GOLF FHD" tvg-logo="http://streamgo.vip:8008/images/9309d380a01947836a066bdda1b290a9.png" group-title="西班牙电视",MOVISTAR  GOLF FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323950
-#EXTINF:-1 tvg-name="TELEDEPORTES FHD" tvg-logo="http://streamgo.vip:8008/images/71333d283a49f6ca99efb8a86f57ef38.png" group-title="西班牙电视",TELEDEPORTES FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323952
-#EXTINF:-1 tvg-name="CANAL COCINA HD" tvg-logo="http://streamgo.vip:8008/images/3041b87f49c9700bb3b929c737953f71.png" group-title="西班牙电视",CANAL COCINA HD
+3041b87f49c9700bb3b929c737953f71.png" group-title="西班牙电视",CANAL COCINA HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323955
 #EXTINF:-1 tvg-name="CANAL DECASA" tvg-logo="http://streamgo.vip:8008/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="西班牙电视",CANAL DECASA
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323956
 #EXTINF:-1 tvg-name="HISTORIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="西班牙电视",HISTORIA HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323958
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://streamgo.vip:8008/images/0e471d7dd56a9dae2f530e1c12e7661c.png" group-title="西班牙电视",NATIONAL GEOGRAPHIC FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323961
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD HD" tvg-logo="http://streamgo.vip:8008/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="西班牙电视",NATIONAL GEOGRAFIC WILD HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323963
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="西班牙电视",DISCOVERY CHANNEL
@@ -455,10 +445,12 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323964
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323965
 #EXTINF:-1 tvg-name="MEZZO LIVE FULL HD" tvg-logo="http://streamgo.vip:8008/images/bbdd2f0e9cbf73e5c826995a10b89091.png" group-title="西班牙电视",MEZZO LIVE FULL HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323969
-#EXTINF:-1 tvg-name="LA 1 FHD" tvg-logo="http://streamgo.vip:8008/images/1186f39f3c2ff7dcf5600c76cddb6a47.png" group-title="西班牙电视",LA 1 FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323980
-#EXTINF:-1 tvg-name="LA 2 FHD" tvg-logo="http://daleplay.club:8080/images/c59134c734b1fc689c1e47a26b1f75d4.png" group-title="西班牙电视",LA 2 FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323982
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="西班牙电视",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙电视",La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="西班牙电视",Canal 24 Horas (720p)
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-name="ANTENA 3 FHD" tvg-logo="http://streamgo.vip:8008/images/c3c714ca8288fb2db477ab7312deb35c.png" group-title="西班牙电视",ANTENA 3 FHD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323985
 #EXTINF:-1 tvg-name="CUATRO FHD" tvg-logo="http://streamgo.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="西班牙电视",CUATRO FHD
@@ -491,48 +483,8 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324010
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324011
 #EXTINF:-1 tvg-name="MTV" tvg-logo="http://streamgo.vip:8008/images/fef8b6268ff6bce8301de151e6ade34b.png" group-title="西班牙电视",MTV
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324016
-#EXTINF:-1 tvg-name="#0 FHD" tvg-logo="http://streamgo.vip:8008/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="西班牙电视",#0 FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324018
-#EXTINF:-1 tvg-name="MOVISTAR ESTRENOS HD" tvg-logo="http://streamgo.vip:8008/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="西班牙电视",MOVISTAR ESTRENOS HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324020
-#EXTINF:-1 tvg-name="MOVISTAR ESTRENOS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="西班牙电视",MOVISTAR ESTRENOS 2 HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324022
-#EXTINF:-1 tvg-name="MOVISTAR ACCION FHD" tvg-logo="http://streamgo.vip:8008/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="西班牙电视",MOVISTAR ACCION FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324024
-#EXTINF:-1 tvg-name="MOVISTAR COMEDIA FHD" tvg-logo="http://streamgo.vip:8008/images/09ab04e233864f2f4d992c86a663671a.jpg" group-title="西班牙电视",MOVISTAR COMEDIA FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324026
-#EXTINF:-1 tvg-name="MOVISTAR DRAMA HD" tvg-logo="http://streamgo.vip:8008/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="西班牙电视",MOVISTAR DRAMA HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324028
-#EXTINF:-1 tvg-name="MOVISTAR CLASICOS FHD" tvg-logo="http://xtitan.xyz:2082/images/5a370ad3a70454b47d4a477430a1f89b.png" group-title="西班牙电视",MOVISTAR CLASICOS FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324029
-#EXTINF:-1 tvg-name="MOVISTAR  CINE ESPAÑOL" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",MOVISTAR  CINE ESPAÑOL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324034
-#EXTINF:-1 tvg-name="MOVISTAR CINE ESPAÑOL FHD" tvg-logo="http://streamgo.vip:8008/images/432fc9cb4ae310b06ee207fb94b60d02.png" group-title="西班牙电视",MOVISTAR CINE ESPAÑOL FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324035
-#EXTINF:-1 tvg-name="MOVISTAR DISNEY +" tvg-logo="http://streamgo.vip:8008/images/2d3278c975a9c5a03287843e8a22f8a0.png" group-title="西班牙电视",MOVISTAR DISNEY +
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324036
-#EXTINF:-1 tvg-name="MOVISTAR  SERIES 2 FHD" tvg-logo="http://streamgo.vip:8008/images/fa93244c9bffb41d922f5943147959e0.png" group-title="西班牙电视",MOVISTAR  SERIES 2 FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324038
-#EXTINF:-1 tvg-name="MOVISTAR  SERIES FHD" tvg-logo="http://streamgo.vip:8008/images/32d22bfff4c918e13524b74e5efa82a8.png" group-title="西班牙电视",MOVISTAR  SERIES FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324041
-#EXTINF:-1 tvg-name="MOVISTAR LA RESISTENCIA" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",MOVISTAR LA RESISTENCIA
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324042
-#EXTINF:-1 tvg-name="AXN WHITE FHD" tvg-logo="http://streamgo.vip:8008/images/5d340d069ce4995b89a26961d3aaf7b1.png" group-title="西班牙电视",AXN WHITE FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324045
-#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://streamgo.vip:8008/images/afeda469188fbc964d949faa482b7b57.png" group-title="西班牙电视",AXN FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324048
-#EXTINF:-1 tvg-name="CALLE 13 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="西班牙电视",CALLE 13 FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324051
-#EXTINF:-1 tvg-name="CANAL DECASA HD" tvg-logo="http://streamgo.vip:8008/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="西班牙电视",CANAL DECASA HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324052
-#EXTINF:-1 tvg-name="TELEMADRID HD" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",TELEMADRID HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/324053
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="西班牙电视",La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙电视",La 2 (1080p)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="西班牙电视",Canal 24 Horas (720p)
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Latino | A3S" tvg-logo="http://streamgo.vip:8008/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="西班牙电视",Latino | A3S
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135427
