@@ -534,6 +534,55 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="西班牙电视",Canal 24 Horas (720p)
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 tvg-name="Latino | A3S" tvg-logo="http://streamgo.vip:8008/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="西班牙电视",Latino | A3S
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135427
+#EXTINF:-1 tvg-name="CINE |  HBO 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="西班牙电视",CINE |  HBO 2  FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318642
+#EXTINF:-1 tvg-name="CINE | FX  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="西班牙电视",CINE | FX  FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318679
+#EXTINF:-1 tvg-name="CINE | FXM  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5-2zA8d8BZ17XPVLEidzJj-s8rKlOoTntg&usqp=CAU" group-title="西班牙电视",CINE | FXM  FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318681
+
+#EXTINF:-1 tvg-name="CINE | GOLDEN EDG  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="西班牙电视",CINE | GOLDEN EDG  FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318691
+#EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="西班牙电视",CINE | GOLDEN PREMIER  FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318694
+#EXTINF:-1 tvg-name="CINE | PARAMOUNT CHANEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="西班牙电视",CINE | PARAMOUNT CHANEL FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318697
+#EXTINF:-1 tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="西班牙电视",CINE GOLDEN PLUS FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318700
+#EXTINF:-1 tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="西班牙电视",P | UNIVERSAL COMEDY HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318703
+#EXTINF:-1 tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="http://daleplay.club:8080/images/b5cd18267789d07c58596bcae4f0055f.png" group-title="西班牙电视",P | UNIVERSAL REALITY HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318705
+#EXTINF:-1 tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="http://daleplay.club:8080/images/2f9119fd3e55f3968f4c683b2e9916d9.png" group-title="西班牙电视",P | UNIVERSAL CINEMA HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318706
+#EXTINF:-1 tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="http://daleplay.club:8080/images/ddab0de6d960b6f7ce2b83fcf5c7392d.png" group-title="西班牙电视",P | UNIVERSAL CRIMEN HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318707
+#EXTINF:-1 tvg-name="DHE" tvg-logo="http://daleplay.club:8080/images/d61eed6287d6b17cc3229fb6c4fe084f.png" group-title="西班牙电视",DHE
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318708
+#EXTINF:-1 tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="西班牙电视",CINE | CINECANAL  HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318709
+#EXTINF:-1 tvg-name="Europa europa" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",Europa europa
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318712
+
+
+cd4425427821cc583cfb026e619fa062.png" group-title="拉美电视",CO | Canal Uno HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318371
+#EXTINF:-1 tvg-name="CO | CARACOL FHD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="拉美电视",CO | CARACOL FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318374
+#EXTINF:-1 tvg-name="CO | Caracol Internacional" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="拉美电视",CO | Caracol Internacional
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318375
+mages/d94d3dedf5efcb70fd4c5ec164d62aaa.png" group-title="拉美电视",CO | NTN24
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318380
+#EXTINF:-1 tvg-name="CO | Pasiones FHD" tvg-logo="http://streamgo.vip:8008/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="拉美电视",CO | Pasiones FHD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318382
+#EXTINF:-1 tvg-name="CO | RCN HD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="拉美电视",CO | RCN HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318383
+#EXTINF:-1 tvg-name="CO | Telecaribe HD" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png" group-title="拉美电视",CO | Telecaribe HD
+http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318394
+
+
 
 
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="拉美电视",Azteca Internacional (1080p)
@@ -556,129 +605,18 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="拉美电视",Once México (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="拉美电视",Univision Latinoamérica
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkSpain.es" tvg-logo="" group-title="拉美电视",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 | CR" tvg-logo="http://streamgo.vip:8008/images/d1cd5c4ba3cfbe6081ff0296bcfbc7cb.png" group-title="拉美电视",Canal 6 | CR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318937
-#EXTINF:-1 tvg-name="Canal 8 | CR" tvg-logo="http://127.0.0.1/" group-title="拉美电视",Canal 8 | CR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318938
-#EXTINF:-1 tvg-name="Colosal TV | CR" tvg-logo="http://streamgo.vip:8008/images/6d38bf146e5aceb083a15dbe723a4aca.png" group-title="拉美电视",Colosal TV | CR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318939
-#EXTINF:-1 tvg-name="CR | TD+2" tvg-logo="http://streamgo.vip:8008/images/e6752a4103bfe1804a49970c8d7e31eb.png" group-title="拉美电视",CR | TD+2
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318940
-#EXTINF:-1 tvg-name="CR: CANAL 13" tvg-logo="http://starplus.club:8080/images/b5e7f302401409c499577b21bdbbdaec.png" group-title="拉美电视",CR: CANAL 13
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318941
-#EXTINF:-1 tvg-name="CR: REPRETEL 4" tvg-logo="http://starplus.club:8080/images/b5e7f302401409c499577b21bdbbdaec.png" group-title="拉美电视",CR: REPRETEL 4
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318947
-#EXTINF:-1 tvg-name="CR: TD +" tvg-logo="http://starplus.club:8080/images/b5e7f302401409c499577b21bdbbdaec.png" group-title="拉美电视",CR: TD +
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318948
-#EXTINF:-1 tvg-name="CR: TELETICA HD" tvg-logo="http://streamgo.vip:8008/images/7a0249cbdce55916074cfba6ead74838.png" group-title="拉美电视",CR: TELETICA HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318952
-#EXTINF:-1 tvg-name="CR: Tour channel" tvg-logo="http://streamgo.vip:8008/images/74334e9cf0c20f02714829856ed869e4.png" group-title="拉美电视",CR: Tour channel
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318954e6752a4103bfe1804a49970c8d7e31eb.png" group-title="拉美电视",CR | TD+2
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318959
 
-
-#EXTINF:-1 tvg-name="CUBA : CUBAVISION" tvg-logo="http://latinoamericatv.vip:3334/images/3c924a41af573cc9cf4d99349109de82.png" group-title="拉美电视",CUBA : CUBAVISION
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318965
-#EXTINF:-1 tvg-name="CUBA : CUBAVISION INTERNACIONAL" tvg-logo="noimage.png" group-title="拉美电视",CUBA : CUBAVISION INTERNACIONAL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318966
-#EXTINF:-1 tvg-name="CUBA: AMRERICA TV" tvg-logo="noimage.png" group-title="拉美电视",CUBA: AMRERICA TV
-
-
-#EXTINF:-1 tvg-name="HON: TSI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/TSi_Honduras_new_logo.png.png/revision/latest/scale-to-width-down/200?cb=20201025145754&path-prefix=es" group-title="拉美电视",HON: TSI
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/319066
-#
-#EXTINF:-1 tvg-name="VICA TV" tvg-logo="http://streamgo.vip:8008/images/60869e510a050eaf916e75d1a128a97b.png" group-title="拉美电视",VICA TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/319069
-#EXTINF:-1 tvg-name="HON: HCH" tvg-logo="http://streamgo.vip:8008/images/acbd73f8fbcb525b458abd1340d3c16e.png" group-title="拉美电视",HON: HCH
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/319071
-#EXTINF:-1 tvg-name="HON: TELESISTEMAS" tvg-logo="http://streamgo.vip:
-#EXTINF:-1 tvg-name="CHTV" tvg-logo="http://streamgo.vip:8008/images/a58e802976581b568307544299180f06.jpg" group-title="拉美电视",CHTV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/319078
-
-
-
-
-#EXTINF:-1 tvg-name="GUA: GUATEVISION" tvg-logo="http://streamgo.vip:8008/images/f32057ec55c64ea9a4c573d79795925d.png" group-title="拉美电视",GUA: GUATEVISION
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318222
-#EXTINF:-1 tvg-name="GUAT: CANAL 11" tvg-logo="http://streamgo.vip:8008/images/f32057ec55c64ea9a4c573d79795925d.png" group-title="拉美电视",GUAT: CANAL 11
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318223
-3d763670541d0ec55ff3147536b3368c.png" group-title="拉美电视",GUAT: GTLIVE
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318228
-#EXTINF:-1 tvg-name="GUAT: TN23" tvg-logo="http://streamgo.vip:8008/images/e1296e8c32fbbc584029199378f16daf.png" group-title="拉美电视",GUAT: TN23
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318229
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="PR: MEGA TV" tvg-logo="http://streamgo.vip:8008/images/0db35da493f5a9aac9130692d8544a36.png" group-title="拉美电视",PR: MEGA TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321987
-#EXTINF:-1 tvg-name="PUNTO2" tvg-logo="http://streamgo.vip:8008/images/0db35da493f5a9aac9130692d8544a36.png" group-title="拉美电视",PUNTO2
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321988
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321991
-#EXTINF:-1 tvg-name="TeleOnce 11" tvg-logo="http://127.0.0.1/" group-title="拉美电视",TeleOnce 11
-http://streamgo.vip:8008/movie/CristianCorcuera/4vm5sFNWunSn/323513.mp4
-#EXTINF:-1 tvg-name="PR: UNIVISION" tvg-logo="http://streamgo.vip:8008/images/0db35da493f5a9aac9130692d8544a36.png" group-title="拉美电视",PR: UNIVISION
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323857
-
-
-
-#EXTINF:-1 tvg-name="NEX TV" tvg-logo="http://streamgo.vip:8008/images/4e440d1d6a908bf3cca111ed83cdf50c.png" group-title="拉美电视",NEX TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/326798
-#EXTINF:-1 tvg-name="PA | COS FC" tvg-logo="http://streamgo.vip:8008/images/52401413695498f9d337d032f2520908.png" group-title="拉美电视",PA | COS FC
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/326799
-
-
-#EXTINF:-1 tvg-name="MEX: UNIVISION*" tvg-logo="http://streamgo.vip:8008/images/66c133ca296332d036805f58ea3cd107.png" group-title="拉美电视",MEX: UNIVISION*
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/327415
-
-#EXTINF:-1 tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://streamgo.vip:8008/images/9d3e4141d48d8845f7498bd3d948b68e.png" group-title="拉美电视",TELEMUNDO INTERNACIONAL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/327421
-#EXTINF:-1 tvg-name="TeleOnce 11" tvg-logo="http://127.0.0.1/" group-title="拉美电视",TeleOnce 11
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/327430
-#EXTINF:-1 tvg-name="UNIVISION MIAMI HD" tvg-logo="http://streamgo.vip:8008/images/9e845f43c67f603ad6927ce452139dae.png" group-title="拉美电视",UNIVISION MIAMI HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/327438
-
-
-
-#EXTINF:-1 tvg-name="SA SD:CANAL 4" tvg-logo="http://streamgo.vip:8008/images/6116b9962853a3265dc104acb8692dc6.png" group-title="拉美电视",SA SD:CANAL 4
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336509
-#EXTINF:-1 tvg-name="SA: CANAL 10" tvg-logo="http://streamgo.vip:8008/images/6116b9962853a3265dc104acb8692dc6.png" group-title="拉美电视",SA: CANAL 10
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336510
-
-
-#EXTINF:-1 tvg-name="UR | CANAL 12 TELEDOCE HD" tvg-logo="http://streamgo.vip:8008/images/6461d2ff9c26928722c922e529044378.png" group-title="拉美电视",UR | CANAL 12 TELEDOCE HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336523
 #EXTINF:-1 tvg-name="UR | VTV   FHD" tvg-logo="http://streamgo.vip:8008/images/af2424ddac7488fcba3ce3d366eb85c4.png" group-title="拉美电视",UR | VTV   FHD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336527
-
-
-#EXTINF:-1 tvg-name="BOL : BOLIVISION HD" tvg-logo="http://streamgo.vip:8008/images/e57a66e0b72328100bd825863daf6f02.png" group-title="拉美电视",BOL : BOLIVISION HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336561
-#EXTINF:-1 tvg-name="BOL : RTP HD" tvg-logo="http://streamgo.vip:8008/images/bca2e8d62b6108a9ea74d0e84d02c6cf.png" group-title="拉美电视",BOL : RTP HD
+ñ¡'+#EXTINF:-1 tvg-name="BOL : RTP HD" tvg-logo="http://streamgo.vip:8008/images/bca2e8d62b6108a9ea74d0e84d02c6cf.png" group-title="拉美电视",BOL : RTP HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png" group-title="拉美电视",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
 
-#EXTINF:-1 tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="拉美电视",AR | TV PUBLICA FHD
+#EXTINF:-1 tvg-name="AR | TV PUBLICA FHD" tp`0
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/338803
-#EXTINF:-1 tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="⭐️ 
-#EXTINF:-1 tvg-name="AR | Telefe SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="拉美电视",AR | Telefe SD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/338815
-
-
-#EXTINF:-1 tvg-name="PARAGUAY: LA TELE HD" tvg-logo="http://streamgo.vip:8008/images/0a21b27d57cf3e6e4140366db61d00b2.png" group-title="拉美电视",PARAGUAY: LA TELE HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318888
-#EXTINF:-1 tvg-name="PARAGUAY: PARAVISION HD" tvg-logo="http://streamgo.vip:8008/images/c8a4fea7bb6e20382366caa10cd6bf4a.png" group-title="拉美电视",PARAGUAY: PARAVISION HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318889
-#EXTINF:-1 tvg-name="PARAGUAY: SNT HD H264" tvg-logo="http://streamgo.vip:8008/images/240274e9137bde957cf01db3b67c0cba.png" group-title="拉美电视",PARAGUAY: SNT HD H264
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318890
 
 
 
@@ -748,210 +686,21 @@ http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-name="Latino | A3S" tvg-logo="http://streamgo.vip:8008/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="⭐️ Telenovelas",Latino | A3S
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135427
-#EXTINF:-1 tvg-name="Latino | AZ CORAZON" tvg-logo="http://streamgo.vip:8008/images/c749fdf8a9943d4e485533e16bed3357.png" group-title="⭐️ Telenovelas",Latino | AZ CORAZON
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135429
-#EXTINF:-1 tvg-name="Latino | Canal 5" tvg-logo="http://streamgo.vip:8008/images/a6347a1fdacab7eaee2f8a72a0dc421d.png" group-title="⭐️ Telenovelas",Latino | Canal 5
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135430
-#EXTINF:-1 tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://streamgo.vip:8008/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135431
-#EXTINF:-1 tvg-name="Latino | Glitz" tvg-logo="http://streamgo.vip:8008/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="⭐️ Telenovelas",Latino | Glitz
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135432
-#EXTINF:-1 tvg-name="Latino | Pasiones" tvg-logo="http://streamgo.vip:8008/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135435
-#EXTINF:-1 tvg-name="Latino | TLNovelas" tvg-logo="http://streamgo.vip:8008/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="⭐️ Telenovelas",Latino | TLNovelas
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135436
-#EXTINF:-1 tvg-name="TL Novelas Univision" tvg-logo="http://streamgo.vip:8008/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/135439
-#EXTINF:-1 tvg-name="Latino | RCN Novelas" tvg-logo="http://streamgo.vip:8008/images/0bc4724b5875aafbc65f57a9fdabd162.png" group-title="⭐️ Telenovelas",Latino | RCN Novelas
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/308075
-#EXTINF:-1 tvg-name="Latino | RCN Novelas" tvg-logo="http://streamgo.vip:8008/images/0bc4724b5875aafbc65f57a9fdabd162.png" group-title="⭐️ Telenovelas",Latino | RCN Novelas
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318029
 
-#EXTINF:-1 tvg-name="CINE  | A&E HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | A&E HD.
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318634
-#EXTINF:-1 tvg-name="CINE |  HBO 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE |  HBO 2  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318642
-#EXTINF:-1 tvg-name="CINE | FX  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318679
-#EXTINF:-1 tvg-name="CINE | FXM  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5-2zA8d8BZ17XPVLEidzJj-s8rKlOoTntg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FXM  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318681
-#EXTINF:-1 tvg-name="CINE | SPACE CHANEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | SPACE CHANEL  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318682
-#EXTINF:-1 tvg-name="CINE | AMC  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318685
-#EXTINF:-1 tvg-name="CINE | GOLDEN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318688
-#EXTINF:-1 tvg-name="CINE | GOLDEN EDG  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN EDG  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318691
-#EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN PREMIER  FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318694
-#EXTINF:-1 tvg-name="CINE | PARAMOUNT CHANEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | PARAMOUNT CHANEL FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318697
-#EXTINF:-1 tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE GOLDEN PLUS FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318700
-#EXTINF:-1 tvg-name="CINE | CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINE LATINO
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318702
-#EXTINF:-1 tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="⭐️ CINE PREMIUM",P | UNIVERSAL COMEDY HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318703
-#EXTINF:-1 tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="http://streamgo.vip:8008/images/f8ad17fe253c743c4d755af0d8675f77.png" group-title="⭐️ CINE PREMIUM",P | UNIVERSAL PREMIER HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318704
-#EXTINF:-1 tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="http://daleplay.club:8080/images/b5cd18267789d07c58596bcae4f0055f.png" group-title="⭐️ CINE PREMIUM",P | UNIVERSAL REALITY HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318705
-#EXTINF:-1 tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="http://daleplay.club:8080/images/2f9119fd3e55f3968f4c683b2e9916d9.png" group-title="⭐️ CINE PREMIUM",P | UNIVERSAL CINEMA HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318706
-#EXTINF:-1 tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="http://daleplay.club:8080/images/ddab0de6d960b6f7ce2b83fcf5c7392d.png" group-title="⭐️ CINE PREMIUM",P | UNIVERSAL CRIMEN HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318707
-#EXTINF:-1 tvg-name="DHE" tvg-logo="http://daleplay.club:8080/images/d61eed6287d6b17cc3229fb6c4fe084f.png" group-title="⭐️ CINE PREMIUM",DHE
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318708
-#EXTINF:-1 tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318709
-#EXTINF:-1 tvg-name="Europa europa" tvg-logo="http://127.0.0.1/" group-title="⭐️ CINE PREMIUM",Europa europa
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318712
-
-
-cd4425427821cc583cfb026e619fa062.png" group-title="⭐️ Colombia",CO | Canal Uno HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318371
-#EXTINF:-1 tvg-name="CO | CARACOL FHD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="⭐️ Colombia",CO | CARACOL FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318374
-#EXTINF:-1 tvg-name="CO | Caracol Internacional" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318375
-#EXTINF:-1 tvg-name="CO | Caracol Noticias" tvg-logo="http://streamgo.vip:8008/images/83e0ce2370325de8a0c042aa691e69ce.png" group-title="⭐️ Colombia",CO | Caracol Noticias
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318377
-
-#EXTINF:-1 tvg-name="CO | El Tiempo" tvg-logo="http://streamgo.vip:8008/images/e3374ab3d074c77675647cfd8d5ac193.png" group-title="⭐️ Colombia",CO | El Tiempo
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318379
-#EXTINF:-1 tvg-name="CO | NTN24" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png" group-title="⭐️ Colombia",CO | NTN24
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318380
-#EXTINF:-1 tvg-name="CO | Pasiones FHD" tvg-logo="http://streamgo.vip:8008/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="⭐️ Colombia",CO | Pasiones FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318382
-#EXTINF:-1 tvg-name="CO | RCN HD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="⭐️ Colombia",CO | RCN HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318383
-#EXTINF:-1 tvg-name="CO | RCN Novelas HD" tvg-logo="http://streamgo.vip:8008/images/1fb58df5c47942436ba1bfe0978e1b70.png" group-title="⭐️ Colombia",CO | RCN Novelas HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318386
-#EXTINF:-1 tvg-name="CO | Señal Colombia HD" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="⭐️ Colombia",CO | Señal Colombia HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318388
-#EXTINF:-1 tvg-name="CO | Telecafé HD" tvg-logo="http://streamgo.vip:8008/images/aff1a8273b40f6cdd36ef6da73fdeb50.png" group-title="⭐️ Colombia",CO | Telecafé HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318392
-#EXTINF:-1 tvg-name="CO | Telecaribe HD" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png" group-title="⭐️ Colombia",CO | Telecaribe HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318394
-
-
-
-
-#EXTINF:-1 tvg-name="*MEX : AFIZZIONADOS" tvg-logo="http://streamgo.vip:8008/images/fc2f6178abeec3a91654adc3f22419fd.png" group-title="⭐️ México",*MEX : AFIZZIONADOS
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330310
-#EXTINF:-1 tvg-name="*MEX: Galavision HD" tvg-logo="http://streamgo.vip:8008/images/208b5f91ec5dd0263c55a1f4ac2559ef.png" group-title="⭐️ México",*MEX: Galavision HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330311
-#EXTINF:-1 tvg-name="*MX | AZ MUNDO" tvg-logo="http://streamgo.vip:8008/images/93938b39864b699c3de966d602dcfaea.png" group-title="⭐️ México",*MX | AZ MUNDO
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330312
-#EXTINF:-1 tvg-name="*MX | Bandamax SD" tvg-logo="http://streamgo.vip:8008/images/967e1375546a25085abedd96e2601bec.png" group-title="⭐️ México",*MX | Bandamax SD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330313
-#EXTINF:-1 tvg-name="*MX | Canal 5" tvg-logo="http://streamgo.vip:8008/images/daa2f5f764534c728802320fd2d9e91c.png" group-title="⭐️ México",*MX | Canal 5
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330314
-#EXTINF:-1 tvg-name="*MX | CANAL LAS ESTRELLAS" tvg-logo="http://streamgo.vip:8008/images/8557026f971b1a5927e4ec8ee38a033a.png" group-title="⭐️ México",*MX | CANAL LAS ESTRELLAS
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330315
-#EXTINF:-1 tvg-name="*MX | COMEDY CENTRAL" tvg-logo="http://streamgo.vip:8008/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="⭐️ México",*MX | COMEDY CENTRAL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330316
-#EXTINF:-1 tvg-name="*MX | Foro TV" tvg-logo="http://streamgo.vip:8008/images/22388cc073dd1888412f057d4d50b6e4.png" group-title="⭐️ México",*MX | Foro TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330317
-#EXTINF:-1 tvg-name="*MX | HGTV" tvg-logo="http://streamgo.vip:8008/images/76ca86e0e604ad30f58749fd741046e9.png" group-title="⭐️ México",*MX | HGTV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330318
-#EXTINF:-1 tvg-name="*MX | Multimedio" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",*MX | Multimedio
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330319
-#EXTINF:-1 tvg-name="*MX | Nu9ve" tvg-logo="http://streamgo.vip:8008/images/e72e6018c58455c9c06f4fa6a1905466.png" group-title="⭐️ México",*MX | Nu9ve
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330320
-#EXTINF:-1 tvg-name="MEX HD: Estrella TV" tvg-logo="http://streamgo.vip:8008/images/f06039b14c6a0dfef86b4f26c3f85c91.png" group-title="⭐️ México",MEX HD: Estrella TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330321
-#EXTINF:-1 tvg-name="MEX HD: SKY" tvg-logo="http://streamgo.vip:8008/images/db81bb26eea2c0840c393b46b4fb9992.png" group-title="⭐️ México",MEX HD: SKY
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330322
-#EXTINF:-1 tvg-name="Mex: Bitme SD" tvg-logo="http://streamgo.vip:8008/images/fce8d3a065fbb21ab498acf4d30d863a.png" group-title="⭐️ México",Mex: Bitme SD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330323
-#EXTINF:-1 tvg-name="MX | ADN 40" tvg-logo="http://streamgo.vip:8008/images/a3afd164386a5340a36516b569d09ad1.png" group-title="⭐️ México",MX | ADN 40
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330324
-#EXTINF:-1 tvg-name="MX | AZ Cinema HD (J)" tvg-logo="http://streamgo.vip:8008/images/fdff3932528d5fd5df3b1bc32b40732f.png" group-title="⭐️ México",MX | AZ Cinema HD (J)
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330325
-#EXTINF:-1 tvg-name="MX | AZTECA 1 HD*" tvg-logo="http://streamgo.vip:8008/images/76b9e229fa0020b2b52794c06dbebe1f.png" group-title="⭐️ México",MX | AZTECA 1 HD*
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330326
-#EXTINF:-1 tvg-name="MX | AZTECA 7 HD" tvg-logo="http://streamgo.vip:8008/images/e47965de2852d6b7c244d1fb621a12e2.png" group-title="⭐️ México",MX | AZTECA 7 HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330327
-#EXTINF:-1 tvg-name="MX | AZTECA CLICK*" tvg-logo="http://streamgo.vip:8008/images/765961a1f5624f512b62445b5a03727c.png" group-title="⭐️ México",MX | AZTECA CLICK*
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330328
-#EXTINF:-1 tvg-name="MX | AZTECA UNO" tvg-logo="http://streamgo.vip:8008/images/22a2fb6bfde90e4bcb19780f61c61459.png" group-title="⭐️ México",MX | AZTECA UNO
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330329
-#EXTINF:-1 tvg-name="MX | CANAL 4" tvg-logo="http://streamgo.vip:8008/images/f0a0e7e2c718421bb93dfff831f7a5cc.png" group-title="⭐️ México",MX | CANAL 4
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330330
-#EXTINF:-1 tvg-name="MX | CANAL 8" tvg-logo="http://streamgo.vip:8008/images/b54cbfb1271c76a9576bcb5a343884e0.png" group-title="⭐️ México",MX | CANAL 8
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330331
-#EXTINF:-1 tvg-name="MX | CANAL ONCE" tvg-logo="http://streamgo.vip:8008/images/67c8adbada6ca97aca294e28806a79da.png" group-title="⭐️ México",MX | CANAL ONCE
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330332
-#EXTINF:-1 tvg-name="MX | DISTRITO COMEDIA 2" tvg-logo="http://streamgo.vip:8008/images/d344f931944a542a915cc055a0447f1e.png" group-title="⭐️ México",MX | DISTRITO COMEDIA 2
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330333
-#EXTINF:-1 tvg-name="MX | DISTRITO COMEDIA*" tvg-logo="http://streamgo.vip:8008/images/d344f931944a542a915cc055a0447f1e.png" group-title="⭐️ México",MX | DISTRITO COMEDIA*
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330334
-#EXTINF:-1 tvg-name="MX | Film & Arts" tvg-logo="http://streamgo.vip:8008/images/5fe29111a7f90d8a8bea5d80552d2828.png" group-title="⭐️ México",MX | Film & Arts
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330335
-#EXTINF:-1 tvg-name="MX | HD AZ MUNDO" tvg-logo="http://streamgo.vip:8008/images/50cb806ba0abe7c4d2e8fe1703ccab35.png" group-title="⭐️ México",MX | HD AZ MUNDO
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330336
-#EXTINF:-1 tvg-name="MX | HD AZTECA CORAZON" tvg-logo="http://streamgo.vip:8008/images/bdb1adf80060443635684964dfc34ac7.png" group-title="⭐️ México",MX | HD AZTECA CORAZON
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330337
-#EXTINF:-1 tvg-name="MX | HOLA TV" tvg-logo="http://streamgo.vip:8008/images/1a2bd452adcd639dafee9df748b0c90d.png" group-title="⭐️ México",MX | HOLA TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330338
-#EXTINF:-1 tvg-name="MX | Imagen TV HD" tvg-logo="http://streamgo.vip:8008/images/b5fc0e0aa250eea9e18a0490f90f752d.png" group-title="⭐️ México",MX | Imagen TV HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330339
-#EXTINF:-1 tvg-name="MX | MORBIDO TV*" tvg-logo="http://streamgo.vip:8008/images/728be005006caec8b192d71658219921.png" group-title="⭐️ México",MX | MORBIDO TV*
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330340
-#EXTINF:-1 tvg-name="MX | Más Chic" tvg-logo="http://streamgo.vip:8008/images/843b40c3efe0f16267d3b9beb869969b.png" group-title="⭐️ México",MX | Más Chic
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330341
-#EXTINF:-1 tvg-name="MX | TELENOVELAS" tvg-logo="http://streamgo.vip:8008/images/f30d99b3165d1bb18ea01137ce6db2bd.png" group-title="⭐️ México",MX | TELENOVELAS
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330342
-#EXTINF:-1 tvg-name="MX | TELENOVELAS | op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="⭐️ México",MX | TELENOVELAS | op2
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330343
-#EXTINF:-1 tvg-name="MX | UNICABLE*" tvg-logo="http://streamgo.vip:8008/images/44f6a284772fb9c01820bf55ae6d6287.png" group-title="⭐️ México",MX | UNICABLE*
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330344
-#EXTINF:-1 tvg-name="MX| AZ CLIC" tvg-logo="http://streamgo.vip:8008/images/b60e0292bc9244449c6358c7c44d8db7.png" group-title="⭐️ México",MX| AZ CLIC
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330345
-#EXTINF:-1 tvg-name="MX| AZTECA CORAZON" tvg-logo="http://streamgo.vip:8008/images/bdb1adf80060443635684964dfc34ac7.png" group-title="⭐️ México",MX| AZTECA CORAZON
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330346
-#EXTINF:-1 tvg-name="TV UNAM" tvg-logo="http://streamgo.vip:8008/images/459bddf1be4d159cca6b0d7baa914443.png" group-title="⭐️ México",TV UNAM
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330347
-#EXTINF:-1 tvg-name="AMX Noticias" tvg-logo="http://streamgo.vip:8008/images/1fd6392d40545b76cb3f22ed69a99efa.png" group-title="⭐️ México",AMX Noticias
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330348
-
-
-
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="葡萄牙语",GLOBO RJ FHD
-http://joao-1-us.mainbkonline.shop:80/464744816517pw/406967630903/362
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="葡萄牙语",A&E FHD
-http://joao-1-us.mainbkonline.shop:80/464744816517pw/406967630903/851
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="葡萄牙语",AMC FHD
-http://joao-1-us.mainbkonline.shop:80/464744816517pw/406967630903/840
-#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ FHD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="葡萄牙语",SBT RJ FHD
-http://joao-1-us.mainbkonline.shop:80/464744816517pw/406967630903/370
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="葡萄牙语",CNN BRASIL FHD
-http://joao-1-us.mainbkonline.shop:80/464744816517pw/406967630903/306
 
 
 #EXTINF:-1 tvg-name="KIDS | BABY TV" tvg-logo="http://streamgo.vip:8008/images/3089c9e63f0cef472efbb9a61fe86690.png" group-title="⭐️ Infantiles",KIDS | BABY TV
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321969
-#EXTINF:-1 tvg-name="KIDS | BOOMERANG" tvg-logo="http://streamgo.vip:8008/images/00d2558f5293db4b9586f98a1d82e87d.png" group-title="⭐️ Infantiles",KIDS | BOOMERANG
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321972
 #EXTINF:-1 tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://streamgo.vip:8008/images/a3c887176bd3380e87991b388d0addd5.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321974
 #EXTINF:-1 tvg-name="KIDS | CARTOONITO" tvg-logo="http://streamgo.vip:8008/images/48cbe286e8362b806b89060f5c7da779.png" group-title="⭐️ Infantiles",KIDS | CARTOONITO
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321975
-#EXTINF:-1 tvg-name="KIDS | DISCOVERY KIDS" tvg-logo="http://streamgo.vip:8008/images/73dcdb6668b035aeaf545b73dbf45117.png" group-title="⭐️ Infantiles",KIDS | DISCOVERY KIDS
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321976
 #EXTINF:-1 tvg-name="KIDS | DISNEY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/e4138f859a99a4c0e74fd86e8bf841fa.png" group-title="⭐️ Infantiles",KIDS | DISNEY CHANNEL
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321978
 #EXTINF:-1 tvg-name="KIDS | DISNEY JUNIOR" tvg-logo="http://streamgo.vip:8008/images/8e0a861abae14ade6ee7277ef572ac01.png" group-title="⭐️ Infantiles",KIDS | DISNEY JUNIOR
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321981
 #EXTINF:-1 tvg-name="KIDS | NICK JUNIOR" tvg-logo="http://streamgo.vip:8008/images/1fda1dc4702303bc89e64f9fd332143b.png" group-title="⭐️ Infantiles",KIDS | NICK JUNIOR
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321983
-#EXTINF:-1 tvg-name="KIDS | NICKELODEON" tvg-logo="http://streamgo.vip:8008/images/bb1267a4ee4ec3d49c675a66c9560c58.png" group-title="⭐️ Infantiles",KIDS | NICKELODEON
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321984
 #EXTINF:-1 tvg-name="TVG Infantil" tvg-logo="http://127.0.0.1/" group-title="⭐️ Infantiles",TVG Infantil
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321986
 
