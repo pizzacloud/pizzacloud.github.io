@@ -435,13 +435,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png"group-title="西班牙电视",La 1 HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178032
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙电视",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+http://darg.site:2082/P23002002/UgmrfwqcFsbD/178035
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="西班牙电视",Canal 24 Horas
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+http://darg.site:2082/P23002002/UgmrfwqcFsbD/178049
 #EXTINF:-1 group-title="西班牙电视",Antena 3 HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178038
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="09- CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="西班牙电视",CUATRO HD
-http://flashprinttv.com:2086/ZVcPNWCJ6STg/QuqbdQk9mqZM/336175
+http://darg.site:2082/P23002002/UgmrfwqcFsbD/178041
 #EXTINF:-1 group-title="西班牙电视",Telecinco HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178044
 #EXTINF:-1 tvg-name="LA SEXTA" tvg-logo="http://streamgo.vip:8008/images/966ee4301686bd3293f32284a44274d5.png" group-title="西班牙电视",LA SEXTA
