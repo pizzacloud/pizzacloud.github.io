@@ -426,11 +426,11 @@ http://darg.site:2082/P23002002/UgmrfwqcFsbD/178032
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178035
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="西班牙电视",Canal 24 Horas
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178049
-#EXTINF:-1 group-title="西班牙电视",Antena 3 HD
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/96e0af61777e711d54bc88e44a102ef8.jpg" group-title="西班牙电视",Antena 3 HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178038
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="09- CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="西班牙电视",CUATRO HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178041
-#EXTINF:-1 group-title="西班牙电视",Telecinco HD
+#EXTINF:-1 tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="西班牙电视",Telecinco HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178044
 #EXTINF:-1 tvg-name="LA SEXTA" tvg-logo="http://streamgo.vip:8008/images/966ee4301686bd3293f32284a44274d5.png" group-title="西班牙电视",LA SEXTA
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323991
@@ -471,7 +471,7 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323942
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323943
 #EXTINF:-1 tvg-name="MyTIME MOVIE NETWORK" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",MyTIME MOVIE NETWORK
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323944
-3041b87f49c9700bb3b929c737953f71.png" group-title="西班牙电视",CANAL COCINA HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="http://streamgo.vip:8008/images/3041b87f49c9700bb3b929c737953f71.png" group-title="西班牙电视",CANAL COCINA HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323955
 #EXTINF:-1 tvg-name="CANAL DECASA" tvg-logo="http://streamgo.vip:8008/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="西班牙电视",CANAL DECASA
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323956
@@ -557,9 +557,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkSpain.es" tvg-logo="" group-title="拉美电视",MyTime movie network Spain 
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336527
-ñ¡'+#EXTINF:-1 tvg-name="BOL : RTP HD" tvg-logo="http://streamgo.vip:8008/images/bca2e8d62b6108a9ea74d0e84d02c6cf.png" group-title="拉美电视",BOL : RTP HD
+#EXTINF:-1 tvg-name="BOL : RTP HD" tvg-logo="http://streamgo.vip:8008/images/bca2e8d62b6108a9ea74d0e84d02c6cf.png" group-title="拉美电视",BOL : RTP HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png" group-title="拉美电视",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
@@ -568,33 +566,33 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/338803
 
 
 
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际其他",半岛阿语
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他语种",半岛阿语
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="国际其他",韩·SBS
+#EXTINF:-1 group-title="其他语种",韩·SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="国际其他",韩·KoreaTV
+#EXTINF:-1 group-title="其他语种",韩·KoreaTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",韩·TBS
+#EXTINF:-1 group-title="其他语种",韩·TBS
 https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",韩·EBS1
+#EXTINF:-1 group-title="其他语种",韩·EBS1
 https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",韩·EBS2
+#EXTINF:-1 group-title="其他语种",韩·EBS2
 https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",韩·EBSe
+#EXTINF:-1 group-title="其他语种",韩·EBSe
 https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",韩·NBS
+#EXTINF:-1 group-title="其他语种",韩·NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="国际其他",越·HBTV
+#EXTINF:-1 group-title="其他语种",越·HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="国际其他",日本QVC
+#EXTINF:-1 group-title="其他语种",日本QVC
 https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="国际其他",日本Shop Channel
+#EXTINF:-1 group-title="其他语种",日本Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="国际其他",长城精品
+#EXTINF:-1 group-title="其他语种",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="国际其他",VB
+#EXTINF:-1 group-title="其他语种",VB
 https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 
