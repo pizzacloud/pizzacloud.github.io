@@ -276,12 +276,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="英语频道",CNN International Europe
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://live.fanmingming.com/tv/cnn.png" group-title="英语频道",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="英语频道",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="ABCTVNSW.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="英语频道",ABC TV Sydney
-https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="英语频道",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="英语频道",Africanews
