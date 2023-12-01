@@ -89,6 +89,9 @@ https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
 https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+#EXTINF:-1 tvg-id="宁波一套" tvg-name="宁波一套" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",宁波一套
+http://www.372583307.top:4022/udp/233.50.201.168:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视IPV6",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视IPV6",东方卫视
