@@ -47,9 +47,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/32212278
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="CGTN",CGTN英语
+#EXTINF:-1,tvg-id="CGTN英语" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="CGTN",CGTN英语
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/CGTN记录.png" group-title="CGTN",CGTN记录
+#EXTINF:-1,tvg-id="CGTN记录" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/CGTN记录.png" group-title="CGTN",CGTN记录
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225645/2/index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CGTN",CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
