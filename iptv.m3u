@@ -345,8 +345,6 @@ http://livetv.ktv.zone/116/play.m3u8
 http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="法语频道",TF1 Series Films
 http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1 tvg-id="TFM.sn" tvg-logo="https://i.imgur.com/IJ3ZX1F.png" group-title="法语频道",TFM
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="法语频道",TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="法语频道" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV
