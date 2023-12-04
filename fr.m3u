@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="法语频道",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="法语频道",TF1
@@ -19,7 +17,7 @@ http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TF1 +1 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51770
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="法语频道",TFX
-http://livetv.ktv.zone/13/play.m3u8
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5208
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="法语频道" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
@@ -62,8 +60,6 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MYTF1 MAX  HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99333
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| M6 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 6Ter HD
@@ -92,8 +88,6 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5158
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9869
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ SERIES HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5157
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ CLUB HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51767
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ CLASSIC HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5228
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ FAMIZ HD
@@ -114,10 +108,6 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5221
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 13eme RUE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5222
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TFX HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5208
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| RTL9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| SYFY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5211
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TMC HD
@@ -128,60 +118,32 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5212
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5213
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ROUGE TV
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9800
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NOVELAS TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71636
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ANIMAUX HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5265
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NAT GEO WILD HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5260
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NATIONAL GEOGRAPHIC FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NATIONAL GEO HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5261
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISCOVERY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5263
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISCOVERY INVESTIGATION HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11426
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Discovery Family HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51772
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| PLANET+ HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5259
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| HISTOIRE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5253
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MUSEUM HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69296
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| VICE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72427
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 1 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92649
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 2 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92648
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 3 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92647
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 4 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92646
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 5 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92645
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 6 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92644
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 7 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92643
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 8 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92642
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 9 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92832
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Equipe21 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5187
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISNEY CHANNEL
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5246
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Cartoon Network HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| E! Entertainment
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9820
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TRACE Urban
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18357
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ONE TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17854
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| RFM TV HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17853
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TVM3 HD
@@ -216,25 +178,3 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9798
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9794
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV Hits
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9793
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV Dance
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9792
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NRJ HITS
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9791
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Nollywood TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87830
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 01
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9589
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 02
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9588
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 03
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9587
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 04
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9586
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 05
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9585
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 06
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9584
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 07
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9583
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 08
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9582
