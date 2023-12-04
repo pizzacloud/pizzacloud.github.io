@@ -1,34 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| VIRGIN MEDIA ONE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/68782
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| VIRGIN MEDIA SPORT
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/68785
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| VIRGIN MEDIA THREE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/68784
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| VIRGIN MEDIA TWO
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/68783
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC ONE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63608
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC TWO FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63609
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ITV1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63610
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| CHANNEL 4 FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63611
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| CHANNEL 5 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63612
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY ONE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63613
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY WITNESS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63614
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY ATLANTIC FHD *
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63615
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY ARTS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63616
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CRIME FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63617
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ITV2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63618
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ITV3 FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63619
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ITV4 FHD
@@ -37,193 +9,23 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63620
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63621
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| W FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63622
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| GOLD FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63623
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| DAVE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63624
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| COMEDY CENT FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63625
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SYFY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63626
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| E! FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63627
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| FOX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63628
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| DISCOVERY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63629
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| MTV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63630
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| NAT GEO FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63631
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| NAT GEO WILD FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63632
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| HISTORY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63633
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| H2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63634
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ALIBI FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63635
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| TLC FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63636
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| E4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63637
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| MORE4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63638
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| 4SEVEN FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63639
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| QUEST FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63640
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| CRIME+INV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63641
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63629英语| QUEST FHD
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ANIMAL PLANT FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63642
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| PARAMOUNT FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63643
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| TCM FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63644
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| EDEN FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63645
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| FILM 4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63646
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| LIFETIME FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63647
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| LOVE NATURE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63648
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| UTV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63649
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| STV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63650
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC FOUR FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63651
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC NEWS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63652
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC SCOTLAND FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63653
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BLOOMBERG FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63654
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY NEWS FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63655
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| CARTOON NETWORK FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63656
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| NICK FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63657
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| CBBC FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63658
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| CBEEBIES FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63659
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| MTV LIVE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63660
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC TWO FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC FOUR FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63661
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BBC ONE FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63662
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS NFL FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72742
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| Rangers FC TV (Live During Match Only)
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72721
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS MAIN EVENT FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63664
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS PREMIER LEAGUE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63665
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS FOOTBALL FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63666
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS CRICKET FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63667
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS GOLF FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63668
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS F1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63669
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS ACTION FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63670
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS ARENA FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63671
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS MIX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63672
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS RACING FHD (2AM OFF-AUTO BOOT 6.30AM)
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63673
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY SPORTS NEWS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63674
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA PREMIER FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63675
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA HITS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63676
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA FAMILY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63677
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA COMEDY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63678
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA DISNEY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63679
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA ACTION FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63680
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA DRAMA FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63681
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA SCI-FI FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63682
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA THRILLER FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63683
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA GREATS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63684
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA SELECT/OSCARS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63685
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| DAVE JA VU SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/70272
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY NATURE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/70165
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY DOCUMENTARIES FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/70164
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| EUROSPORT 1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63686
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| EUROSPORT 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63687
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| RACING TV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63688
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| LFC TV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63689
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| FREESPORTS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63690
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| PREMIER SPORT 1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63691
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| PREMIER SPORT 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63692
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BT SPORTS 1 FHD 50Fps
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63693
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BT SPORTS 2 FHD 50Fps
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63694
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BT SPORTS 3 FHD 50Fps
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63695
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| BT SPORTS ESPN FHD 50Fps
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63696
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SONY TV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63697
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SONY MAX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63698
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| STAR GOLD FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63699
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| STAR PLUS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63700
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| ZEE CINEMA FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63701
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| COLOURS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63702
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA PREMIER 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63715
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA HITS 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63716
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA FAMILY 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63717
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA COMEDY 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63718
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA DISNEY 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63719
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA ACTION 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63720
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA DRAMA 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63721
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA SCI-FI 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63722
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA THRILLER 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63723
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA GREATS 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63724
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语频道",|英语| SKY CINEMA SELECT/OSCARS 50FPS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63725
