@@ -16,6 +16,8 @@ http://livetv.ktv.zone/116/play.m3u8
 http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="法语频道",TF1 Series Films
 http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TF1 +1 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51770
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="法语频道",TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="法语频道" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV
@@ -59,969 +61,180 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="法语频道",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1,|FR| TF1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18341
-#EXTINF:-1,|FR| TF1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5175
-#EXTINF:-1,|FR| TF1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9764
-#EXTINF:-1,|FR| TF1 +1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51770
-#EXTINF:-1,|FR| TF1 +1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51771
-#EXTINF:-1,|FR| TF1 Series Films FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18342
-#EXTINF:-1,|FR| TF1 Series Film HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5280
-#EXTINF:-1,|FR| MYTF1 MAX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99334
-#EXTINF:-1,|FR| MYTF1 MAX  HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MYTF1 MAX  HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99333
-#EXTINF:-1,|FR| MYTF1 MAX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99332
-#EXTINF:-1,|FR| M6 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18339
-#EXTINF:-1,|FR| M6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| M6 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
-#EXTINF:-1,|FR| M6
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9763
-#EXTINF:-1,|FR| FRANCE 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69294
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5173
-#EXTINF:-1,|FR| FRANCE2
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9762
-#EXTINF:-1,|FR| FRANCE 3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18338
-#EXTINF:-1,|FR| FRANCE 3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5172
-#EXTINF:-1,|FR| FRANCE3
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9761
-#EXTINF:-1,|FR| FRANCE 4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18337
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5171
-#EXTINF:-1,|FR| FRANCE4
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9760
-#EXTINF:-1,|FR| FRANCE 5 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18336
-#EXTINF:-1,|FR| FRANCE 5 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5170
-#EXTINF:-1,|FR| FRANCE5
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9759
-#EXTINF:-1,|FR| 6ter FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18330
-#EXTINF:-1,|FR| 6Ter HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 6Ter HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5167
-#EXTINF:-1,|FR| 6Ter
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9757
-#EXTINF:-1,|FR| W9 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18334
-#EXTINF:-1,|FR| W9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| W9 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5166
-#EXTINF:-1,|FR| W9
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9756
-#EXTINF:-1,|FR| ARTE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18332
-#EXTINF:-1,|FR| ARTE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ARTE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5168
-#EXTINF:-1,|FR| ARTE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9753
-#EXTINF:-1,|FR| Cherie25 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18331
-#EXTINF:-1,|FR| CHERIE25 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CHERIE25 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5163
-#EXTINF:-1,|FR| CHERIE 25
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9752
-#EXTINF:-1,|FR| NRJ12 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18329
-#EXTINF:-1,|FR| NRJ12 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NRJ12 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5161
-#EXTINF:-1,|FR| NRJ12
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9751
-#EXTINF:-1,|FR| TV5 MONDE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5162
-#EXTINF:-1,|FR| TV5 MONDE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TV5 MONDE
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9750
-#EXTINF:-1,|FR| C8 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72428
-#EXTINF:-1,|FR| C8 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| C8 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5165
-#EXTINF:-1,|FR| C8
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9755
-#EXTINF:-1,|FR| CStar HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5164
-#EXTINF:-1,|FR| CStar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CStar
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9754
-#EXTINF:-1,|FR| CANAL+ FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18343
-#EXTINF:-1,|FR| CANAL+ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5160
-#EXTINF:-1,|FR| CANAL+
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9872
-#EXTINF:-1,|FR| CANAL+ CINEMA FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18344
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5159
-#EXTINF:-1,|FR| CANAL+ CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ CINEMA
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9871
-#EXTINF:-1,|FR| CANAL+ FAMILY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18346
-#EXTINF:-1,|FR| CANAL+ FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ FAMILY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5158
-#EXTINF:-1,|FR| CANAL+ KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ KIDS
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9869
-#EXTINF:-1,|FR| CANAL+ SERIES FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19369
-#EXTINF:-1,|FR| CANAL+ SERIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ SERIES HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5157
-#EXTINF:-1,|FR| CANAL+ SERIES
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9868
-#EXTINF:-1,|FR| CINE+ CLUB FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72441
-#EXTINF:-1,|FR| CINE+ CLUB HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ CLUB HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51767
-#EXTINF:-1,|FR| CINE+ CLUB
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51768
-#EXTINF:-1,|FR| CINE+ CLASSIC FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72442
-#EXTINF:-1,|FR| CINE+ CLASSIC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ CLASSIC HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5228
-#EXTINF:-1,|FR| CINE+ CLASSIC
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9866
-#EXTINF:-1,|FR| CINE+ FAMIZ FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72444
-#EXTINF:-1,|FR| CINE+ FAMIZ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ FAMIZ HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5223
-#EXTINF:-1,|FR| CINE+ FAMIZ
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9865
-#EXTINF:-1,|FR| CINE+ FRISSON FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72445
-#EXTINF:-1,|FR| CINE+ FRISSON HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ FRISSON HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5227
-#EXTINF:-1,|FR| CINE+ FRISSON
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9864
-#EXTINF:-1,|FR| POLAR+  FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72432
-#EXTINF:-1,|FR| POLAR+ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| POLAR+ HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5225
-#EXTINF:-1,|FR| POLAR+
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9862
-#EXTINF:-1,|FR| CINE+ EMOTION FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72443
-#EXTINF:-1,|FR| CINE+ EMOTION HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ EMOTION HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5226
-#EXTINF:-1,|FR| CINE EMOTION
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9860
-#EXTINF:-1,|FR| CINE+ PREMIER FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72446
-#EXTINF:-1,|FR| CINE+ PREMIERE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ PREMIERE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5224
-#EXTINF:-1,|FR| CINE PREMIERE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9861
-#EXTINF:-1,|FR| PARIS PREMIERE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72436
-#EXTINF:-1,|FR| PARIS PREMIERE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| PARIS PREMIERE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5805
-#EXTINF:-1,|FR| PARIS PREMIERE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9848
-#EXTINF:-1,|FR| OCS CHOC FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72437
-#EXTINF:-1,|FR| OCS CHOC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5220
-#EXTINF:-1,|FR| OCS CHOC
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9859
-#EXTINF:-1,|FR| OCS CITY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72439
-#EXTINF:-1,|FR| OCS CITY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| OCS CITY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
-#EXTINF:-1,|FR| OCS CITY
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9858
-#EXTINF:-1,|FR| OCS MAX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72440
-#EXTINF:-1,|FR| OCS MAX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| OCS MAX HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5221
-#EXTINF:-1,|FR| OCS MAX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9857
-#EXTINF:-1,|FR| OCS GEANTS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72438
-#EXTINF:-1,|FR| OCS Geants HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5218
-#EXTINF:-1,|FR| OCS Geants
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9856
-#EXTINF:-1,|FR| ACTION FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72876
-#EXTINF:-1,|FR| ACTION HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5209
-#EXTINF:-1,|FR| ACTION
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9855
-#EXTINF:-1,|FR| 13eme RUE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72430
-#EXTINF:-1,|FR| 13eme RUE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 13eme RUE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5222
-#EXTINF:-1,|FR| 13eme RUE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9873
-#EXTINF:-1,|FR| TFX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92565
-#EXTINF:-1,|FR| TFX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TFX HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5208
-#EXTINF:-1,|FR| TFX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9854
-#EXTINF:-1,|FR| RTL9 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92564
-#EXTINF:-1,|FR| RTL9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5207
-#EXTINF:-1,|FR| RTL9
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9853
-#EXTINF:-1,|FR| SYFY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72433
-#EXTINF:-1,|FR| SYFY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| RTL9 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| SYFY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5211
-#EXTINF:-1,|FR| SYFY
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9852
-#EXTINF:-1,|FR| TMC FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72429
-#EXTINF:-1,|FR| TMC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TMC HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5210
-#EXTINF:-1,|FR| TMC
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9851
-#EXTINF:-1,|FR| TCM CINEMA FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92566
-#EXTINF:-1,|FR| TCM CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TCM CINEMA HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5212
-#EXTINF:-1,|FR| TCM CINEMA
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9850
-#EXTINF:-1,|FR| SERIE CLUB FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72431
-#EXTINF:-1,|FR| SERIE CLUB HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| SERIE CLUB HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5213
-#EXTINF:-1,|FR| SERIE CLUB
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9849
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72435
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5214
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9847
-#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72434
-#EXTINF:-1,|FR| PARAMOUNT DECALE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92567
-#EXTINF:-1,|FR| ROUGE TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5232
-#EXTINF:-1,|FR| ROUGE TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ROUGE TV
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9800
-#EXTINF:-1,|FR| NOVELAS TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NOVELAS TV HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71636
-#EXTINF:-1,|FR| NOVELAS TV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71635
-#EXTINF:-1,|FR| CANAL+ DOCS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/93975
-#EXTINF:-1,|FR| ANIMAUX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72467
-#EXTINF:-1,|FR| ANIMAUX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ANIMAUX HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5265
-#EXTINF:-1,|FR| ANIMAUX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9846
-#EXTINF:-1,|FR| USHUAIA TV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72466
-#EXTINF:-1,|FR| Ushuaia HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5264
-#EXTINF:-1,|FR| Ushuaia
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9845
-#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC WILD FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72461
-#EXTINF:-1,|FR| NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NAT GEO WILD HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5260
-#EXTINF:-1,|FR| NAT GEO WILD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9844
-#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NATIONAL GEOGRAPHIC FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72462
-#EXTINF:-1,|FR| NATIONAL GEO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NATIONAL GEO HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5261
-#EXTINF:-1,|FR| NATIONAL GEO
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9843
-#EXTINF:-1,|FR| DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISCOVERY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5263
-#EXTINF:-1,|FR| DISCOVERY
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9842
-#EXTINF:-1,|FR| DISCOVERY CH FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72460
-#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72459
-#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5262
-#EXTINF:-1,|FR| DISCOVERY SCIENCE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9841
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72457
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISCOVERY INVESTIGATION HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11426
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9875
-#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72458
-#EXTINF:-1,|FR| Discovery Family HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Discovery Family HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51772
-#EXTINF:-1,|FR| Discovery Family
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51773
-#EXTINF:-1,|FR| PLANETE + FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72463
-#EXTINF:-1,|FR| PLANET+ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| PLANET+ HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5259
-#EXTINF:-1,|FR| PLANET+
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9840
-#EXTINF:-1,|FR| PLANETE + CI FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72465
-#EXTINF:-1,|FR| PLANETE CI HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5258
-#EXTINF:-1,|FR| PLANETE CI
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9839
-#EXTINF:-1,|FR| PLANETE + A&E FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72464
-#EXTINF:-1,|FR| PLANETE A-E HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5257
-#EXTINF:-1,|FR| PLANETE A-E
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9838
-#EXTINF:-1,|FR| RMC STORY FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72453
-#EXTINF:-1,|FR| RMC STORY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18362
-#EXTINF:-1,|FR| RMC STORY
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51766
-#EXTINF:-1,|FR| RMC DECOUVERTE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72454
-#EXTINF:-1,|FR| RMC Decouverte HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5256
-#EXTINF:-1,|FR| RMC Decouverte
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9837
-#EXTINF:-1,|FR| SCIENCE ET VIE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72455
-#EXTINF:-1,|FR| SCIENCE ET VIE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5255
-#EXTINF:-1,|FR|  SCIENCE ET VIE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9836
-#EXTINF:-1,|FR| VOYAGE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5254
-#EXTINF:-1,|FR| SEASONS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72448
-#EXTINF:-1,|FR| SEASON HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5250
-#EXTINF:-1,|FR| SEASON
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9834
-#EXTINF:-1,|FR| CHASSE & PECHE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72447
-#EXTINF:-1,|FR| CHASSE ET PECHE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5251
-#EXTINF:-1,|FR| CHASSE ET PECHE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9833
-#EXTINF:-1,|FR| HISTOIRE TV FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72452
-#EXTINF:-1,|FR| HISTOIRE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| HISTOIRE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5253
-#EXTINF:-1,|FR| HISTOIRE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9832
-#EXTINF:-1,|FR| TOUTE L HISTOIRE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72451
-#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5252
-#EXTINF:-1,|FR| TOUTE L'HISTOIRE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9831
-#EXTINF:-1,|FR| TREK FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72450
-#EXTINF:-1,|FR| Trek HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5249
-#EXTINF:-1,|FR| Trek
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9830
-#EXTINF:-1,|FR| CRIME DISTCRIT FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72456
-#EXTINF:-1,|FR| CRIME DISTRICT HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11423
-#EXTINF:-1,|FR| CRIME DISTRICT
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11424
-#EXTINF:-1,|FR| MUSEUM FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69297
-#EXTINF:-1,|FR| MUSEUM HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MUSEUM HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69296
-#EXTINF:-1,|FR| VICE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| VICE FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72427
-#EXTINF:-1,|FR| CANAL+ SPORT FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19370
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5156
-#EXTINF:-1,|FR| CANAL+ SPORT
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9867
-#EXTINF:-1,|FR| CANAL+ SPORT 1HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99331
-#EXTINF:-1,|FR| CANAL+ SPORT 2HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99330
-#EXTINF:-1,|FR| CANAL+ SPORT 3HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99329
-#EXTINF:-1,|FR| CANAL+ SPORT 4HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99328
-#EXTINF:-1,|FR| CANAL+ SPORT 5HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99327
-#EXTINF:-1,|FR| CANAL+ SPORT 360 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99264
-#EXTINF:-1,|FR| CANAL+ FOOT HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99263
-#EXTINF:-1,|FR| CANAL+ LIGUE 1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87782
-#EXTINF:-1,|FR| CANAL+ TOP14
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87841
-#EXTINF:-1,|FR| CANAL+ PREMIER LEAGUE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87840
-#EXTINF:-1,|FR| CANAL+ (ligue1) MOTOGP
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87839
-#EXTINF:-1,|FR| CANAL+ LIGUE1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87838
-#EXTINF:-1,|FR| CANAL+ FORMULA1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87837
-#EXTINF:-1,|FR| AMAZON PRIME 1 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 1 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92649
-#EXTINF:-1,|FR| AMAZON PRIME 2 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 2 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92648
-#EXTINF:-1,|FR| AMAZON PRIME 3 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 3 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92647
-#EXTINF:-1,|FR| AMAZON PRIME 4 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 4 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92646
-#EXTINF:-1,|FR| AMAZON PRIME 5 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 5 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92645
-#EXTINF:-1,|FR| AMAZON PRIME 6 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 6 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92644
-#EXTINF:-1,|FR| AMAZON PRIME 7 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 7 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92643
-#EXTINF:-1,|FR| AMAZON PRIME 8 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 8 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92642
-#EXTINF:-1,|FR| AMAZONE PRIME 8 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92849
-#EXTINF:-1,|FR| AMAZONE PRIME 7 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92848
-#EXTINF:-1,|FR| AMAZONE PRIME 6 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92847
-#EXTINF:-1,|FR| AMAZONE PRIME 5 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92846
-#EXTINF:-1,|FR| AMAZONE PRIME 4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92845
-#EXTINF:-1,|FR| AMAZONE PRIME 3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92844
-#EXTINF:-1,|FR| AMAZONE PRIME 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92843
-#EXTINF:-1,|FR| AMAZONE PRIME 1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92842
-#EXTINF:-1,|FR| AMAZON PRIME 9 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92841
-#EXTINF:-1,|FR| AMAZON PRIME 8 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92840
-#EXTINF:-1,|FR| AMAZON PRIME 7 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92839
-#EXTINF:-1,|FR| AMAZON PRIME 6 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92838
-#EXTINF:-1,|FR| AMAZON PRIME 5 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92837
-#EXTINF:-1,|FR| AMAZON PRIME 4 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92836
-#EXTINF:-1,|FR| AMAZON PRIME 3 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92835
-#EXTINF:-1,|FR| AMAZON PRIME 2 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92834
-#EXTINF:-1,|FR| AMAZON PRIME 1 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92833
-#EXTINF:-1,|FR| AMAZON PRIME 9 HD ( ONLY EVENTS )
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 9 HD ( ONLY EVENTS )
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92832
-#EXTINF:-1,|FR| AMAZONE PRIME DIMANCHE SOIR FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92851
-#EXTINF:-1,|FR| AMAZONE PRIME MULTIPLEX FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92850
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 8 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94413
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 7 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94412
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 6 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94411
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 5 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94410
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 4 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94409
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 3 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94408
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 2 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94407
-#EXTINF:-1,|FR| AMAZON LIGUE DEUX 1 Full HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/94406
-#EXTINF:-1,|FR| MULTISPORTS 1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/79318
-#EXTINF:-1,|FR| MULTISPORTS 2
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/79317
-#EXTINF:-1,|FR| MULTISPORTS 3
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/79316
-#EXTINF:-1,|FR| MULTISPORTS 4
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/79315
-#EXTINF:-1,|FR| MULTISPORTS 5
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/79314
-#EXTINF:-1,|FR| MULTISPORTS 6
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/79313
-#EXTINF:-1,|FR| RMC Sport Live 1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71311
-#EXTINF:-1,|FR| RMC Sport Live 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5196
-#EXTINF:-1,|FR| RMC Sport Live 1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/47508
-#EXTINF:-1,|FR| RMC Sport Access 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9780
-#EXTINF:-1,|FR| RMC Sport Live 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71310
-#EXTINF:-1,|FR| RMC Sport Live 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5195
-#EXTINF:-1,|FR| RMC Sport Live 2
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/47507
-#EXTINF:-1,|FR| RMC Sport Access 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9779
-#EXTINF:-1,|FR| RMC Sport Live 3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71309
-#EXTINF:-1,|FR| RMC Sport Live 3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5194
-#EXTINF:-1,|FR| RMC Sport Live 3
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/47506
-#EXTINF:-1,|FR| RMC Sport Access 3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9778
-#EXTINF:-1,|FR| RMC Sport Live 4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71308
-#EXTINF:-1,|FR| RMC Sport Live 4 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19352
-#EXTINF:-1,|FR| RMC Sport Live 5 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5193
-#EXTINF:-1,|FR| RMC Sport Live 6 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19381
-#EXTINF:-1,|FR| RMC Sport Live 7 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19380
-#EXTINF:-1,|FR| RMC Sport Live 8 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19379
-#EXTINF:-1,|FR| RMC Sport Live 9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19378
-#EXTINF:-1,|FR| RMC Sport Live 10 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19377
-#EXTINF:-1,|FR| RMC Sport Live 11 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19376
-#EXTINF:-1,|FR| RMC Sport Live 12 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19375
-#EXTINF:-1,|FR| RMC Sport Live 13 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19374
-#EXTINF:-1,|FR| RMC Sport Live 14 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19373
-#EXTINF:-1,|FR| RMC Sport Live 15 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19372
-#EXTINF:-1,|FR| RMC Sport Live 16 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19371
-#EXTINF:-1,|FR| beIN SPORTS 1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18349
-#EXTINF:-1,|FR| beIN SPORTS 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19358
-#EXTINF:-1,|FR| beIN SPORTS 1 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9790
-#EXTINF:-1,|FR| beIN SPORTS 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18350
-#EXTINF:-1,|FR| beIN SPORTS 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19357
-#EXTINF:-1,|FR| beIN SPORTS 2 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9789
-#EXTINF:-1,|FR| beIN SPORTS 3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18351
-#EXTINF:-1,|FR| beIN SPORTS 3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/19356
-#EXTINF:-1,|FR| beIN SPORTS 3 SD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9788
-#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5203
-#EXTINF:-1,|FR| BEIN SPORT MAX 4
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9787
-#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5202
-#EXTINF:-1,|FR| BEIN SPORT MAX 5
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9786
-#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5201
-#EXTINF:-1,|FR| BEIN SPORT MAX 6
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9785
-#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5200
-#EXTINF:-1,|FR| BEIN SPORT MAX 7
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9784
-#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5199
-#EXTINF:-1,|FR| BEIN SPORT MAX 8
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9783
-#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5198
-#EXTINF:-1,|FR| BEIN SPORT MAX 9
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9782
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5197
-#EXTINF:-1,|FR| BEIN SPORT MAX 10
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9781
-#EXTINF:-1,|FR| EuroSport 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5191
-#EXTINF:-1,|FR| EuroSport 1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9776
-#EXTINF:-1,|FR| EuroSport 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5190
-#EXTINF:-1,|FR| EuroSport 2
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9775
-#EXTINF:-1,|FR| EUROSPORT 360 - 8 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99262
-#EXTINF:-1,|FR| EUROSPORT 360 - 7 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99261
-#EXTINF:-1,|FR| EUROSPORT 360 - 6 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99260
-#EXTINF:-1,|FR| EUROSPORT 360 - 5 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99259
-#EXTINF:-1,|FR| EUROSPORT 360 - 4 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99258
-#EXTINF:-1,|FR| EUROSPORT 360 - 3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99257
-#EXTINF:-1,|FR| EUROSPORT 360 - 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99256
-#EXTINF:-1,|FR| EUROSPORT 360 - 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/99255
-#EXTINF:-1,|FR| Infosport HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5192
-#EXTINF:-1,|FR| Infosport
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9774
-#EXTINF:-1,|FR| Foot24 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5189
-#EXTINF:-1,|FR| Foot24
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9773
-#EXTINF:-1,|FR| Equipe21 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Equipe21 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5187
-#EXTINF:-1,|FR| Equipe 21
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9772
-#EXTINF:-1,|FR| Golf+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17986
-#EXTINF:-1,|FR| Golf+
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17987
-#EXTINF:-1,|FR| Golf Channel HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5188
-#EXTINF:-1,|FR| Golf Channel
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9771
-#EXTINF:-1,|FR| Equidia Live HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5186
-#EXTINF:-1,|FR| Equidia Live
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9769
-#EXTINF:-1,|FR| EQUIDIA LIFE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5185
-#EXTINF:-1,|FR| EQUIDIA LIFE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9768
-#EXTINF:-1,|FR| AB Moteur HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5183
-#EXTINF:-1,|FR| AB Moteurs
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9767
-#EXTINF:-1,|FR| KOMBAT SPORT HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5182
-#EXTINF:-1,|FR| KOMBAT SPORT
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9766
-#EXTINF:-1,|FR| BFM SPORT
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9770
-#EXTINF:-1,|FR| ES1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71638
-#EXTINF:-1,|FR| ES1 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71637
-#EXTINF:-1,|FR| ES1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87826
-#EXTINF:-1,|FR| Sport en France
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87820
-#EXTINF:-1,|FR| EXTREME SPORTS HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17857
-#EXTINF:-1,|FR| CANAL+ KIDS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/93974
-#EXTINF:-1,|FR| CANAL+ KIDS HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/93973
-#EXTINF:-1,|FR| J-ONE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11425
-#EXTINF:-1,|FR| J-ONE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9874
-#EXTINF:-1,|FR| Piwi+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5248
-#EXTINF:-1,|FR| Piwi+
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9818
-#EXTINF:-1,|FR| TIJI HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5247
-#EXTINF:-1,|FR| TIJI
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9817
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5245
-#EXTINF:-1,|FR| DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISNEY CHANNEL
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5246
-#EXTINF:-1,|FR| DISNEY XD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9813
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5807
-#EXTINF:-1,|FR| DISNEY JUNIOR
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9812
-#EXTINF:-1,|FR| TELETOON HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5240
-#EXTINF:-1,|FR| TELETOON
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9811
-#EXTINF:-1,|FR| TELETOON +1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5239
-#EXTINF:-1,|FR| TELETOON +1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9810
-#EXTINF:-1,|FR| NICKELODEON HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5238
-#EXTINF:-1,|FR| NICKELODEON
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9809
-#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5237
-#EXTINF:-1,|FR| NICKELODEON 4TEEN
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9808
-#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5236
-#EXTINF:-1,|FR| NICKELODEON JUNIOR
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9807
-#EXTINF:-1,|FR| Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Cartoon Network HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
-#EXTINF:-1,|FR| Cartoon Network
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9806
-#EXTINF:-1,|FR| BOOMERANG HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5242
-#EXTINF:-1,|FR| BOOMERANG
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9805
-#EXTINF:-1,|FR| BOING HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5234
-#EXTINF:-1,|FR| BOING
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9804
-#EXTINF:-1,|FR| CANAL J HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5231
-#EXTINF:-1,|FR|  CANAL J
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9803
-#EXTINF:-1,|FR| GULLI HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5233
-#EXTINF:-1,|FR|  GULLI
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9802
-#EXTINF:-1,|FR| MANGAS TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5235
-#EXTINF:-1,|FR| MANGAS TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9801
-#EXTINF:-1,|FR| Toonami HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9816
-#EXTINF:-1,|FR| Toonami
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9815
-#EXTINF:-1,|FR| GAME ONE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5230
-#EXTINF:-1,|FR| GAME ONE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9799
-#EXTINF:-1,|FR| TEVA HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5281
-#EXTINF:-1,|FR| TEVA
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9828
-#EXTINF:-1,|FR| Tv Breizh HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5279
-#EXTINF:-1,|FR| Tv Breizh
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9827
-#EXTINF:-1,|FR| Comedie+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5278
-#EXTINF:-1,|FR| Comedie+
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9826
-#EXTINF:-1,|FR| AB1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5274
-#EXTINF:-1,|FR| AB1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9824
-#EXTINF:-1,|FR| WEO HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5271
-#EXTINF:-1,|FR| WEO
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9823
-#EXTINF:-1,|FR| BFM Business HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5266
-#EXTINF:-1,|FR| BFM Business
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9821
-#EXTINF:-1,|FR| E! Entertainment HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5276
-#EXTINF:-1,|FR| E! Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| E! Entertainment
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9820
-#EXTINF:-1,|FR| LA CHAINE NORMANDIE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9819
-#EXTINF:-1,|FR| TRACE Urban HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17852
-#EXTINF:-1,|FR| TRACE Urban
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TRACE Urban
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18357
-#EXTINF:-1,|FR| BET HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17856
-#EXTINF:-1,|FR| BRAVA HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17850
-#EXTINF:-1,|FR| IL-TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5273
-#EXTINF:-1,|FR| ONE TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ONE TV HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17854
-#EXTINF:-1,|FR| RFM TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| RFM TV HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17853
-#EXTINF:-1,|FR| TVM3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TVM3 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17851
-#EXTINF:-1,|FR| LCI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| LCI HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5179
-#EXTINF:-1,|FR| LCI
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9749
-#EXTINF:-1,|FR| LCP HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51774
-#EXTINF:-1,|FR| LCP
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| LCP
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51775
-#EXTINF:-1,|FR| BFM HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5178
-#EXTINF:-1,|FR| BFM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| BFM
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9748
-#EXTINF:-1,|FR| C NEWS HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5180
-#EXTINF:-1,|FR| C NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| C NEWS
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9747
-#EXTINF:-1,|FR| FRANCE 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| FRANCE 24 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5176
-#EXTINF:-1,|FR| FRANCE 24
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9746
-#EXTINF:-1,|FR| EURONEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| EURONEWS HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5177
-#EXTINF:-1,|FR| EURONEWS
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9745
-#EXTINF:-1,|FR| FRANCE INFO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| FRANCE INFO HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17861
-#EXTINF:-1,|FR| Canal 9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Canal 9 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71628
-#EXTINF:-1,|FR| RCAV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| RCAV HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71627
-#EXTINF:-1,|FR| LN24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| LN24
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72886
-#EXTINF:-1,|FR| BX1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| BX1
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72885
-#EXTINF:-1,|FR| CANAL C
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL C
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72884
-#EXTINF:-1,|FR| CGTN Français
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72883
-#EXTINF:-1,|FR| RT France
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87842
-#EXTINF:-1,|FR| GONG Max
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87827
-#EXTINF:-1,|FR| TV7 Colmar
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95685
-#EXTINF:-1,|FR| TV8 Mont Blanc
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95684
-#EXTINF:-1,|FR| Lucky Jack TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95683
-#EXTINF:-1,|FR| KTO
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95682
-#EXTINF:-1,|FR| IL TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95681
-#EXTINF:-1,|FR| D5 TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95680
-#EXTINF:-1,|FR| TL7
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95678
-#EXTINF:-1,|FR| VOSGUE TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95677
-#EXTINF:-1,|FR| Clubbing TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95676
-#EXTINF:-1,|FR| CLIQUE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95675
-#EXTINF:-1,|FR| Nautical Channel
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95674
-#EXTINF:-1,|FR| MUSEUM HD.
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95673
-#EXTINF:-1,|FR| Melody
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72960
-#EXTINF:-1,|FR| M6 MUSIC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5293
-#EXTINF:-1,|FR| M6 MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| M6 MUSIC
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9798
-#EXTINF:-1,|FR| MCM HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5285
-#EXTINF:-1,|FR| MCM
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9797
-#EXTINF:-1,|FR| MCM TOP HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5284
-#EXTINF:-1,|FR| MCM TOP
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9796
-#EXTINF:-1,|FR| MTV Base HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5290
-#EXTINF:-1,|FR| MTV Base
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9795
-#EXTINF:-1,|FR| MTV FRANCE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5291
-#EXTINF:-1,|FR| MTV FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV FRANCE
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9794
-#EXTINF:-1,|FR| MTV Hits HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5289
-#EXTINF:-1,|FR| MTV Hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV Hits
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9793
-#EXTINF:-1,|FR| MTV Dance HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5294
-#EXTINF:-1,|FR| MTV Dance
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV Dance
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9792
-#EXTINF:-1,|FR| NRJ12 HITS HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5292
-#EXTINF:-1,|FR| NRJ HITS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NRJ HITS
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9791
-#EXTINF:-1,|FR| NRG 91 TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71625
-#EXTINF:-1,|FR| Nollywood TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Nollywood TV
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87830
-#EXTINF:-1,|FR| Trace Sport Stars
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87824
-#EXTINF:-1,|FR| Trace Latina
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87823
-#EXTINF:-1,|FR| Trace Caribbean
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87822
-#EXTINF:-1,|FR| Trace Africa
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/87821
-#EXTINF:-1,|FR| MEZZO FR HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17859
-#EXTINF:-1,|FR| MEZZO LIVE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17858
-#EXTINF:-1,|FR| Mirabelle TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/95672
-#EXTINF:-1,|FR| A LA CARTE 01
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 01
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9589
-#EXTINF:-1,|FR| A LA CARTE 02
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 02
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9588
-#EXTINF:-1,|FR| A LA CARTE 03
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 03
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9587
-#EXTINF:-1,|FR| A LA CARTE 04
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 04
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9586
-#EXTINF:-1,|FR| A LA CARTE 05
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 05
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9585
-#EXTINF:-1,|FR| A LA CARTE 06
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 06
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9584
-#EXTINF:-1,|FR| A LA CARTE 07
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 07
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9583
-#EXTINF:-1,|FR| A LA CARTE 08
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| A LA CARTE 08
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9582
-#EXTINF:-1,|FR| CANAL PLAY 01
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9568
-#EXTINF:-1,|FR| CANAL PLAY 03
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9566
-#EXTINF:-1,|FR| CANAL PLAY 04
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9565
-#EXTINF:-1,|FR| CANAL PLAY 05
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9564
-#EXTINF:-1,|FR| CANAL PLAY 07
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9562
-#EXTINF:-1,|FR| CANAL PLAY 08
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9561
-#EXTINF:-1,|FR| CANAL PLAY 09
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9560
-#EXTINF:-1,|FR| CANAL PLAY 10
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9559
-#EXTINF:-1,|FR| OCS GO CINE 1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9576
-#EXTINF:-1,|FR| OCS GO CINE 2
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9575
-#EXTINF:-1,|FR| OCS GO CINE 3
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9574
-#EXTINF:-1,|FR| OCS GO CINE 4
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9573
-#EXTINF:-1,|FR| Orange Cine 1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9581
-#EXTINF:-1,|FR| Orange Cine 2
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9580
-#EXTINF:-1,|FR| Orange Cine 4
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9578
-#EXTINF:-1,|FR| Orange Cine 5
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9577
-#EXTINF:-1,|FR|  A LA CARTE 9
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/61987
-#EXTINF:-1,|FR| A LA CARTE 10
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/61988
