@@ -11,6 +11,10 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63661
 http://cord-cutter.net:8080/jesus1/jesus1/99621
 #EXTINF:-1 group-title="英语频道",|英国| CHANNEL 4 FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63611
+#EXTINF:-1 group-title="英语频道",|英国| SKY NEWS FHD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63655
+#EXTINF:-1 group-title="英语频道",|英国| BLOOMBERG FHD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63654
 #EXTINF:-1 group-title="英语频道",UK-ITV
 http://cord-cutter.net:8080/jesus1/jesus1/53651
 #EXTINF:-1 group-title="英语频道",UK ITV2 HD 
@@ -31,10 +35,6 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63629%E8%8B%B1%E8%AF%AD%7C%20QUEST%
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63642
 #EXTINF:-1 group-title="英语频道",|英国| TCM FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63644
-#EXTINF:-1 group-title="英语频道",|英国| BLOOMBERG FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63654
-#EXTINF:-1 group-title="英语频道",|英国| SKY NEWS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63655
 #EXTINF:-1 group-title="英语频道",|英国| CARTOON NETWORK FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63656
 #EXTINF:-1 group-title="英语频道",|英国| CBEEBIES FHD
@@ -67,60 +67,18 @@ http://cord-cutter.net:8080/jesus1/jesus1/11645
 http://cord-cutter.net:8080/jesus1/jesus1/20942
 #EXTINF:-1 group-title="英语频道",US NBC (KXAN) Austin (F)
 http://cord-cutter.net:8080/jesus1/jesus1/17749
-#EXTINF:-1 group-title="英语频道",US Bally Sports Detroit (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20930
-#EXTINF:-1 group-title="英语频道",US Bally Sports Arizona Plus (H)
-http://cord-cutter.net:8080/jesus1/jesus1/41840
-#EXTINF:-1 group-title="英语频道",US Bally Sports Midwest (A)
-http://cord-cutter.net:8080/jesus1/jesus1/66795
-#EXTINF:-1 group-title="英语频道",US Bally Sports Oklahoma (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20934
-#EXTINF:-1 group-title="英语频道",US Bally Sports Southeast 
-http://cord-cutter.net:8080/jesus1/jesus1/2213
-#EXTINF:-1 group-title="英语频道",US Bally Sports Southwest (A)
-http://cord-cutter.net:8080/jesus1/jesus1/21843
-#EXTINF:-1 group-title="英语频道",US Bally Sports West 
-http://cord-cutter.net:8080/jesus1/jesus1/20932
-#EXTINF:-1 group-title="英语频道",US Bally Sports Wisconsin 
-http://cord-cutter.net:8080/jesus1/jesus1/78599
 #EXTINF:-1 group-title="英语频道",USA-Disney Jr
 http://cord-cutter.net:8080/jesus1/jesus1/41960
 #EXTINF:-1 group-title="英语频道",PT Eleven Sports 1 FHD 
 http://cord-cutter.net:8080/jesus1/jesus1/35264
 #EXTINF:-1 group-title="英语频道",US ESPN NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/17707
-#EXTINF:-1 group-title="英语频道",US Fox Soccer Plus (F)
-http://cord-cutter.net:8080/jesus1/jesus1/10458
-#EXTINF:-1 group-title="英语频道",US Bally Sports North (A)
-http://cord-cutter.net:8080/jesus1/jesus1/58827
-#EXTINF:-1 group-title="英语频道",US Bally Sports San Diego 
-http://cord-cutter.net:8080/jesus1/jesus1/20935
-#EXTINF:-1 group-title="英语频道",US Bally Sports Detroit 
-http://cord-cutter.net:8080/jesus1/jesus1/20936
-#EXTINF:-1 group-title="英语频道",US Bally Sports Ohio (A)
-http://cord-cutter.net:8080/jesus1/jesus1/17752
 #EXTINF:-1 group-title="英语频道",US MASN (A)
 http://cord-cutter.net:8080/jesus1/jesus1/65697
 #EXTINF:-1 group-title="英语频道",US MASN2 (A)
 http://cord-cutter.net:8080/jesus1/jesus1/65698
 #EXTINF:-1 group-title="英语频道",US MSG2 (F)
 http://cord-cutter.net:8080/jesus1/jesus1/21089
-#EXTINF:-1 group-title="英语频道",US NBC Sports Bay Area (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9900
-#EXTINF:-1 group-title="英语频道",US NBC Sports Boston (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20939
-#EXTINF:-1 group-title="英语频道",US NBC Sports California (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20940
-#EXTINF:-1 group-title="英语频道",US NBC Sports Chicago (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20941
-#EXTINF:-1 group-title="英语频道",US NBC Sports Network (FHD) 
-http://cord-cutter.net:8080/jesus1/jesus1/20926
-#EXTINF:-1 group-title="英语频道",US NBC Sports Philly (F)
-http://cord-cutter.net:8080/jesus1/jesus1/20943
-#EXTINF:-1 group-title="英语频道",US NBC Sports Washington (F)
-http://cord-cutter.net:8080/jesus1/jesus1/20944
-#EXTINF:-1 group-title="英语频道",US NESN (F)
-http://cord-cutter.net:8080/jesus1/jesus1/31637
 #EXTINF:-1 group-title="英语频道",US Nickelodeon East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/38
 #EXTINF:-1 group-title="英语频道",US Olympic Channel HD (A)
@@ -131,10 +89,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/16493
 http://cord-cutter.net:8080/jesus1/jesus1/16571
 #EXTINF:-1 group-title="英语频道",US ESPN SEC Network 
 http://cord-cutter.net:8080/jesus1/jesus1/17608
-#EXTINF:-1 group-title="英语频道",US Spectrum SportsNet LA Dodgers (HD) 
-http://cord-cutter.net:8080/jesus1/jesus1/31636
-#EXTINF:-1 group-title="英语频道",US Spectrum SportsNet Lakers (FHD) 
-http://cord-cutter.net:8080/jesus1/jesus1/21842
 #EXTINF:-1 group-title="英语频道",US Tennis Channel
 http://cord-cutter.net:8080/jesus1/jesus1/20184
 #EXTINF:-1 group-title="英语频道",US YES Network
@@ -157,8 +111,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/20946
 http://cord-cutter.net:8080/jesus1/jesus1/13381
 #EXTINF:-1 group-title="英语频道",USA: A&E
 http://cord-cutter.net:8080/jesus1/jesus1/59056
-#EXTINF:-1 group-title="英语频道",US A&E (A)
-http://cord-cutter.net:8080/jesus1/jesus1/2201
 #EXTINF:-1 group-title="英语频道",USA: ABC
 http://cord-cutter.net:8080/jesus1/jesus1/22990
 #EXTINF:-1 group-title="英语频道",US ACC Network (A)
@@ -189,18 +141,10 @@ http://cord-cutter.net:8080/jesus1/jesus1/58765
 http://cord-cutter.net:8080/jesus1/jesus1/20194
 #EXTINF:-1 group-title="英语频道",US BET (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/46703
-#EXTINF:-1 group-title="英语频道",USA: Bet Gospel
-http://cord-cutter.net:8080/jesus1/jesus1/66080
-#EXTINF:-1 group-title="英语频道",US BET (East)  
-http://cord-cutter.net:8080/jesus1/jesus1/13702
-#EXTINF:-1 group-title="英语频道",USA: BET SOUL
-http://cord-cutter.net:8080/jesus1/jesus1/21844
 #EXTINF:-1 group-title="英语频道",US Big Ten HD
 http://cord-cutter.net:8080/jesus1/jesus1/9828
 #EXTINF:-1 group-title="英语频道",US Bloomberg
 http://cord-cutter.net:8080/jesus1/jesus1/15158
-#EXTINF:-1 group-title="英语频道",US Boomerang (H)
-http://cord-cutter.net:8080/jesus1/jesus1/14741
 #EXTINF:-1 group-title="英语频道",US Bounce XL 
 http://cord-cutter.net:8080/jesus1/jesus1/48323
 #EXTINF:-1 group-title="英语频道",US Bravo (East)   
@@ -223,8 +167,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/10476
 http://cord-cutter.net:8080/jesus1/jesus1/9815
 #EXTINF:-1 group-title="英语频道",US CNBC World
 http://cord-cutter.net:8080/jesus1/jesus1/20860
-#EXTINF:-1 group-title="英语频道",US CNN 
-http://cord-cutter.net:8080/jesus1/jesus1/1817
 #EXTINF:-1 group-title="英语频道",US CNN 
 http://cord-cutter.net:8080/jesus1/jesus1/104884
 #EXTINF:-1 group-title="英语频道",US Comedy Central (East) (F)
@@ -263,12 +205,10 @@ http://cord-cutter.net:8080/jesus1/jesus1/14193
 http://cord-cutter.net:8080/jesus1/jesus1/12744
 #EXTINF:-1 group-title="英语频道",US EPIX2 (East)
 http://cord-cutter.net:8080/jesus1/jesus1/12730
-#EXTINF:-1 group-title="英语频道",US ESPN 2 
-http://cord-cutter.net:8080/jesus1/jesus1/2210
 #EXTINF:-1 group-title="英语频道",US ESPN 1 (HD) 
 http://cord-cutter.net:8080/jesus1/jesus1/14197
-#EXTINF:-1 group-title="英语频道",US ESPN 1 (HD) 
-http://cord-cutter.net:8080/jesus1/jesus1/9802
+#EXTINF:-1 group-title="英语频道",US ESPN 2 
+http://cord-cutter.net:8080/jesus1/jesus1/2210
 #EXTINF:-1 group-title="英语频道",US ESPNU College Sports 
 http://cord-cutter.net:8080/jesus1/jesus1/10255
 #EXTINF:-1 group-title="英语频道",USA: Food Network HD
@@ -279,16 +219,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/17639
 http://cord-cutter.net:8080/jesus1/jesus1/1818
 #EXTINF:-1 group-title="英语频道",US Fox Sports 1 
 http://cord-cutter.net:8080/jesus1/jesus1/1846
-#EXTINF:-1 group-title="英语频道",US Fox Sports 2 (A)
-http://cord-cutter.net:8080/jesus1/jesus1/1847
-#EXTINF:-1 group-title="英语频道",US Bally Sports Arizona (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20928
-#EXTINF:-1 group-title="英语频道",US Bally Sports Carolinas (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20929
-#EXTINF:-1 group-title="英语频道",US Bally Sports Southeast (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20931
-#EXTINF:-1 group-title="英语频道",US Bally Sports South (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20922
 #EXTINF:-1 group-title="英语频道",US Freeform East
 http://cord-cutter.net:8080/jesus1/jesus1/13370
 #EXTINF:-1 group-title="英语频道",US Fuse (A)
@@ -353,8 +283,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/9297
 http://cord-cutter.net:8080/jesus1/jesus1/17777
 #EXTINF:-1 group-title="英语频道",US Lifetime 
 http://cord-cutter.net:8080/jesus1/jesus1/46714
-#EXTINF:-1 group-title="英语频道",US Lifetime (H)
-http://cord-cutter.net:8080/jesus1/jesus1/9275
 #EXTINF:-1 group-title="英语频道",US Lifetime Movie
 http://cord-cutter.net:8080/jesus1/jesus1/2208
 #EXTINF:-1 group-title="英语频道",USA: LOGO TV
@@ -377,8 +305,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/1829
 http://cord-cutter.net:8080/jesus1/jesus1/9276
 #EXTINF:-1 group-title="英语频道",US MSG (A)
 http://cord-cutter.net:8080/jesus1/jesus1/21090
-#EXTINF:-1 group-title="英语频道",US MSNBC (F)
-http://cord-cutter.net:8080/jesus1/jesus1/21376
 #EXTINF:-1 group-title="英语频道",US MSNBC 
 http://cord-cutter.net:8080/jesus1/jesus1/9296
 #EXTINF:-1 group-title="英语频道",US MTV 
@@ -497,10 +423,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/17774
 http://cord-cutter.net:8080/jesus1/jesus1/46691
 #EXTINF:-1 group-title="英语频道",US TLC East (F)
 http://cord-cutter.net:8080/jesus1/jesus1/12734
-#EXTINF:-1 group-title="英语频道",US TLC (West)   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/47703
-#EXTINF:-1 group-title="英语频道",US TNT (West) 
-http://cord-cutter.net:8080/jesus1/jesus1/46688
 #EXTINF:-1 group-title="英语频道",US TNT East 
 http://cord-cutter.net:8080/jesus1/jesus1/10455
 #EXTINF:-1 group-title="英语频道",US Travel Channel East 
