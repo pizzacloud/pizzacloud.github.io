@@ -1,157 +1,153 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="法语频道",Euronews
+#EXTINF:-1 group-title="法国" tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="法语频道",TF1
-http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="法语频道",France 2
+#EXTINF:-1 group-title="法国" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
 http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="法语频道",France 3
+#EXTINF:-1 group-title="法国" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
 http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="法语频道",France 4
+#EXTINF:-1 group-title="法国" tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
 http://livetv.ktv.zone/116/play.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="法语频道",France 5
+#EXTINF:-1 group-title="法国" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="法语频道",TF1 Series Films
-http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TF1 +1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51770
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="法语频道",TFX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5208
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="法语频道",BFM TV
+#EXTINF:-1 group-title="法国" tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9748
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="法语频道",TFX
-http://livetv.ktv.zone/13/play.m3u8
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="法语频道",Paris Premiere
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5805
-#EXTINF:-1 tvg-id="AfricanewsFrench.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="法语频道",AfricaNews Français
-https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="法语频道",20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="法语频道",Museum TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69296
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="法语频道",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="法语频道",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="法语频道",L'EQUIPE 21 TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5187
-#EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="法语频道",Télé-Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pizzacloud.github.io/tv-logos/countries/france/m6-music-fr.png" group-title="法语频道",|法语| M6 MUSIC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 6Ter HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5167
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| W9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5166
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ARTE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5168
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NRJ12 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5161
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TV5 MONDE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9750
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TV5 Quebec HD (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57288
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| C8 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5165
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CStar
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9754
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5160
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ CINEMA
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9871
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ FAMILY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5158
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ KIDS
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9869
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL+ SERIES HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5157
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ CLASSIC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5228
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ FAMIZ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5223
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ FRISSON HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5227
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| POLAR+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5225
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ EMOTION HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5226
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ PREMIERE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5224
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| OCS CITY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| OCS MAX HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5221
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 13eme RUE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5222
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| SYFY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5211
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TMC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5210
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TCM CINEMA HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5212
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| SERIE CLUB HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5213
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| ANIMAUX HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5265
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NAT GEO WILD HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5260
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| NATIONAL GEO HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5261
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISCOVERY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5263
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| DISCOVERY INVESTIGATION HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11426
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| PLANET+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5259
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| HISTOIRE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5253
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| AMAZON PRIME 1 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92649
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Cartoon Network HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| E! Entertainment
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9820
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TRACE Urban
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18357
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| RFM TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17853
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| TVM3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17851
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| LCI HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5179
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| LCP
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51775
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| C NEWS
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9747
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| FRANCE 24 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5176
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| FRANCE INFO HD
+#EXTINF:-1 group-title="法国",|法语| FRANCE INFO HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17861
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| Canal 9 HD
+#EXTINF:-1 group-title="法国",|法语| FRANCE 24 Français
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5176
+#EXTINF:-1 group-title="法国" tvg-id="AfricanewsFrench.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png",AfricaNews Français
+https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 group-title="法国" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png",TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:-1 group-title="法国",|法语| TF1 +1 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51770
+#EXTINF:-1 group-title="法国",|法语| LCI HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5179
+#EXTINF:-1 group-title="法国",|法语| LCP
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51775
+#EXTINF:-1 group-title="法国",|法语| C NEWS
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9747
+#EXTINF:-1 group-title="法国",|法语| Canal 9 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71628
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| BX1
+#EXTINF:-1 group-title="法国",|法语| BX1
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72885
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CANAL C
+#EXTINF:-1 group-title="法国",|法语| CANAL C
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72884
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV FRANCE
+#EXTINF:-1 group-title="法国" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png",TF1 Series Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:-1 group-title="法国" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png",TFX
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5208
+#EXTINF:-1 group-title="法国" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png",TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:-1 group-title="法国" tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png",Paris Premiere
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5805
+#EXTINF:-1 group-title="法国" tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 group-title="法国" tvg-id="MuseumTV.fr" tvg-logo="https://i.imgur.com/WbjURLo.png",Museum TV
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69296
+#EXTINF:-1 group-title="法国" tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+#EXTINF:-1 group-title="法国" tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png",L'EQUIPE 21 TV
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5187
+#EXTINF:-1 group-title="法国" tvg-logo="https://pizzacloud.github.io/tv-logos/countries/france/m6-music-fr.png",|法语| M6 MUSIC HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
+#EXTINF:-1 group-title="法国",|法语| 6Ter HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5167
+#EXTINF:-1 group-title="法国",|法语| W9 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5166
+#EXTINF:-1 group-title="法国",|法语| ARTE HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5168
+#EXTINF:-1 group-title="法国",|法语| NRJ12 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5161
+#EXTINF:-1 group-title="法国",|法语| TV5 MONDE
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9750
+#EXTINF:-1 group-title="法国",|法语| POLAR+ HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5225
+#EXTINF:-1 group-title="法国",|法语| C8 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5165
+#EXTINF:-1 group-title="法国",|法语| CStar
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9754
+#EXTINF:-1 group-title="法国",|法语| OCS CITY HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
+#EXTINF:-1 group-title="法国",|法语| OCS MAX HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5221
+#EXTINF:-1 group-title="法国",|法语| 13eme RUE HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5222
+#EXTINF:-1 group-title="法国",|法语| SYFY HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5211
+#EXTINF:-1 group-title="法国",|法语| TMC HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5210
+#EXTINF:-1 group-title="法国",|法语| TCM CINEMA HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5212
+#EXTINF:-1 group-title="法国",|法语| SERIE CLUB HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5213
+#EXTINF:-1 group-title="法国",|法语| ANIMAUX HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5265
+#EXTINF:-1 group-title="法国",|法语| NAT GEO WILD HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5260
+#EXTINF:-1 group-title="法国",|法语| NATIONAL GEO HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5261
+#EXTINF:-1 group-title="法国",|法语| DISCOVERY HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5263
+#EXTINF:-1 group-title="法国",|法语| DISCOVERY INVESTIGATION HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11426
+#EXTINF:-1 group-title="法国",|法语| PLANET+ HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5259
+#EXTINF:-1 group-title="法国",|法语| HISTOIRE HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5253
+#EXTINF:-1 group-title="法国",|法语| AMAZON PRIME 1 HD ( ONLY EVENTS )
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92649
+#EXTINF:-1 group-title="法国",|法语| Cartoon Network HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
+#EXTINF:-1 group-title="法国",|法语| E! Entertainment
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9820
+#EXTINF:-1 group-title="法国",|法语| TRACE Urban
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18357
+#EXTINF:-1 group-title="法国",|法语| RFM TV HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17853
+#EXTINF:-1 group-title="法国",|法语| TVM3 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17851
+#EXTINF:-1 group-title="法国",|法语| MTV FRANCE
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9794
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| MTV Hits
+#EXTINF:-1 group-title="法国",|法语| MTV Hits
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9793
-
-#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="法语频道",DBM
+#EXTINF:-1 group-title="法国",|法语| CANAL+ HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5160
+#EXTINF:-1 group-title="法国",|法语| CANAL+ CINEMA
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9871
+#EXTINF:-1 group-title="法国",|法语| CANAL+ FAMILY HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5158
+#EXTINF:-1 group-title="法国",|法语| CANAL+ KIDS
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9869
+#EXTINF:-1 group-title="法国",|法语| CANAL+ SERIES HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5157
+#EXTINF:-1 group-title="法国",|法语| CINE+ CLASSIC HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5228
+#EXTINF:-1 group-title="法国",|法语| CINE+ FAMIZ HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5223
+#EXTINF:-1 group-title="法国",|法语| CINE+ FRISSON HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5227
+#EXTINF:-1 group-title="法国",|法语| CINE+ EMOTION HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5226
+#EXTINF:-1 group-title="法国",|法语| CINE+ PREMIERE HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5224
+#EXTINF:-1 group-title="加拿大",|法语| TV5 Quebec HD (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57288
+#EXTINF:-1 group-title="加拿大" tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="加拿大" tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png" group-title="法语频道",Télé Tchad
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png",Télé Tchad
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="法语频道",Ivoire Channel
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png" group-title="法语频道",Haiti News Channel
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png",Haiti News Channel
 https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 tvg-id="ORTBTV.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png" group-title="法语频道",ORTB TV
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="ORTBTV.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png",ORTB TV
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHTV1.us" tvg-logo="https://i.imgur.com/4z0FiEA.png" group-title="法语频道",RTH-TV1 
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="RTHTV1.us" tvg-logo="https://i.imgur.com/4z0FiEA.png",RTH-TV1 
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png" group-title="法语频道",RTI 1
+#EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-
