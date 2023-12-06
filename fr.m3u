@@ -39,7 +39,7 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5187
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="法语频道",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png" group-title="法语频道",|法语| M6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pizzacloud.github.io/tv-logos/countries/france/m6-music-fr.png" group-title="法语频道",|法语| M6 MUSIC HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 6Ter HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5167
