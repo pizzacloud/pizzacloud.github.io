@@ -26,7 +26,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="法语频道",TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="法语频道",Paris Premiere
-https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5805
 #EXTINF:-1 tvg-id="AfricanewsFrench.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="法语频道",AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="法语频道",20 Minutes TV
@@ -60,7 +60,7 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| M6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png" group-title="法语频道",|法语| M6 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| 6Ter HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5167
@@ -102,8 +102,6 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5225
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5226
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| CINE+ PREMIERE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5224
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| PARIS PREMIERE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5805
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| OCS CITY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="法语频道",|法语| OCS MAX HD
