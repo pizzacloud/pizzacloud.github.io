@@ -83,8 +83,6 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 group-title="英语频道" tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png",NASA TV Public 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="美国",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="美国",美·NASA 2
