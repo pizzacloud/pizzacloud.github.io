@@ -1127,10 +1127,6 @@ https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="其他语种",VB
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="其他语种",|PT| RTP 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6438
-#EXTINF:-1 group-title="其他语种",|PT| RTP 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6435
 #EXTINF:-1 group-title="国际频道",|TR| TRT World HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92635
 #EXTINF:-1 group-title="西班牙",|西班牙语| DW-TV西语
