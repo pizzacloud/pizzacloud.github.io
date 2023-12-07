@@ -391,10 +391,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/10252
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 #EXTINF:-1 group-title="美国",US VICELAND 
 http://cord-cutter.net:8080/jesus1/jesus1/46697
-#EXTINF:-1 group-title="加拿大",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="加拿大",CA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
 #EXTINF:-1 group-title="加拿大",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="加拿大",CA (FR) Historia HD 
@@ -447,8 +444,10 @@ http://cord-cutter.net:8080/jesus1/jesus1/57254
 http://cord-cutter.net:8080/jesus1/jesus1/58725
 #EXTINF:-1 group-title="加拿大",CA: CTV NEWS CHANNEL HD
 http://cord-cutter.net:8080/jesus1/jesus1/57350
+#EXTINF:-1 group-title="加拿大",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
 #EXTINF:-1 group-title="法国" tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
-#EXTM3U
 #EXTINF:-1 group-title="法国" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
@@ -725,11 +724,8 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="拉美地区" tvg-id="MyTimeMovieNetworkSpain.es",MyTime movie network Spain 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
 #EXTINF:-1 group-title="拉美地区" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
-#EXTINF:-1 group-title="拉美地区" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU",AR | TV PUBLICA FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
 
 
 #EXTINF:-1 group-title="其他语种",|PT| RTP 1 HD
