@@ -700,9 +700,6 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318709
 #EXTINF:-1 tvg-name="Europa europa" tvg-logo="http://127.0.0.1/" group-title="西班牙电视",Europa europa
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318712
 
-
-cd4425427821cc583cfb026e619fa062.png" group-title="拉美电视",CO | Canal Uno HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318371
 #EXTINF:-1 tvg-name="CO | CARACOL FHD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="拉美电视",CO | CARACOL FHD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318374
 #EXTINF:-1 tvg-name="CO | Caracol Internacional" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="拉美电视",CO | Caracol Internacional
@@ -715,12 +712,8 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318382
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318383
 #EXTINF:-1 tvg-name="CO | Telecaribe HD" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png" group-title="拉美电视",CO | Telecaribe HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318394
-
-
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="拉美电视",Azteca Internacional 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="BiosferaTV.es" tvg-logo="https://i.imgur.com/khytcgd.png" group-title="拉美电视",Biosfera TV [Not 24/7]
-https://tvdatta.com:3021/live/biosferatvlive.m3u8
 #EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="拉美电视",CBN Español 
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="拉美电视",Foro TV 
@@ -743,25 +736,13 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png" group-title="拉美电视",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
-#EXTINF:-1 tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="拉美电视",AR | TV PUBLICA FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/338803
 
 
 
-#EXTINF:-1 tvg-name="KIDS | BABY TV" tvg-logo="http://streamgo.vip:8008/images/3089c9e63f0cef472efbb9a61fe86690.png" group-title="儿童电视",KIDS | BABY TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321969
-#EXTINF:-1 tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://streamgo.vip:8008/images/a3c887176bd3380e87991b388d0addd5.png" group-title="儿童电视",KIDS | CARTOON NETWORK
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321974
-#EXTINF:-1 tvg-name="KIDS | CARTOONITO" tvg-logo="http://streamgo.vip:8008/images/48cbe286e8362b806b89060f5c7da779.png" group-title="儿童电视",KIDS | CARTOONITO
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321975
-#EXTINF:-1 tvg-name="KIDS | DISNEY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/e4138f859a99a4c0e74fd86e8bf841fa.png" group-title="儿童电视",KIDS | DISNEY CHANNEL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321978
 #EXTINF:-1 tvg-name="KIDS | DISNEY JUNIOR" tvg-logo="http://streamgo.vip:8008/images/8e0a861abae14ade6ee7277ef572ac01.png" group-title="儿童电视",KIDS | DISNEY JUNIOR
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321981
 #EXTINF:-1 tvg-name="KIDS | NICK JUNIOR" tvg-logo="http://streamgo.vip:8008/images/1fda1dc4702303bc89e64f9fd332143b.png" group-title="儿童电视",KIDS | NICK JUNIOR
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321983
-#EXTINF:-1 tvg-name="TVG Infantil" tvg-logo="http://127.0.0.1/" group-title="儿童电视",TVG Infantil
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321986
 
 
 #EXTINF:-1 tvg-name="GUA: GUATEVISION" tvg-logo="http://streamgo.vip:8008/images/f32057ec55c64ea9a4c573d79795925d.png" group-title="⭐️ Guatemala",GUA: GUATEVISION
@@ -1080,8 +1061,6 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336538
 
 #EXTINF:-1 tvg-name="BOL : BOLIVISION HD" tvg-logo="http://streamgo.vip:8008/images/e57a66e0b72328100bd825863daf6f02.png" group-title="⭐️ Bolivia ",BOL : BOLIVISION HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336561
-#EXTINF:-1 tvg-name="BOL : RTP HD" tvg-logo="http://streamgo.vip:8008/images/bca2e8d62b6108a9ea74d0e84d02c6cf.png" group-title="⭐️ Bolivia ",BOL : RTP HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png" group-title="⭐️ Bolivia ",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
 #EXTINF:-1 tvg-name="AYNI TV | LP | HD" tvg-logo="http://streamgo.vip:8008/images/a324dfcec9d1b6f061d67696f55bd7d6.png" group-title="⭐️ Bolivia ",AYNI TV | LP | HD
@@ -1144,6 +1123,8 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",日本Shop Channel
 https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="其他语种",长城精品
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="其他语种",VB
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 group-title="其他语种",|PT| RTP 1 HD
