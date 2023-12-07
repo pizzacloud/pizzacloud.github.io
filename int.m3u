@@ -731,20 +731,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 group-title="拉美地区" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU",AR | TV PUBLICA FHD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://streamgo.vip:8008/images/3089c9e63f0cef472efbb9a61fe86690.png",KIDS | BABY TV
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/338803
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://streamgo.vip:8008/images/a3c887176bd3380e87991b388d0addd5.png",KIDS | CARTOON NETWORK
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321969
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://streamgo.vip:8008/images/48cbe286e8362b806b89060f5c7da779.png",KIDS | CARTOONITO
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321974
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://streamgo.vip:8008/images/e4138f859a99a4c0e74fd86e8bf841fa.png",KIDS | DISNEY CHANNEL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321975
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://streamgo.vip:8008/images/8e0a861abae14ade6ee7277ef572ac01.png",KIDS | DISNEY JUNIOR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321978
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://streamgo.vip:8008/images/1fda1dc4702303bc89e64f9fd332143b.png",KIDS | NICK JUNIOR
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321981
-#EXTINF:-1 group-title="儿童电视" tvg-logo="http://127.0.0.1/",TVG Infantil
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/321983
+
 
 #EXTINF:-1 group-title="其他语种" tvg-id="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png",半岛阿语
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330348
