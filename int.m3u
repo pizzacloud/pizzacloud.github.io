@@ -35,6 +35,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",|TR| TRT World HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92635
+
 #EXTINF:-1 group-title="英国",UK: BBC NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/53757
 #EXTINF:-1 group-title="英国",|英国| BBC ONE FHD
@@ -189,8 +192,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/9229
 http://cord-cutter.net:8080/jesus1/jesus1/11868
 #EXTINF:-1 group-title="美国",US Destination America (A)
 http://cord-cutter.net:8080/jesus1/jesus1/14222
-#EXTINF:-1 group-title="美国",US Discovery Channel (East)
-http://cord-cutter.net:8080/jesus1/jesus1/46720
 #EXTINF:-1 group-title="美国",US Discovery Channel East 
 http://cord-cutter.net:8080/jesus1/jesus1/9811
 #EXTINF:-1 group-title="美国",USA: DISCOVERY FAMILY
@@ -391,10 +392,7 @@ http://cord-cutter.net:8080/jesus1/jesus1/10252
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 #EXTINF:-1 group-title="美国",US VICELAND 
 http://cord-cutter.net:8080/jesus1/jesus1/46697
-#EXTINF:-1 group-title="加拿大",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="加拿大",CA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
 #EXTINF:-1 group-title="加拿大",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="加拿大",CA (FR) Historia HD 
@@ -447,8 +445,9 @@ http://cord-cutter.net:8080/jesus1/jesus1/57254
 http://cord-cutter.net:8080/jesus1/jesus1/58725
 #EXTINF:-1 group-title="加拿大",CA: CTV NEWS CHANNEL HD
 http://cord-cutter.net:8080/jesus1/jesus1/57350
+#EXTINF:-1 group-title="加拿大",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="法国" tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
@@ -616,6 +615,8 @@ http://darg.site:2082/P23002002/UgmrfwqcFsbD/178041
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178044
 #EXTINF:-1 tvg-name="LA SEXTA" tvg-logo="http://streamgo.vip:8008/images/966ee4301686bd3293f32284a44274d5.png" group-title="西班牙",LA SEXTA
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323991
+#EXTINF:-1 group-title="西班牙",|西班牙语| DW-TV西语
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/64385
 #EXTINF:-1 tvg-name="A3SERIES HD" tvg-logo="http://streamgo.vip:8008/images/7161afb1a96e248ee7e33d143625c869.png" group-title="西班牙",A3SERIES HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323994
 #EXTINF:-1 tvg-name="NEOX" tvg-logo="http://streamgo.vip:8008/images/6688ae08d71acde51bd63b7320aba94c.png" group-title="西班牙",NEOX
@@ -661,8 +662,6 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323956
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323958
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAFIC WILD HD" tvg-logo="http://streamgo.vip:8008/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="西班牙",NATIONAL GEOGRAFIC WILD HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323963
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://streamgo.vip:8008/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="西班牙",DISCOVERY CHANNEL
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323964
 #EXTINF:-1 tvg-name="DISCOVERY HD" tvg-logo="http://streamgo.vip:8008/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="西班牙",DISCOVERY HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323965
 #EXTINF:-1 tvg-name="MEZZO LIVE FULL HD" tvg-logo="http://streamgo.vip:8008/images/bbdd2f0e9cbf73e5c826995a10b89091.png" group-title="西班牙",MEZZO LIVE FULL HD
@@ -710,8 +709,6 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318380
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318382
 #EXTINF:-1 tvg-name="CO | RCN HD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="拉美",CO | RCN HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318383
-#EXTINF:-1 tvg-name="CO | Telecaribe HD" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png" group-title="拉美",CO | Telecaribe HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318394
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="拉美",Azteca Internacional 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="拉美",CBN Español 
@@ -736,35 +733,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png" group-title="拉美",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
-
-
-#EXTINF:-1 group-title="其他语种" tvg-id="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png",半岛阿语
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="其他语种",韩·SBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="其他语种",韩·KoreaTV
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="其他语种",韩·TBS
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·EBS1
-https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·EBS2
-https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·EBSe
-https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·NBS
-https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",越·HBTV
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",日本QVC
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",日本Shop Channel
-https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="其他语种",长城精品
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="其他语种",VB
-http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="国际频道",|TR| TRT World HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92635
-#EXTINF:-1 group-title="西班牙",|西班牙语| DW-TV西语
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/64385
+#EXTINF:-1,group-title="其他" PT: RTP 1 FHD
+http://cord-cutter.net:8080/jesus1/jesus1/164792
+#EXTINF:-1,group-title="其他" PT: CNN HD
+http://cord-cutter.net:8080/jesus1/jesus1/164802
