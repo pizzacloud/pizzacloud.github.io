@@ -19,8 +19,6 @@ https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际频道",moviesphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png",Crime 360
 https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png",Deluxe Dance
@@ -392,6 +390,14 @@ http://cord-cutter.net:8080/jesus1/jesus1/10252
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 #EXTINF:-1 group-title="美国",US VICELAND 
 http://cord-cutter.net:8080/jesus1/jesus1/46697
+#EXTINF:-1 group-title="美国",Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,group-title="美国",|US| C-SPAN 1 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9446
+#EXTINF:-1,group-title="美国",|US| C-SPAN 2 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9445
+#EXTINF:-1,group-title="美国",|US| C-SPAN 3 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9444
 
 #EXTINF:-1 group-title="加拿大",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
@@ -441,8 +447,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/57964
 http://cord-cutter.net:8080/jesus1/jesus1/57408
 #EXTINF:-1 group-title="加拿大",CA CTV Drama Channel (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57254
-#EXTINF:-1 group-title="加拿大",CA CTV Edmonton Alberta HD (D)
-http://cord-cutter.net:8080/jesus1/jesus1/58725
 #EXTINF:-1 group-title="加拿大",CA: CTV NEWS CHANNEL HD
 http://cord-cutter.net:8080/jesus1/jesus1/57350
 #EXTINF:-1 group-title="加拿大",CanadaOne
@@ -737,3 +741,29 @@ http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
 http://cord-cutter.net:8080/jesus1/jesus1/164792
 #EXTINF:-1 group-title="其他",PT: CNN HD
 http://cord-cutter.net:8080/jesus1/jesus1/164802
+#EXTINF:-1 group-title="其他",韩·SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="其他",韩·KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="其他",韩·TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",韩·EBS1
+https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="其他",韩·EBS2
+https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="其他",韩·EBSe
+https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="其他",韩·NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="其他",越·HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 group-title="其他",越·ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="其他",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="其他",日本QVC
+https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="其他",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+#EXTINF:-1 group-title="其他",VB
+https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
