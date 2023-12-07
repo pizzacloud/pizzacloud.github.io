@@ -725,42 +725,23 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="拉美地区" tvg-id="MyTimeMovieNetworkSpain.es",MyTime movie network Spain 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="拉美地区" tvg-logo="http://streamgo.vip:8008/images/bca2e8d62b6108a9ea74d0e84d02c6cf.png",BOL : RTP HD
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="拉美地区" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 group-title="拉美地区" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU",AR | TV PUBLICA FHD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
 
 
-#EXTINF:-1 group-title="其他语种" tvg-id="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png",半岛阿语
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/330348
-#EXTINF:-1 group-title="其他语种",韩·SBS
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="其他语种",韩·KoreaTV
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="其他语种",韩·TBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="其他语种",韩·EBS1
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·EBS2
-https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·EBSe
-https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",韩·NBS
-https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",|PT| RTP 1 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6438
-#EXTINF:-1 group-title="其他语种",|PT| RTP 2 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51527
-#EXTINF:-1 group-title="其他语种",|PT| RTP 3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51528
-#EXTINF:-1 group-title="其他语种",|PT| RTP MEMORIA FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51529
-#EXTINF:-1 group-title="其他语种",VIP |BR| CNN BRASIL
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51530
-#EXTINF:-1 group-title="其他语种",VIP |BR| GLOBO
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92874
+#EXTINF:-1 group-title="其他语种",|PT| RTP 2 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6435
+#EXTINF:-1 group-title="其他语种",|PT| RTP 3 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6434
+#EXTINF:-1 group-title="其他语种",|PT| RTP MEMORIA HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6430
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/1iFLUeo.png" group-title="CANAIS | NOTICIAS",group-title="其他语种",CNN BRASIL HD
+http://joao-1-us.mainbkonline.shop:80/464744816517pw/406967630903/102#
 #EXTINF:-1 group-title="国际频道",|TR| TRT World HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92635
 #EXTINF:-1 group-title="西班牙",|西班牙语| DW-TV西语
