@@ -35,12 +35,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="加拿大",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 group-title="加拿大",CA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="加拿大",InsightTV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="英国",UK: BBC NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/53757
 #EXTINF:-1 group-title="英国",|英国| BBC ONE FHD
@@ -397,32 +391,85 @@ http://cord-cutter.net:8080/jesus1/jesus1/10252
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 #EXTINF:-1 group-title="美国",US VICELAND 
 http://cord-cutter.net:8080/jesus1/jesus1/46697
-
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他语种",半岛阿语
+#EXTINF:-1 group-title="加拿大",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="加拿大",CA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="加拿大",InsightTV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="加拿大",CA (FR) Historia HD 
+http://cord-cutter.net:8080/jesus1/jesus1/57483
+#EXTINF:-1 group-title="加拿大",CA (FR) Disney La Chaine (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57481
+#EXTINF:-1 group-title="加拿大",CA (FR) LCN (E)
+http://cord-cutter.net:8080/jesus1/jesus1/57968
+#EXTINF:-1 group-title="加拿大",CA-FR | METEO
+http://cord-cutter.net:8080/jesus1/jesus1/57486
+#EXTINF:-1 group-title="加拿大",CA-FR | MOI ET CIE
+http://cord-cutter.net:8080/jesus1/jesus1/57487
+#EXTINF:-1 group-title="加拿大",CA (FR) Prise  (P)
+http://cord-cutter.net:8080/jesus1/jesus1/57488
+#EXTINF:-1 group-title="加拿大",CA (FR) RDS2 HD (B)
+http://cord-cutter.net:8080/jesus1/jesus1/57490
+#EXTINF:-1 group-title="加拿大",CA-FR | RDS INFO
+http://cord-cutter.net:8080/jesus1/jesus1/57491
+#EXTINF:-1 group-title="加拿大",CA (FR) Super Ecran 1 (E)
+http://cord-cutter.net:8080/jesus1/jesus1/66363
+#EXTINF:-1 group-title="加拿大",CA (FR) TFO HD (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57495
+#EXTINF:-1 group-title="加拿大",CA CP24 News HD (E)
+http://cord-cutter.net:8080/jesus1/jesus1/57401
+#EXTINF:-1 group-title="加拿大",CA: CP24 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57257
+#EXTINF:-1 group-title="加拿大",CA: CPAC
+http://cord-cutter.net:8080/jesus1/jesus1/57402
+#EXTINF:-1 group-title="加拿大",CA: CPAC English
+http://cord-cutter.net:8080/jesus1/jesus1/57352
+#EXTINF:-1 group-title="加拿大",CA: CRAVE 1 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57309
+#EXTINF:-1 group-title="加拿大",CA: CRAVE 2 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57310
+#EXTINF:-1 group-title="加拿大",CA: CRAVE 3
+http://cord-cutter.net:8080/jesus1/jesus1/57322
+#EXTINF:-1 group-title="加拿大",CA: CRAVE 4 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57311
+#EXTINF:-1 group-title="加拿大",CA: CRIME & INVESTIGATION
+http://cord-cutter.net:8080/jesus1/jesus1/57256
+#EXTINF:-1 group-title="加拿大",CA CTV Two Atlantic 
+http://cord-cutter.net:8080/jesus1/jesus1/79547
+#EXTINF:-1 group-title="加拿大",CA CTV CALGARY (E)
+http://cord-cutter.net:8080/jesus1/jesus1/57964
+#EXTINF:-1 group-title="加拿大",CA CTV Comedy Channel (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57408
+#EXTINF:-1 group-title="加拿大",CA CTV Drama Channel (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57254
+#EXTINF:-1 group-title="加拿大",CA CTV Edmonton Alberta HD (D)
+http://cord-cutter.net:8080/jesus1/jesus1/58725
+#EXTINF:-1 group-title="加拿大",CA: CTV NEWS CHANNEL HD
+http://cord-cutter.net:8080/jesus1/jesus1/57350
+#EXTINF:-1 group-title="其他语种" tvg-id="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png",半岛阿语
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="其他语种",韩·SBS
-http://1.245.74.5:1935/live/tv/.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="其他语种",韩·KoreaTV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="其他语种",韩·TBS
-https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",韩·EBS1
-https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",韩·EBS2
-https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",韩·EBSe
-https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",韩·NBS
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-
+https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",越·HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",日本QVC
-https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",日本Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
+https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="其他语种",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="其他语种",VB
-https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
