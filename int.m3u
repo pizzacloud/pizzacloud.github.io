@@ -762,18 +762,8 @@ https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="其他语种",韩·NBS
 https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",越·HBTV
-https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",日本QVC
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",日本Shop Channel
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="其他语种",长城精品
-https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="其他语种",VB
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="其他语种",|PT| RTP 1 FHD
-http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+#EXTINF:-1 group-title="其他语种",|PT| RTP 1 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6438
 #EXTINF:-1 group-title="其他语种",|PT| RTP 2 FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51527
 #EXTINF:-1 group-title="其他语种",|PT| RTP 3 FHD
