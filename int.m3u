@@ -733,7 +733,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336563
 #EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" tvg-logo="http://streamgo.vip:8008/images/b6ed7886997517a070c65172f3323050.png" group-title="拉美",BOL : BOLIVIA TV 7.2 HD
 http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
-#EXTINF:-1,group-title="其他" PT: RTP 1 FHD
+#EXTINF:-1 group-title="其他",PT: RTP 1 FHD
 http://cord-cutter.net:8080/jesus1/jesus1/164792
-#EXTINF:-1,group-title="其他" PT: CNN HD
+#EXTINF:-1 group-title="其他",PT: CNN HD
 http://cord-cutter.net:8080/jesus1/jesus1/164802
