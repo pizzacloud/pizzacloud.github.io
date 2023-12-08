@@ -44,6 +44,8 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63662
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63661
 #EXTINF:-1 group-title="英国",CA | BBC EARTH
 http://cord-cutter.net:8080/jesus1/jesus1/99621
+#EXTINF:-1 group-title="英国",BBC ENTERTAINMENT HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6391
 #EXTINF:-1 group-title="英国",|英国| CHANNEL 4 FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63611
 #EXTINF:-1 group-title="英国",|英国| SKY NEWS FHD
@@ -584,6 +586,16 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5227
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5226
 #EXTINF:-1 group-title="法国",|法语| CINE+ PREMIERE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5224
+#EXTINF:-1 group-title="比利时",|BE| RTBF LA UNE
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73122
+#EXTINF:-1 group-title="比利时",|BE| RTL LA DEUX
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73121
+#EXTINF:-1 group-title="比利时",|BE| RTBF LA TROIS
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73120
+#EXTINF:-1 group-title="比利时",|BE| RTL CLUB
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73119
+
+
 #EXTINF:-1 group-title="加拿大",|法语| TV5 Quebec HD (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57288
 #EXTINF:-1 group-title="加拿大" tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
@@ -767,3 +779,20 @@ https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 group-title="其他",VB
 https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 group-title="其他",|MYHD| MBC 1 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5817
+#EXTINF:-1 group-title="其他",|MYHD| MBC 2 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5816
+#EXTINF:-1 group-title="其他",|MYHD| MBC 3 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5815
+#EXTINF:-1 group-title="其他",|MYHD| MBC 4 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5814
+#EXTINF:-1 group-title="其他",|MYHD| MBC ACTION HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5813
+#EXTINF:-1 group-title="其他",|MYHD| MBC MAX HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5810
+#EXTINF:-1 group-title="其他",|OSN| MOVIES +2
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63833
+#EXTINF:-1 group-title="其他",|OSN| ON DEMAND 3
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/64290
+
