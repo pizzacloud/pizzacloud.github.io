@@ -37,13 +37,13 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/64385
 #EXTINF:-1 group-title="英国",UK: BBC NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/53757
-#EXTINF:-1 group-title="英国" tvg-id="BBC1.uk" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",|英国| BBC ONE FHD
+#EXTINF:-1 group-title="英国" tvg-id="BBC1.uk" tvg-logo="",|英国| BBC ONE FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63662
-#EXTINF:-1 group-title="英国" tvg-id="BBC4.uk" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",|英国| BBC FOUR FHD
+#EXTINF:-1 group-title="英国" tvg-id="BBC4.uk" tvg-logo="",|英国| BBC FOUR FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63661
 #EXTINF:-1 group-title="英国",CA | BBC EARTH
 http://cord-cutter.net:8080/jesus1/jesus1/99621
-#EXTINF:-1 group-title="英国" tvg-id="BBCEntertainment.uk" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",BBC ENTERTAINMENT HD
+#EXTINF:-1 group-title="英国" tvg-id="BBCEntertainment.uk" tvg-logo="",BBC ENTERTAINMENT HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6391
 #EXTINF:-1 group-title="英国",|英国| CHANNEL 4 FHD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63611
