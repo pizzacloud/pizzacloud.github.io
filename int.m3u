@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.xml,https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="CNNInternationalEurope.us" tvg-logo="https://live.fanmingming.com/tv/cnn.png",CNN International Europe
