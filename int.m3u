@@ -9,7 +9,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",KBS World
+#EXTINF:-1 group-title="国际频道" tvg-logo="",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
@@ -517,7 +517,7 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9754
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
 #EXTINF:-1 group-title="法国" tvg-id="OCSMax.fr",|法语| OCS MAX HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5221
-#EXTINF:-1 group-title="法国" tvg-id="13eRue",|法语| 13eme RUE HD
+#EXTINF:-1 group-title="法国" tvg-id="13eRue.fr",|法语| 13ème RUE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5222
 #EXTINF:-1 group-title="法国" tvg-id="Syfy.fr",|法语| SYFY HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5211
@@ -753,8 +753,6 @@ https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="其他",越·ANTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="其他",番薯
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="其他",日本QVC
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="其他",长城精品
