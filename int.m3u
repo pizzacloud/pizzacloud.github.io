@@ -447,6 +447,30 @@ http://cord-cutter.net:8080/jesus1/jesus1/57254
 http://cord-cutter.net:8080/jesus1/jesus1/57350
 #EXTINF:-1 group-title="加拿大",CanadaOne
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="|US| Baby TV" tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="USA KIDS",|US| Baby TV
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141788.ts
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="|US| BabyFirst TV" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="USA KIDS",|US| BabyFirst TV
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141789.ts
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="|US| DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="USA KIDS",|US| DISNEY CHANNEL
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141503.ts
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="|US| DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="USA KIDS",|US| DISNEY XD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141506.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="|US| CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS",|US| CARTOON NETWORK
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141504.ts
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="|US| Universal Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1280px-Universal_Kids_2019_Logo.svg.png" group-title="USA KIDS",|US| Universal Kids TV
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141558.ts
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="|US| Nick Teen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nickelodeon_Teen.svg/1200px-Nickelodeon_Teen.svg.png" group-title="USA KIDS",|US| Nick Teen
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141572.ts
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="|US| Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="USA KIDS",|US| Nickelodeon
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141578.ts
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="|US| Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/1200px-Nicktoons_UK_Logo_2010.svg.png" group-title="USA KIDS",|US| Nicktoons
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/142192.ts
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="|US| TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="USA KIDS",|US| TeenNick
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/142245.ts
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="|US| PBS KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest?cb=20170814134849" group-title="USA KIDS",|US| PBS KIDS
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141519.ts
+
 #EXTINF:-1 group-title="法国" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
