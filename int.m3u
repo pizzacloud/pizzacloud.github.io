@@ -52,10 +52,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://cord-cutter.net:8080/jesus1/jesus1/81111
 #EXTINF:-1 group-title="美国",US CHARGE! (S)
 http://cord-cutter.net:8080/jesus1/jesus1/79594
-#EXTINF:-1 group-title="美国",US Disney Channel East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/2206
-#EXTINF:-1 group-title="美国",US: Disney XD
-http://cord-cutter.net:8080/jesus1/jesus1/75621
 #EXTINF:-1 group-title="美国",US Lifetime Movies 
 http://cord-cutter.net:8080/jesus1/jesus1/20863
 #EXTINF:-1 group-title="美国",US NBC Sports Network (F)
@@ -134,8 +130,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/21896
 http://cord-cutter.net:8080/jesus1/jesus1/13380
 #EXTINF:-1 group-title="美国",USA: CMT HD
 http://cord-cutter.net:8080/jesus1/jesus1/10476
-#EXTINF:-1 group-title="美国",US CNBC 
-http://cord-cutter.net:8080/jesus1/jesus1/9815
 #EXTINF:-1 group-title="美国",US CNBC World
 http://cord-cutter.net:8080/jesus1/jesus1/20860
 #EXTINF:-1 group-title="美国",US CNN 
@@ -164,8 +158,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/53539
 http://cord-cutter.net:8080/jesus1/jesus1/11651
 #EXTINF:-1 group-title="美国",US EPIX (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/13214
-#EXTINF:-1 group-title="美国",US Epix Drive IN (S)
-http://cord-cutter.net:8080/jesus1/jesus1/14193
 #EXTINF:-1 group-title="美国",USA: Epix Hits
 http://cord-cutter.net:8080/jesus1/jesus1/12744
 #EXTINF:-1 group-title="美国",US EPIX2 (East)
@@ -272,8 +264,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/9244
 http://cord-cutter.net:8080/jesus1/jesus1/21012
 #EXTINF:-1 group-title="美国",USA: OUTSIDE TV
 http://cord-cutter.net:8080/jesus1/jesus1/20865
-#EXTINF:-1 group-title="美国",USA: OWN
-http://cord-cutter.net:8080/jesus1/jesus1/46698
 #EXTINF:-1 group-title="美国",US Oxygen (A)
 http://cord-cutter.net:8080/jesus1/jesus1/46695
 #EXTINF:-1 group-title="美国",US Paramount Network 
@@ -359,14 +349,14 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9445
 #EXTINF:-1 group-title="美国",|US| C-SPAN 3 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9444
 
+#EXTINF:-1 group-title="多国少儿节目",US Disney Channel East (A)
+http://cord-cutter.net:8080/jesus1/jesus1/2206
+#EXTINF:-1 group-title="多国少儿节目",US: Disney XD
+http://cord-cutter.net:8080/jesus1/jesus1/75621
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="|US| Baby TV" tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="多国少儿节目",|US| Baby TV
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141788.ts
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="|US| BabyFirst TV" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="多国少儿节目",|US| BabyFirst TV
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141789.ts
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="|US| DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="多国少儿节目",|US| DISNEY CHANNEL
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141503.ts
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="|US| DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="多国少儿节目",|US| DISNEY XD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141506.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="|US| CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="多国少儿节目",|US| CARTOON NETWORK
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141504.ts
 #EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="|US| Universal Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1280px-Universal_Kids_2019_Logo.svg.png" group-title="多国少儿节目",|US| Universal Kids TV
