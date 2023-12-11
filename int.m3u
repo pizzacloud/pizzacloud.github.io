@@ -190,6 +190,47 @@ http://cord-cutter.net:8080/jesus1/jesus1/46690
 #EXTINF:-1 group-title="美国影视",US VH1 
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 
+#EXTINF:-1 group-title="英国及加拿大",UK: BBC NEWS
+http://cord-cutter.net:8080/jesus1/jesus1/53757
+#EXTINF:-1 group-title="英国及加拿大",CA | BBC EARTH
+http://cord-cutter.net:8080/jesus1/jesus1/99621
+#EXTINF:-1 group-title="英国及加拿大",UK-ITV
+http://cord-cutter.net:8080/jesus1/jesus1/53651
+#EXTINF:-1 group-title="英国及加拿大",UK ITV2 HD 
+http://cord-cutter.net:8080/jesus1/jesus1/53671
+#EXTINF:-1 group-title="英国及加拿大",|英国| ITV3 FHD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63619
+#EXTINF:-1 group-title="英国及加拿大",|英国| ITV4 FHD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63620
+#EXTINF:-1 group-title="英国及加拿大",|英国| ITVBe FHD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63621
+#EXTINF:-1 group-title="英国及加拿大",|英国| CBEEBIES FHD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63659
+#EXTINF:-1 group-title="英国及加拿大",INFAST
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英国及加拿大",CA: CPAC
+http://cord-cutter.net:8080/jesus1/jesus1/57402
+#EXTINF:-1 group-title="英国及加拿大",CA: CPAC English
+http://cord-cutter.net:8080/jesus1/jesus1/57352
+#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 1 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57309
+#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 2 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57310
+#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 3
+http://cord-cutter.net:8080/jesus1/jesus1/57322
+#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 4 HD
+http://cord-cutter.net:8080/jesus1/jesus1/57311
+#EXTINF:-1 tvg-id="" tvg-name="|CA| Oprah Winfrey Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1280px-OWN_2011_logo.svg.png" group-title="英国及加拿大",|CA| Oprah Winfrey Network
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141211.ts
+#EXTINF:-1 group-title="英国及加拿大",CA CTV Two Atlantic 
+http://cord-cutter.net:8080/jesus1/jesus1/79547
+#EXTINF:-1 group-title="英国及加拿大",CA CTV Comedy Channel (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57408
+#EXTINF:-1 group-title="英国及加拿大",CA CTV Drama Channel (R)
+http://cord-cutter.net:8080/jesus1/jesus1/57254
+#EXTINF:-1 group-title="英国及加拿大",CA: CTV NEWS CHANNEL HD
+http://cord-cutter.net:8080/jesus1/jesus1/57350
+
 #EXTINF:-1 group-title="多国少儿节目",US Disney Channel East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/2206
 #EXTINF:-1 group-title="多国少儿节目",US Nick Jr 
@@ -277,76 +318,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9554.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| PITCHOUN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B8vKxTLBf_Rk7lB9gfMsxpYTwvXRFrztVeaaSfmoh8qvHAwEHBvJLBc&s" group-title="多国少儿节目",|FR| PITCHOUN TV HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62905.ts
 
-#EXTINF:-1 group-title="英国及加拿大",UK: BBC NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/53757
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="BBC1.uk" tvg-logo="",|英国| BBC ONE FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63662
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="BBC4.uk" tvg-logo="",|英国| BBC FOUR FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63661
-#EXTINF:-1 group-title="英国及加拿大",CA | BBC EARTH
-http://cord-cutter.net:8080/jesus1/jesus1/99621
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="BBCEntertainment.uk" tvg-logo="",BBC ENTERTAINMENT HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/6391
-#EXTINF:-1 group-title="英国及加拿大",|英国| CHANNEL 4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63611
-#EXTINF:-1 group-title="英国及加拿大",|英国| SKY NEWS FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63655
-#EXTINF:-1 group-title="英国及加拿大",|英国| BLOOMBERG FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63654
-#EXTINF:-1 group-title="英国及加拿大",UK-ITV
-http://cord-cutter.net:8080/jesus1/jesus1/53651
-#EXTINF:-1 group-title="英国及加拿大",UK ITV2 HD 
-http://cord-cutter.net:8080/jesus1/jesus1/53671
-#EXTINF:-1 group-title="英国及加拿大",|英国| ITV3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63619
-#EXTINF:-1 group-title="英国及加拿大",|英国| ITV4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63620
-#EXTINF:-1 group-title="英国及加拿大",|英国| ITVBe FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63621
-#EXTINF:-1 group-title="英国及加拿大",|英国| W FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63622
-#EXTINF:-1 group-title="英国及加拿大",|英国| Disney Channel
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63627
-#EXTINF:-1 group-title="英国及加拿大",|英国| ANIMAL PLANT FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63642
-#EXTINF:-1 group-title="英国及加拿大",|英国| TCM FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63644
-#EXTINF:-1 group-title="英国及加拿大",|英国| CBEEBIES FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63659
-#EXTINF:-1 group-title="英国及加拿大",InsightTV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英国及加拿大",CA CP24 News HD (E)
-http://cord-cutter.net:8080/jesus1/jesus1/57401
-#EXTINF:-1 group-title="英国及加拿大",CA: CP24 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57257
-#EXTINF:-1 group-title="英国及加拿大",CA: CPAC
-http://cord-cutter.net:8080/jesus1/jesus1/57402
-#EXTINF:-1 group-title="英国及加拿大",CA: CPAC English
-http://cord-cutter.net:8080/jesus1/jesus1/57352
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 1 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57309
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 2 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57310
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 3
-http://cord-cutter.net:8080/jesus1/jesus1/57322
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 4 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57311
-#EXTINF:-1 group-title="英国及加拿大",CA: CRIME & INVESTIGATION
-http://cord-cutter.net:8080/jesus1/jesus1/57256
-#EXTINF:-1 tvg-id="" tvg-name="|CA| Oprah Winfrey Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1280px-OWN_2011_logo.svg.png" group-title="英国及加拿大",|CA| Oprah Winfrey Network
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141211.ts
-#EXTINF:-1 group-title="英国及加拿大",CA CTV Two Atlantic 
-http://cord-cutter.net:8080/jesus1/jesus1/79547
-#EXTINF:-1 group-title="英国及加拿大",CA CTV CALGARY (E)
-http://cord-cutter.net:8080/jesus1/jesus1/57964
-#EXTINF:-1 group-title="英国及加拿大",CA CTV Comedy Channel (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57408
-#EXTINF:-1 group-title="英国及加拿大",CA CTV Drama Channel (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57254
-#EXTINF:-1 group-title="英国及加拿大",CA: CTV NEWS CHANNEL HD
-http://cord-cutter.net:8080/jesus1/jesus1/57350
-#EXTINF:-1 group-title="英国及加拿大",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="法国" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
