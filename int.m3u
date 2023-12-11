@@ -317,6 +317,8 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50674.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9554.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| PITCHOUN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B8vKxTLBf_Rk7lB9gfMsxpYTwvXRFrztVeaaSfmoh8qvHAwEHBvJLBc&s" group-title="多国少儿节目",|FR| PITCHOUN TV HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62905.ts
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="CartoonNetwork.fr",|法语| Cartoon Network HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
 
 
 #EXTINF:-1 group-title="法国" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
@@ -419,10 +421,6 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5263
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11426
 #EXTINF:-1 group-title="法国" tvg-id="Histoire.fr",|法语| HISTOIRE HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5253
-#EXTINF:-1 group-title="法国",|法语| AMAZON PRIME 1 HD ( ONLY EVENTS )
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/92649
-#EXTINF:-1 group-title="法国" tvg-id="CartoonNetwork.fr",|法语| Cartoon Network HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
 #EXTINF:-1 group-title="法国" tvg-id="EEntertainment.fr",|法语| E! Entertainment
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9820
 #EXTINF:-1 group-title="法国" tvg-id="TraceUrban.fr",|法语| TRACE Urban
@@ -437,8 +435,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51153.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9594.ts
 #EXTINF:-1 tvg-id="AB3.be" tvg-name="|FR| AB3 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/AB3.png" group-title="法国",|FR| AB3 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15215.ts
-#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR.RP| SERIE CLUB HD" tvg-logo="http://one-iptv.com/logoX/francetnt/serieclub.png" group-title="法国",|FR.RP| SERIE CLUB HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9226.ts
 #EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE PLUS HD" tvg-logo="http://one-iptv.com/logoX/francetnt/comedie.png" group-title="法国",|FR| COMEDIE PLUS HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15183.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_teva.png" group-title="法国",|FR| TEVA FHD
@@ -453,12 +449,8 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62893.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62914.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| RTS DEUX FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="法国",|FR| RTS DEUX FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9506.ts
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/W9.fr.png" group-title="法国",|FR| W9 FHD HEVC
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51173.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| EUROCHANNEL" tvg-logo="http://one-iptv.com/imageslogo/Eurochannel.fr.png" group-title="法国",|FR| EUROCHANNEL
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/108053.ts
-#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/serieclub.png" group-title="法国",|FR| SERIE CLUB FHD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51123.ts
 #EXTINF:-1 group-title="法国",|法语| TVM3 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17851
 
@@ -488,8 +480,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15214.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9592.ts
 #EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="法国影视",|FR| TMC+1 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9494.ts
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="http://one-iptv.com/logoX/francetnt/paramount.png" group-title="法国影视",|FR| PARAMOUNT CHANNEL HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15138.ts
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| CINE CLASSIC FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/cineclassic.png" group-title="法国影视",|FR| CINE CLASSIC FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50886.ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="|FR| CINE CLUB FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUurUIvPusHpSUhU8ChTH2k0qye-Eep-srMZ_k-9-TyhLfMyPkho_s30&s" group-title="法国影视",|FR| CINE CLUB FHD
@@ -502,6 +492,7 @@ http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5259
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15134.ts
 #EXTINF:-1 tvg-id="12Keshet.il" tvg-name="|FR| PLANETE CRIME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMdv1Cd8EJ4oWr0QOYV7ZynEEIBZNolAVnJ3hZBodDJRrZ64NgO-qnIJ7" group-title="法国影视",|FR| PLANETE CRIME FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9510.ts
+
 #EXTINF:-1 group-title="比利时、非洲及加勒比法语",|BE| RTBF LA UNE
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73122
 #EXTINF:-1 group-title="比利时、非洲及加勒比法语",|BE| RTL LA DEUX
@@ -701,33 +692,9 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67253.ts
 #EXTINF:-1 group-title="阿拉伯影视" tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="其他",葡萄牙RTP 1 FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/336565
 #EXTINF:-1 group-title="其他",巴西CNN HD
 http://cord-cutter.net:8080/jesus1/jesus1/164792
-#EXTINF:-1 group-title="其他",韩·SBS
-http://cord-cutter.net:8080/jesus1/jesus1/164802
-#EXTINF:-1 group-title="其他",韩·KoreaTV
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="其他",韩·TBS
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="其他",韩·EBS1
-https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#EXTINF:-1 group-title="其他",韩·EBS2
-https://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他",韩·EBSe
-https://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他",韩·NBS
-https://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="其他",越·HBTV
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="其他",越·ANTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="其他",日本QVC
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="其他",长城精品
-https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="其他",VB
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music: Free TV" tvg-logo="" group-title="其他",Music: Free TV
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/151443.ts
