@@ -866,8 +866,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/142881.ts
 #EXTINF:-1 tvg-id="" tvg-name="|CA| APTN" tvg-logo="https://seeklogo.com/images/A/aptn-logo-ABB7562105-seeklogo.com.png" group-title="加拿大法语",|CA| APTN
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/142898.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|.AF.| TV5 MONDE (FR)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Ymi9Nz-MImHn7guTFt0YlhN6ipOG2SpP0FZMHggB3Qf9Ejf4Cx-4qL_&s" group-title="非洲及加勒比法语",|.AF.| TV5 MONDE (FR)
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62697.ts
 #EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 group-title="非洲及加勒比法语" tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png",Télé Tchad
