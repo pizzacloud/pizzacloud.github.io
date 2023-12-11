@@ -29,49 +29,67 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="FashionTV.fr" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",FASHIONTV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",EdgeSport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",|土耳其| TRT World HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/64385
 
+#EXTINF:-1 group-title="美国",US CNBC World
+http://cord-cutter.net:8080/jesus1/jesus1/20860
+#EXTINF:-1 group-title="美国",US CNN 
+http://cord-cutter.net:8080/jesus1/jesus1/104884
 #EXTINF:-1 group-title="美国",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="美国",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国",|US| C-SPAN 1 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9446
+#EXTINF:-1 group-title="美国",|US| C-SPAN 2 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9445
+#EXTINF:-1 group-title="美国",|US| C-SPAN 3 HD
+http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9444
+#EXTINF:-1 group-title="美国",US Bloomberg
+http://cord-cutter.net:8080/jesus1/jesus1/15158
+#EXTINF:-1 group-title="美国",US Fox Business Network
+http://cord-cutter.net:8080/jesus1/jesus1/17639
+#EXTINF:-1 group-title="美国",US Fox News  (F)
+http://cord-cutter.net:8080/jesus1/jesus1/1818
+#EXTINF:-1 group-title="美国",USA: NBC
+http://cord-cutter.net:8080/jesus1/jesus1/46687
+#EXTINF:-1 group-title="美国",US MSNBC 
+http://cord-cutter.net:8080/jesus1/jesus1/9296
 #EXTINF:-1 group-title="美国" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="美国",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="美国",美·NASA 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="美国",US Discovery Channel East 
+http://cord-cutter.net:8080/jesus1/jesus1/9811
+#EXTINF:-1 group-title="美国",USA: DISCOVERY FAMILY
+http://cord-cutter.net:8080/jesus1/jesus1/10538
+#EXTINF:-1 group-title="美国",USA: Discovery Life HD
+http://cord-cutter.net:8080/jesus1/jesus1/9861
+#EXTINF:-1 group-title="美国",US DIY Network 
+http://cord-cutter.net:8080/jesus1/jesus1/10503
+#EXTINF:-1 group-title="美国",US BBC America (A)
+http://cord-cutter.net:8080/jesus1/jesus1/20194
 #EXTINF:-1 group-title="美国",美·红牛运动
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="美国",US Bally Sports Southeast (A)
-http://cord-cutter.net:8080/jesus1/jesus1/81111
 #EXTINF:-1 group-title="美国",US CHARGE! (S)
 http://cord-cutter.net:8080/jesus1/jesus1/79594
-#EXTINF:-1 group-title="美国",US Lifetime Movies 
-http://cord-cutter.net:8080/jesus1/jesus1/20863
 #EXTINF:-1 group-title="美国",US NBC Sports Network (F)
 http://cord-cutter.net:8080/jesus1/jesus1/46725
-#EXTINF:-1 group-title="美国",US NickToons 
-http://cord-cutter.net:8080/jesus1/jesus1/36
+#EXTINF:-1 group-title="美国",US Lifetime Movies 
+http://cord-cutter.net:8080/jesus1/jesus1/20863
 #EXTINF:-1 group-title="美国",US STARZ ENCORE Black
 http://cord-cutter.net:8080/jesus1/jesus1/16141
 #EXTINF:-1 group-title="美国",LAT: TELEMUNDO 51 MIAMI HD
 http://cord-cutter.net:8080/jesus1/jesus1/56410
 #EXTINF:-1 group-title="美国",US: WWE NETWORK
 http://cord-cutter.net:8080/jesus1/jesus1/11645
-#EXTINF:-1 group-title="美国",US NBC (KXAN) Austin (F)
-http://cord-cutter.net:8080/jesus1/jesus1/17749
-#EXTINF:-1 group-title="美国",USA-Disney Jr
-http://cord-cutter.net:8080/jesus1/jesus1/41960
 #EXTINF:-1 group-title="美国",US ESPN NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/17707
-#EXTINF:-1 group-title="美国",US Nickelodeon East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/38
 #EXTINF:-1 group-title="美国",US PAC12 Washington (F)
 http://cord-cutter.net:8080/jesus1/jesus1/16571
 #EXTINF:-1 group-title="美国",US ESPN SEC Network 
@@ -114,12 +132,8 @@ http://cord-cutter.net:8080/jesus1/jesus1/21927
 http://cord-cutter.net:8080/jesus1/jesus1/48324
 #EXTINF:-1 group-title="美国",USA: Baby First HD
 http://cord-cutter.net:8080/jesus1/jesus1/58765
-#EXTINF:-1 group-title="美国",US BBC America (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20194
 #EXTINF:-1 group-title="美国",US BET (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/46703
-#EXTINF:-1 group-title="美国",US Bloomberg
-http://cord-cutter.net:8080/jesus1/jesus1/15158
 #EXTINF:-1 group-title="美国",US Bounce XL 
 http://cord-cutter.net:8080/jesus1/jesus1/48323
 #EXTINF:-1 group-title="美国",US Bravo (East)   
@@ -130,10 +144,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/21896
 http://cord-cutter.net:8080/jesus1/jesus1/13380
 #EXTINF:-1 group-title="美国",USA: CMT HD
 http://cord-cutter.net:8080/jesus1/jesus1/10476
-#EXTINF:-1 group-title="美国",US CNBC World
-http://cord-cutter.net:8080/jesus1/jesus1/20860
-#EXTINF:-1 group-title="美国",US CNN 
-http://cord-cutter.net:8080/jesus1/jesus1/104884
 #EXTINF:-1 group-title="美国",US Comedy Central (East) (F)
 http://cord-cutter.net:8080/jesus1/jesus1/7466
 #EXTINF:-1 group-title="美国",US Comet (S)
@@ -144,14 +154,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/9229
 http://cord-cutter.net:8080/jesus1/jesus1/11868
 #EXTINF:-1 group-title="美国",US Destination America (A)
 http://cord-cutter.net:8080/jesus1/jesus1/14222
-#EXTINF:-1 group-title="美国",US Discovery Channel East 
-http://cord-cutter.net:8080/jesus1/jesus1/9811
-#EXTINF:-1 group-title="美国",USA: DISCOVERY FAMILY
-http://cord-cutter.net:8080/jesus1/jesus1/10538
-#EXTINF:-1 group-title="美国",USA: Discovery Life HD
-http://cord-cutter.net:8080/jesus1/jesus1/9861
-#EXTINF:-1 group-title="美国",US DIY Network 
-http://cord-cutter.net:8080/jesus1/jesus1/10503
 #EXTINF:-1 group-title="美国",USA: DOGTV
 http://cord-cutter.net:8080/jesus1/jesus1/53539
 #EXTINF:-1 group-title="美国",US E! Entertainment Television East (A)
@@ -166,12 +168,10 @@ http://cord-cutter.net:8080/jesus1/jesus1/12730
 http://cord-cutter.net:8080/jesus1/jesus1/14197
 #EXTINF:-1 group-title="美国",US ESPN 2 
 http://cord-cutter.net:8080/jesus1/jesus1/2210
+#EXTINF:-1 group-title="美国",EdgeSport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",USA: Food Network HD
 http://cord-cutter.net:8080/jesus1/jesus1/7323
-#EXTINF:-1 group-title="美国",US Fox Business Network
-http://cord-cutter.net:8080/jesus1/jesus1/17639
-#EXTINF:-1 group-title="美国",US Fox News  (F)
-http://cord-cutter.net:8080/jesus1/jesus1/1818
 #EXTINF:-1 group-title="美国",US Freeform East
 http://cord-cutter.net:8080/jesus1/jesus1/13370
 #EXTINF:-1 group-title="美国",US Fuse (A)
@@ -190,26 +190,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/58770
 http://cord-cutter.net:8080/jesus1/jesus1/17640
 #EXTINF:-1 group-title="美国",US Grit TV
 http://cord-cutter.net:8080/jesus1/jesus1/20861
-#EXTINF:-1 group-title="美国",US Hallmark Channel
-http://cord-cutter.net:8080/jesus1/jesus1/46719
-#EXTINF:-1 group-title="美国",US Hallmark Drama 
-http://cord-cutter.net:8080/jesus1/jesus1/9307
-#EXTINF:-1 group-title="美国",US Hallmark Movies & Mysteries 
-http://cord-cutter.net:8080/jesus1/jesus1/10289
-#EXTINF:-1 group-title="美国",US HBO 
-http://cord-cutter.net:8080/jesus1/jesus1/9264
-#EXTINF:-1 group-title="美国",US HBO 2 (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9816
-#EXTINF:-1 group-title="美国",US HBO Comedy (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17773
-#EXTINF:-1 group-title="美国",US HBO Family (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17772
-#EXTINF:-1 group-title="美国",US HBO SIGNATURE (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/9266
-#EXTINF:-1 group-title="美国",US HBO Zone (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/9265
-#EXTINF:-1 group-title="美国",US HDNET MOVIES 
-http://cord-cutter.net:8080/jesus1/jesus1/16265
 #EXTINF:-1 group-title="美国",US HGTV (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/46717
 #EXTINF:-1 group-title="美国",US HISTORY 
@@ -236,8 +216,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/10399
 http://cord-cutter.net:8080/jesus1/jesus1/13480
 #EXTINF:-1 group-title="美国",US MoviePlex (East) (H)
 http://cord-cutter.net:8080/jesus1/jesus1/1829
-#EXTINF:-1 group-title="美国",US MSNBC 
-http://cord-cutter.net:8080/jesus1/jesus1/9296
 #EXTINF:-1 group-title="美国",US MTV 
 http://cord-cutter.net:8080/jesus1/jesus1/9818
 #EXTINF:-1 group-title="美国",US MTV2 
@@ -250,8 +228,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/46722
 http://cord-cutter.net:8080/jesus1/jesus1/21644
 #EXTINF:-1 group-title="美国",USA: NBA TV
 http://cord-cutter.net:8080/jesus1/jesus1/20073
-#EXTINF:-1 group-title="美国",USA: NBC
-http://cord-cutter.net:8080/jesus1/jesus1/46687
 #EXTINF:-1 group-title="美国",US Golf Channel 
 http://cord-cutter.net:8080/jesus1/jesus1/9806
 #EXTINF:-1 group-title="美国",US Nick Jr 
@@ -266,10 +242,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/21012
 http://cord-cutter.net:8080/jesus1/jesus1/20865
 #EXTINF:-1 group-title="美国",US Oxygen (A)
 http://cord-cutter.net:8080/jesus1/jesus1/46695
-#EXTINF:-1 group-title="美国",US Paramount Network 
-http://cord-cutter.net:8080/jesus1/jesus1/16201
-#EXTINF:-1 group-title="美国",US Paramount TV (s)
-http://cord-cutter.net:8080/jesus1/jesus1/10464
 #EXTINF:-1 group-title="美国",US PixL (S)
 http://cord-cutter.net:8080/jesus1/jesus1/21648
 #EXTINF:-1 group-title="美国",US Reelz 
@@ -286,6 +258,38 @@ http://cord-cutter.net:8080/jesus1/jesus1/75654
 http://cord-cutter.net:8080/jesus1/jesus1/66243
 #EXTINF:-1 group-title="美国",US Discovery Science (A)
 http://cord-cutter.net:8080/jesus1/jesus1/20866
+#EXTINF:-1 group-title="美国",US The Weather Channel (A)
+http://cord-cutter.net:8080/jesus1/jesus1/18926
+#EXTINF:-1 group-title="美国",US ThrillerMax (East)
+http://cord-cutter.net:8080/jesus1/jesus1/17774
+#EXTINF:-1 group-title="美国",US TLC East (F)
+http://cord-cutter.net:8080/jesus1/jesus1/12734
+#EXTINF:-1 group-title="美国",US TNT East 
+http://cord-cutter.net:8080/jesus1/jesus1/10455
+#EXTINF:-1 group-title="美国",US Travel Channel East 
+http://cord-cutter.net:8080/jesus1/jesus1/9315
+#EXTINF:-1 group-title="美国",US TRUTV East 
+http://cord-cutter.net:8080/jesus1/jesus1/10224
+#EXTINF:-1 group-title="美国",CA Turner Classic Movies (R)
+http://cord-cutter.net:8080/jesus1/jesus1/66242
+#EXTINF:-1 group-title="美国",US TV Land 
+http://cord-cutter.net:8080/jesus1/jesus1/46696
+#EXTINF:-1 group-title="美国",USA: TV Land Classic HD
+http://cord-cutter.net:8080/jesus1/jesus1/9271
+#EXTINF:-1 group-title="美国",US TV One 
+http://cord-cutter.net:8080/jesus1/jesus1/20868
+#EXTINF:-1 group-title="美国",US Univision (East) (SP)
+http://cord-cutter.net:8080/jesus1/jesus1/46692
+#EXTINF:-1 group-title="美国",US Up TV (SP)
+http://cord-cutter.net:8080/jesus1/jesus1/10525
+#EXTINF:-1 group-title="美国",US USA Network (East)  
+http://cord-cutter.net:8080/jesus1/jesus1/10252
+#EXTINF:-1 group-title="美国",US VH1 
+http://cord-cutter.net:8080/jesus1/jesus1/7404
+#EXTINF:-1 group-title="美国",US VICELAND 
+http://cord-cutter.net:8080/jesus1/jesus1/46697
+#EXTINF:-1 group-title="美国",Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国",US Showtime East 
 http://cord-cutter.net:8080/jesus1/jesus1/46214
 #EXTINF:-1 group-title="美国",US Showtime 2 (East) (H)
@@ -308,51 +312,44 @@ http://cord-cutter.net:8080/jesus1/jesus1/46685
 http://cord-cutter.net:8080/jesus1/jesus1/21895
 #EXTINF:-1 group-title="美国",US TBS 
 http://cord-cutter.net:8080/jesus1/jesus1/20867
-#EXTINF:-1 group-title="美国",US The Weather Channel (A)
-http://cord-cutter.net:8080/jesus1/jesus1/18926
-#EXTINF:-1 group-title="美国",US ThrillerMax (East)
-http://cord-cutter.net:8080/jesus1/jesus1/17774
-#EXTINF:-1 group-title="美国",US TLC East (F)
-http://cord-cutter.net:8080/jesus1/jesus1/12734
-#EXTINF:-1 group-title="美国",US TNT East 
-http://cord-cutter.net:8080/jesus1/jesus1/10455
-#EXTINF:-1 group-title="美国",US Travel Channel East 
-http://cord-cutter.net:8080/jesus1/jesus1/9315
-#EXTINF:-1 group-title="美国",US TRUTV East 
-http://cord-cutter.net:8080/jesus1/jesus1/10224
-#EXTINF:-1 group-title="美国",CA Turner Classic Movies (R)
-http://cord-cutter.net:8080/jesus1/jesus1/66242
-#EXTINF:-1 group-title="美国",US TV Land 
-http://cord-cutter.net:8080/jesus1/jesus1/46696
-#EXTINF:-1 group-title="美国",USA: TV Land Classic HD
-http://cord-cutter.net:8080/jesus1/jesus1/9271
-#EXTINF:-1 group-title="美国",US TV One 
-http://cord-cutter.net:8080/jesus1/jesus1/20868
-#EXTINF:-1 group-title="美国",US Universal Kids (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9235
-#EXTINF:-1 group-title="美国",US Univision (East) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/46692
-#EXTINF:-1 group-title="美国",US Up TV (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/10525
-#EXTINF:-1 group-title="美国",US USA Network (East)  
-http://cord-cutter.net:8080/jesus1/jesus1/10252
-#EXTINF:-1 group-title="美国",US VH1 
-http://cord-cutter.net:8080/jesus1/jesus1/7404
-#EXTINF:-1 group-title="美国",US VICELAND 
-http://cord-cutter.net:8080/jesus1/jesus1/46697
-#EXTINF:-1 group-title="美国",Moviesphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国",|US| C-SPAN 1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9446
-#EXTINF:-1 group-title="美国",|US| C-SPAN 2 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9445
-#EXTINF:-1 group-title="美国",|US| C-SPAN 3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9444
+#EXTINF:-1 group-title="美国",US Paramount Network 
+http://cord-cutter.net:8080/jesus1/jesus1/16201
+#EXTINF:-1 group-title="美国",US Paramount TV (s)
+http://cord-cutter.net:8080/jesus1/jesus1/10464
+#EXTINF:-1 group-title="美国",US Hallmark Channel
+http://cord-cutter.net:8080/jesus1/jesus1/46719
+#EXTINF:-1 group-title="美国",US Hallmark Drama 
+http://cord-cutter.net:8080/jesus1/jesus1/9307
+#EXTINF:-1 group-title="美国",US Hallmark Movies & Mysteries 
+http://cord-cutter.net:8080/jesus1/jesus1/10289
+#EXTINF:-1 group-title="美国",US HBO 
+http://cord-cutter.net:8080/jesus1/jesus1/9264
+#EXTINF:-1 group-title="美国",US HBO 2 (A)
+http://cord-cutter.net:8080/jesus1/jesus1/9816
+#EXTINF:-1 group-title="美国",US HBO Comedy (East) 
+http://cord-cutter.net:8080/jesus1/jesus1/17773
+#EXTINF:-1 group-title="美国",US HBO Family (East) 
+http://cord-cutter.net:8080/jesus1/jesus1/17772
+#EXTINF:-1 group-title="美国",US HBO SIGNATURE (East) 
+http://cord-cutter.net:8080/jesus1/jesus1/9266
+#EXTINF:-1 group-title="美国",US HBO Zone (East) (H)
+http://cord-cutter.net:8080/jesus1/jesus1/9265
+#EXTINF:-1 group-title="美国",US HDNET MOVIES 
+http://cord-cutter.net:8080/jesus1/jesus1/16265
+
 
 #EXTINF:-1 group-title="多国少儿节目",US Disney Channel East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/2206
+#EXTINF:-1 group-title="多国少儿节目",US Universal Kids (A)
+http://cord-cutter.net:8080/jesus1/jesus1/9235
 #EXTINF:-1 group-title="多国少儿节目",US: Disney XD
 http://cord-cutter.net:8080/jesus1/jesus1/75621
+#EXTINF:-1 group-title="多国少儿节目",US NickToons 
+http://cord-cutter.net:8080/jesus1/jesus1/36
+#EXTINF:-1 group-title="多国少儿节目",USA-Disney Jr
+http://cord-cutter.net:8080/jesus1/jesus1/41960
+#EXTINF:-1 group-title="多国少儿节目",US Nickelodeon East (A)
+http://cord-cutter.net:8080/jesus1/jesus1/38
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="|US| Baby TV" tvg-logo="https://i.pinimg.com/originals/0b/7a/e2/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="多国少儿节目",|US| Baby TV
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141788.ts
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="|US| BabyFirst TV" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="多国少儿节目",|US| BabyFirst TV
