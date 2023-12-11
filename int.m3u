@@ -542,15 +542,15 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15201.ts
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17861
 #EXTINF:-1 group-title="法国" tvg-id="France24.fr",|法语| FRANCE 24 Français
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5176
-#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="FRANCE NEWS",|FR| LA CHAINE METEO FHD
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="法国",|FR| LA CHAINE METEO FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/249114.ts
 #EXTINF:-1 group-title="法国" tvg-id="CNews.fr",|法语| C NEWS
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9747
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="FRANCE NEWS",|FR| TOP SANTE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="法国",|FR| TOP SANTE TV HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126648.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TV78 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" group-title="FRANCE NEWS",|FR| TV78 HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV78 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" group-title="法国",|FR| TV78 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126660.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="FRANCE NEWS",|FR| LUXE TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="法国",|FR| LUXE TV FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126664.ts
 #EXTINF:-1 group-title="法国" tvg-id="AfricaNews.af",AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
@@ -668,12 +668,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/108053.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51123.ts
 #EXTINF:-1 group-title="法国",|法语| TVM3 HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17851
-#EXTINF:-1 group-title="法国" tvg-id="MTV.fr",|法语| MTV FRANCE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9794
-#EXTINF:-1 group-title="法国" tvg-id="MTVHits.fr",|法语| MTV Hits
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9793
-
-
 
 #EXTINF:-1 group-title="法国影视",|法语| CANAL+ HD
 http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5160
