@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/ustvgo.for-light-bg.xml, https://xmltvfr.fr/xmltv/xmltv.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_US.xml"
 #EXTINF:-1 group-title="国际及美国" tvg-id="AlJazeeraEnglish.uk" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="CNN.uk" tvg-logo="https://live.fanmingming.com/tv/cnn.png",CNN International Europe
@@ -25,169 +25,163 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="FashionTV.fr" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",FASHIONTV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国",|土耳其| TRT World HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/64385
-#EXTINF:-1 group-title="国际及美国" ,US CNBC World
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",|土耳其| TRT World HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/149520.ts
+#EXTINF:-1 group-title="国际及美国" tvg-id="8772" tvg-logo="https://tinyurl.com/logos4u/cnbc.world.us.png",US CNBC World
 http://cord-cutter.net:8080/jesus1/jesus1/20860
-#EXTINF:-1 group-title="国际及美国",US CNN 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8693" tvg-logo="https://tinyurl.com/logos4u/cnn.us.png",US CNN 
 http://cord-cutter.net:8080/jesus1/jesus1/104884
-#EXTINF:-1 group-title="国际及美国",US Bloomberg
+#EXTINF:-1 group-title="国际及美国" tvg-id="8659" tvg-logo="https://tinyurl.com/logos4u/Bloomberg_News.png",US Bloomberg
 http://cord-cutter.net:8080/jesus1/jesus1/15158
-#EXTINF:-1 group-title="国际及美国",USA: ABC
+#EXTINF:-1 group-title="国际及美国" tvg-id="8371" tvg-logo="https://tinyurl.com/logos4u/ABC NEWS.png",USA: ABC
 http://cord-cutter.net:8080/jesus1/jesus1/22990
-#EXTINF:-1 group-title="国际及美国",US Fox News  (F)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8749" tvg-logo="https://tinyurl.com/logos4u/fox.news.us.png",US Fox News  (F)
 http://cord-cutter.net:8080/jesus1/jesus1/1818
-#EXTINF:-1 group-title="国际及美国",USA: NBC
+#EXTINF:-1 group-title="国际及美国" tvg-id="USA| NBC HD" tvg-logo="",USA: NBC
 http://cord-cutter.net:8080/jesus1/jesus1/46687
-#EXTINF:-1 group-title="国际及美国",US MSNBC 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8419" tvg-logo="https://tinyurl.com/logos4u/msnbc.usa.us.png",US MSNBC 
 http://cord-cutter.net:8080/jesus1/jesus1/9296
-#EXTINF:-1 group-title="国际及美国",US HLN (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8510" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10145_h15_ac.png",US HLN (A)
 http://cord-cutter.net:8080/jesus1/jesus1/17748
-#EXTINF:-1 group-title="国际及美国" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 group-title="国际及美国",美·NASA 1
+#EXTINF:-1 group-title="国际及美国" tvg-id="8914" tvg-logo="ttp://cdn.tvpassport.com/image/station/240x135/v2/s12553_h15_aa.png",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="国际及美国",美·NASA 2
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",美·NASA 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="国际及美国",US BBC America (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8971" tvg-logo="https://tinyurl.com/logos4u/bbc.america.east.us.png",US BBC America (A)
 http://cord-cutter.net:8080/jesus1/jesus1/20194
-#EXTINF:-1 group-title="国际及美国",US Discovery Channel East 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8985" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",US Discovery Channel East 
 http://cord-cutter.net:8080/jesus1/jesus1/9811
-#EXTINF:-1 group-title="国际及美国",USA: DISCOVERY FAMILY
+#EXTINF:-1 group-title="国际及美国" tvg-id="8422" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_aa.png",USA: DISCOVERY FAMILY
 http://cord-cutter.net:8080/jesus1/jesus1/10538
-#EXTINF:-1 group-title="国际及美国",USA: Discovery Life HD
+#EXTINF:-1 group-title="国际及美国" tvg-id="8397" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png",USA: Discovery Life HD
 http://cord-cutter.net:8080/jesus1/jesus1/9861
-#EXTINF:-1 group-title="国际及美国",US Discovery Science (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="Discovery Science EAST" tvg-logo="",US Discovery Science (A)
 http://cord-cutter.net:8080/jesus1/jesus1/20866
-#EXTINF:-1 group-title="国际及美国",US Animal Planet (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8656" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png",US Animal Planet (A)
 http://cord-cutter.net:8080/jesus1/jesus1/17870
-#EXTINF:-1 group-title="国际及美国",US HISTORY 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8891" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14771_h15_af.png",US HISTORY 
 http://cord-cutter.net:8080/jesus1/jesus1/46724
-#EXTINF:-1 group-title="国际及美国",US ID Investigation Discovery 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8487" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16615_h15_ad.png",US ID Investigation Discovery 
 http://cord-cutter.net:8080/jesus1/jesus1/46810
-#EXTINF:-1 group-title="国际及美国",US Nat Geo Wild East (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",US Nat Geo Wild East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/11664
-#EXTINF:-1 group-title="国际及美国",US National Geographic 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8825" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s24959_h15_ab.png",US National Geographic 
 http://cord-cutter.net:8080/jesus1/jesus1/46722
-#EXTINF:-1 group-title="国际及美国",US Magnoia Network 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8863" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18544_h15_ad.png",US Magnoia Network 
 http://cord-cutter.net:8080/jesus1/jesus1/10503
-#EXTINF:-1 group-title="国际及美国",US  Court TV
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",US  Court TV
 http://cord-cutter.net:8080/jesus1/jesus1/21092
-#EXTINF:-1 group-title="国际及美国",USA: A&E
+#EXTINF:-1 group-title="国际及美国" tvg-id="9038" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s21760_h15_aa.png",USA: A&E
 http://cord-cutter.net:8080/jesus1/jesus1/59056
-#EXTINF:-1 group-title="国际及美国",US AMC 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8396" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png",US AMC 
 http://cord-cutter.net:8080/jesus1/jesus1/18925
 #EXTINF:-1 group-title="国际及美国" tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png",Crime 360
 https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国",US Comet (S)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8377" tvg-logo="https://tinyurl.com/logos4u/Comet_TV.png",US Comet (S)
 http://cord-cutter.net:8080/jesus1/jesus1/66244
-#EXTINF:-1 group-title="国际及美国",US Cooking Channel 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8619" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png",US Cooking Channel 
 http://cord-cutter.net:8080/jesus1/jesus1/9229
 #EXTINF:-1 group-title="国际及美国" tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国",USA: Food Network HD
+#EXTINF:-1 group-title="国际及美国" tvg-id="8712" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s12574_h15_ab.png",USA: Food Network HD
 http://cord-cutter.net:8080/jesus1/jesus1/7323
-#EXTINF:-1 group-title="国际及美国",US Destination America (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8444" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16617_h15_aa.png",US Destination America (A)
 http://cord-cutter.net:8080/jesus1/jesus1/14222
-#EXTINF:-1 group-title="国际及美国",US MTV 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8451" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s66419_h15_aa.png",US MTV 
 http://cord-cutter.net:8080/jesus1/jesus1/9818
-#EXTINF:-1 group-title="国际及美国",US MTV2 
+#EXTINF:-1 group-title="国际及美国" tvg-id="9011" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16361_h15_aa.png",US MTV2 
 http://cord-cutter.net:8080/jesus1/jesus1/9308
-#EXTINF:-1 group-title="国际及美国",US ION 
+#EXTINF:-1 group-title="国际及美国" tvg-id="9100" tvg-logo="",US ION 
 http://cord-cutter.net:8080/jesus1/jesus1/9297
-#EXTINF:-1 group-title="国际及美国",US MotorTrend (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8467" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s92052_h15_aa.png",US MotorTrend (A)
 http://cord-cutter.net:8080/jesus1/jesus1/10399
-#EXTINF:-1 group-title="国际及美国",US ESPN 1 (HD) 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8853" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png",US ESPN 1 (HD) 
 http://cord-cutter.net:8080/jesus1/jesus1/14197
-#EXTINF:-1 group-title="国际及美国",US ESPN 2 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8362" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png",US ESPN 2 
 http://cord-cutter.net:8080/jesus1/jesus1/2210
-#EXTINF:-1 group-title="国际及美国",EdgeSport
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国",USA: NBA TV
+#EXTINF:-1 group-title="国际及美国" tvg-id="8533" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png",USA: NBA TV
 http://cord-cutter.net:8080/jesus1/jesus1/20073
-#EXTINF:-1 group-title="国际及美国",US Outdoor Channel
+#EXTINF:-1 group-title="国际及美国" tvg-id="9064" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14776_h15_ab.png",US Outdoor Channel
 http://cord-cutter.net:8080/jesus1/jesus1/9244
-#EXTINF:-1 group-title="国际及美国",US Revolt 
+#EXTINF:-1 group-title="国际及美国" tvg-id="8966" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s83097_h15_ab.png",US Revolt 
 http://cord-cutter.net:8080/jesus1/jesus1/39276
-#EXTINF:-1 group-title="国际及美国",US The Weather Channel (A)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8814" tvg-logo="https://tinyurl.com/logos4u/the.weather.channel.us.png",US The Weather Channel (A)
 http://cord-cutter.net:8080/jesus1/jesus1/18926
-#EXTINF:-1 group-title="国际及美国",US Univision (East) (SP)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8855" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11118_h15_ab.png",US Univision (East) (SP)
 http://cord-cutter.net:8080/jesus1/jesus1/46692
-#EXTINF:-1 group-title="国际及美国",US VICELAND 
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",US VICELAND 
 http://cord-cutter.net:8080/jesus1/jesus1/46697
-#EXTINF:-1 group-title="国际及美国",US: WWE NETWORK
+#EXTINF:-1 group-title="国际及美国" tvg-id="9013" tvg-logo="https://tinyurl.com/logos4u/wwe.network.ca.png",US: WWE NETWORK
 http://cord-cutter.net:8080/jesus1/jesus1/11645
-#EXTINF:-1 group-title="国际及美国",US Latin Galavision
+#EXTINF:-1 group-title="国际及美国" tvg-id="8536" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10222_h15_ab.png",US Latin Galavision
 http://cord-cutter.net:8080/jesus1/jesus1/58770
-#EXTINF:-1 group-title="国际及美国",LAT: TELEMUNDO 51 MIAMI HD
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",LAT: TELEMUNDO 51 MIAMI HD
 http://cord-cutter.net:8080/jesus1/jesus1/56410
-#EXTINF:-1 group-title="国际及美国",US UniMas   (F)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8545" tvg-logo="",US UniMas   (F)
 http://cord-cutter.net:8080/jesus1/jesus1/57969
-#EXTINF:-1 group-title="国际及美国",US Univision (East) (SP)
+#EXTINF:-1 group-title="国际及美国" tvg-id="8608" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11118_h15_ab.png",US Univision (East) (SP)
 http://cord-cutter.net:8080/jesus1/jesus1/15336
 
 
-#EXTINF:-1 group-title="美国影视",US Comedy Central (East) (F)
+#EXTINF:-1 group-title="美国影视" tvg-id="8379" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792",US Comedy Central (East) (F)
 http://cord-cutter.net:8080/jesus1/jesus1/7466
-#EXTINF:-1 group-title="美国影视",CA Adult Swim (R)
+#EXTINF:-1 group-title="美国影视" tvg-id="" tvg-logo="",CA Adult Swim (R)
 http://cord-cutter.net:8080/jesus1/jesus1/11644
-#EXTINF:-1 group-title="美国影视",US HBO 
+#EXTINF:-1 group-title="美国影视" tvg-id="8372" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",US HBO 
 http://cord-cutter.net:8080/jesus1/jesus1/9264
-#EXTINF:-1 group-title="美国影视",US HBO 2 (A)
+#EXTINF:-1 group-title="美国影视" tvg-id="8594" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png",US HBO 2 (A)
 http://cord-cutter.net:8080/jesus1/jesus1/9816
-#EXTINF:-1 group-title="美国影视",US HBO Comedy (East) 
+#EXTINF:-1 group-title="美国影视" tvg-id="8703" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png",US HBO Comedy (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/17773
-#EXTINF:-1 group-title="美国影视",US HBO Family (East) 
+#EXTINF:-1 group-title="美国影视" tvg-id="8810" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png",US HBO Family (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/17772
-#EXTINF:-1 group-title="美国影视",US HBO SIGNATURE (East) 
+#EXTINF:-1 group-title="美国影视" tvg-id="8746" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png",US HBO SIGNATURE (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/9266
-#EXTINF:-1 group-title="美国影视",US HBO Zone (East) (H)
+#EXTINF:-1 group-title="美国影视" tvg-id="9115" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18431_h15_aa.png",US HBO Zone (East) (H)
 http://cord-cutter.net:8080/jesus1/jesus1/9265
-#EXTINF:-1 group-title="美国影视",US HDNET MOVIES 
+#EXTINF:-1 group-title="美国影视" tvg-id="8649" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s33668_h15_ae.png",US HDNET MOVIES 
 http://cord-cutter.net:8080/jesus1/jesus1/16265
-#EXTINF:-1 group-title="美国影视",Moviesphere
+#EXTINF:-1 group-title="美国影视" tvg-id="" tvg-logo="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国影视",US Showtime East 
+#EXTINF:-1 group-title="美国影视" tvg-id="8440" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_aa.png",US Showtime East 
 http://cord-cutter.net:8080/jesus1/jesus1/46214
-#EXTINF:-1 group-title="美国影视",US Starz Cinema (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17775
-#EXTINF:-1 group-title="美国影视",US Syfy (East)   (F)
+#EXTINF:-1 group-title="美国影视" tvg-id="8828" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",US Syfy (East)   (F)
 http://cord-cutter.net:8080/jesus1/jesus1/46685
-#EXTINF:-1 group-title="美国影视",US Paramount Network 
+#EXTINF:-1 group-title="美国影视" tvg-id="8629" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11163_h15_ac.png",US Paramount Network 
 http://cord-cutter.net:8080/jesus1/jesus1/16201
-#EXTINF:-1 group-title="美国影视",US Paramount TV (s)
-http://cord-cutter.net:8080/jesus1/jesus1/10464
-#EXTINF:-1 group-title="美国影视",US Hallmark Channel
+#EXTINF:-1 group-title="美国影视" tvg-id="8912" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png",US Hallmark Channel
 http://cord-cutter.net:8080/jesus1/jesus1/46719
-#EXTINF:-1 group-title="美国影视",US Hallmark Drama 
+#EXTINF:-1 group-title="美国影视" tvg-id="8819" tvg-logo="",US Hallmark Drama 
 http://cord-cutter.net:8080/jesus1/jesus1/9307
-#EXTINF:-1 group-title="美国影视",US Hallmark Movies & Mysteries 
+#EXTINF:-1 group-title="美国影视" tvg-id="8936" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_aa.png",US Hallmark Movies & Mysteries 
 http://cord-cutter.net:8080/jesus1/jesus1/10289
-#EXTINF:-1 group-title="美国影视",US Lifetime 
+#EXTINF:-1 group-title="美国影视" tvg-id="8713" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",US Lifetime 
 http://cord-cutter.net:8080/jesus1/jesus1/46714
-#EXTINF:-1 group-title="美国影视",US Lifetime Movies 
+#EXTINF:-1 group-title="美国影视" tvg-id="8637" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18480_h15_ad.png",US Lifetime Movies 
 http://cord-cutter.net:8080/jesus1/jesus1/20863
-#EXTINF:-1 group-title="美国影视",US TLC East (F)
+#EXTINF:-1 group-title="美国影视" tvg-id="8593" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png",US TLC East (F)
 http://cord-cutter.net:8080/jesus1/jesus1/12734
-#EXTINF:-1 group-title="美国影视",US TNT East 
+#EXTINF:-1 group-title="美国影视" tvg-id="8549" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",US TNT East 
 http://cord-cutter.net:8080/jesus1/jesus1/10455
-#EXTINF:-1 group-title="美国影视",US TBN 
+#EXTINF:-1 group-title="美国影视" tvg-id="8995" tvg-logo="",US TBN 
 http://cord-cutter.net:8080/jesus1/jesus1/21895
-#EXTINF:-1 group-title="美国影视",US TBS 
+#EXTINF:-1 group-title="美国影视" tvg-id="8651" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",US TBS 
 http://cord-cutter.net:8080/jesus1/jesus1/20867
-#EXTINF:-1 group-title="美国影视",US E! Entertainment Television East (A)
+#EXTINF:-1 group-title="美国影视" tvg-id="8517" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-405.png",US E! Entertainment Television East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/11651
-#EXTINF:-1 group-title="美国影视",US 5 StarMax
+#EXTINF:-1 group-title="美国影视" tvg-id="9112" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s25620_h15_ad.png",US 5 StarMax
 http://cord-cutter.net:8080/jesus1/jesus1/13381
-#EXTINF:-1 group-title="美国影视",US Aspire (A)
+#EXTINF:-1 group-title="美国影视" tvg-id="9089" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s76126_h15_ad.png",US Aspire (A)
 http://cord-cutter.net:8080/jesus1/jesus1/21927
-#EXTINF:-1 group-title="美国影视",US BET (East) 
+#EXTINF:-1 group-title="美国影视" tvg-id="" tvg-logo="",US BET (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/46703
-#EXTINF:-1 group-title="美国影视",US Fuse (A)
+#EXTINF:-1 group-title="美国影视" tvg-id="8573" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png",US Fuse (A)
 http://cord-cutter.net:8080/jesus1/jesus1/46701
-#EXTINF:-1 group-title="美国影视",US FX East 
+#EXTINF:-1 group-title="美国影视" tvg-id="8691" tvg-logo="",US FX East 
 http://cord-cutter.net:8080/jesus1/jesus1/46690
-#EXTINF:-1 group-title="美国影视",US VH1 
+#EXTINF:-1 group-title="美国影视" tvg-id="8389" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",US VH1 
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 
 #EXTINF:-1 group-title="英国及加拿大",UK: BBC NEWS
@@ -199,13 +193,11 @@ http://cord-cutter.net:8080/jesus1/jesus1/53651
 #EXTINF:-1 group-title="英国及加拿大",UK ITV2 HD 
 http://cord-cutter.net:8080/jesus1/jesus1/53671
 #EXTINF:-1 group-title="英国及加拿大",|英国| ITV3 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63619
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30886.ts
 #EXTINF:-1 group-title="英国及加拿大",|英国| ITV4 FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63620
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/31068.ts
 #EXTINF:-1 group-title="英国及加拿大",|英国| ITVBe FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63621
-#EXTINF:-1 group-title="英国及加拿大",|英国| CBEEBIES FHD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/63659
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30927.ts
 #EXTINF:-1 group-title="英国及加拿大",INFAST
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="英国及加拿大",CA: CPAC
@@ -318,7 +310,7 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9554.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| PITCHOUN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B8vKxTLBf_Rk7lB9gfMsxpYTwvXRFrztVeaaSfmoh8qvHAwEHBvJLBc&s" group-title="多国少儿节目",|FR| PITCHOUN TV HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62905.ts
 #EXTINF:-1 group-title="多国少儿节目" tvg-id="CartoonNetwork.fr",|法语| Cartoon Network HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5241
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9371.ts
 
 
 #EXTINF:-1 group-title="法国" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
@@ -334,99 +326,93 @@ http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15201.ts
 #EXTINF:-1 group-title="法国" tvg-id="FranceInfo.fr",|法语| FRANCE INFO HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17861
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/43444.ts
 #EXTINF:-1 group-title="法国" tvg-id="France24.fr",|法语| FRANCE 24 Français
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5176
-#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="法国",|FR| LA CHAINE METEO FHD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15164.ts
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="FRANCE NEWS",|FR| LA CHAINE METEO FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/249114.ts
 #EXTINF:-1 group-title="法国" tvg-id="CNews.fr",|法语| C NEWS
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9747
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="法国",|FR| TOP SANTE TV HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/117910.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="FRANCE NEWS",|FR| TOP SANTE TV HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126648.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TV78 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" group-title="法国",|FR| TV78 HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV78 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" group-title="FRANCE NEWS",|FR| TV78 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126660.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="法国",|FR| LUXE TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="FRANCE NEWS",|FR| LUXE TV FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126664.ts
 #EXTINF:-1 group-title="法国" tvg-id="AfricaNews.af",AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png",TF1
 http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="TF1plus1.fr",|法语| TF1 +1 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51770
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51179.ts
 #EXTINF:-1 group-title="法国" tvg-id="LCI.fr",|法语| LCI HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5179
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51179.ts
 #EXTINF:-1 group-title="法国" tvg-id="LCP100.fr",|法语| LCP
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/51775
-#EXTINF:-1 group-title="法国",|法语| Canal 9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/71628
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60691.ts
 #EXTINF:-1 group-title="法国" tvg-id="BX1.be",|法语| BX1
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72885
-#EXTINF:-1 group-title="法国",|法语| CANAL C
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/72884
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/249286.ts
 #EXTINF:-1 group-title="法国" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png",TF1 Series Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png",TFX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5208
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50640.ts
 #EXTINF:-1 group-title="法国" tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png",Paris Premiere
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5805
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9238.ts
 #EXTINF:-1 group-title="法国" tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",20 Minutes TV
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="MuseumTV.fr" tvg-logo="https://i.imgur.com/WbjURLo.png",Museum TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/69296
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62894.ts
 #EXTINF:-1 group-title="法国" tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="LEquipe21.fr" tvg-logo="https://i.imgur.com/t35zhM9.png",L'EQUIPE 21 TV
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5187
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60707.ts
 #EXTINF:-1 group-title="法国" tvg-id="M6Music.fr",|法语| M6 MUSIC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5174
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60730.ts
 #EXTINF:-1 group-title="法国" tvg-id="6ter.fr",|法语| 6Ter HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5167
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15216.ts
 #EXTINF:-1 group-title="法国" tvg-id="W9.fr",|法语| W9 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5166
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15111.ts
 #EXTINF:-1 group-title="法国" tvg-id="Arte.fr",|法语| ARTE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5168
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15212.ts
 #EXTINF:-1 group-title="法国" tvg-id="NRJ12.fr",|法语| NRJ12 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5161
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9366.ts
 #EXTINF:-1 group-title="法国" tvg-id="TV5Monde.fr",|法语| TV5 MONDE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9750
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51170.ts
 #EXTINF:-1 group-title="法国" tvg-id="Polar.fr",|法语| POLAR+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5225
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9564.ts
 #EXTINF:-1 group-title="法国" tvg-id="C8.fr",|法语| C8 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5165
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15232.ts
 #EXTINF:-1 group-title="法国" tvg-id="CStar.fr",|法语| CStar
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9754
-#EXTINF:-1 group-title="法国" tvg-id="OCSCity.ch",|法语| OCS CITY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5219
-#EXTINF:-1 group-title="法国" tvg-id="OCSMax.fr",|法语| OCS MAX HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5221
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9561.ts
 #EXTINF:-1 group-title="法国" tvg-id="13eRue.fr",|法语| 13ème RUE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5222
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15217.ts
 #EXTINF:-1 group-title="法国" tvg-id="Syfy.fr",|法语| SYFY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5211
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15123.ts
 #EXTINF:-1 group-title="法国" tvg-id="TMC.fr",|法语| TMC HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5210
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="FRANCE CINEMA",|FR| TMC+1 HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="FRANCE CINEMA",|FR| TMC+1 HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9494.ts
 #EXTINF:-1 group-title="法国",|法语| TCM CINEMA HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5212
-#EXTINF:-1 group-title="法国" tvg-id="serieclub.fr",|法语| SERIE CLUB HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5213
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126952.ts
 #EXTINF:-1 group-title="法国" tvg-id="Animaux.fr",|法语| ANIMAUX HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5265
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15213.ts
 #EXTINF:-1 group-title="法国" tvg-id="NatGeoWild.fr",|法语| NAT GEO WILD HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5260
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15145.ts
 #EXTINF:-1 group-title="法国" tvg-id="NationalGeographic.f",|法语| NATIONAL GEO HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5261
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9523.ts
 #EXTINF:-1 group-title="法国" tvg-id="DiscoveryChannel.fr",|法语| DISCOVERY HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5263
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15180.ts
 #EXTINF:-1 group-title="法国" tvg-id="DiscoveryInvestigation.fr",|法语| DISCOVERY INVESTIGATION HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/11426
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9559.ts
 #EXTINF:-1 group-title="法国" tvg-id="Histoire.fr",|法语| HISTOIRE HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5253
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9536.ts
 #EXTINF:-1 group-title="法国" tvg-id="EEntertainment.fr",|法语| E! Entertainment
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/9820
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/83141.ts
 #EXTINF:-1 group-title="法国" tvg-id="TraceUrban.fr",|法语| TRACE Urban
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/18357
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51114.ts
 #EXTINF:-1 group-title="法国" tvg-id="RFMTV.fr",|法语| RFM TV HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17853
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15132.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| RTL9 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/RTL9.png" group-title="法国",|FR| RTL9 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15130.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BET ETOILE FHD" tvg-logo="http://one-iptv.com/imageslogo/BET.fr.png" group-title="法国",|FR| BET ETOILE FHD
@@ -435,6 +421,8 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51153.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9594.ts
 #EXTINF:-1 tvg-id="AB3.be" tvg-name="|FR| AB3 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/AB3.png" group-title="法国",|FR| AB3 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15215.ts
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR.RP| SERIE CLUB HD" tvg-logo="http://one-iptv.com/logoX/francetnt/serieclub.png" group-title="法国",|FR.RP| SERIE CLUB HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9226.ts
 #EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE PLUS HD" tvg-logo="http://one-iptv.com/logoX/francetnt/comedie.png" group-title="法国",|FR| COMEDIE PLUS HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15183.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_teva.png" group-title="法国",|FR| TEVA FHD
@@ -449,11 +437,33 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62893.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62914.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| RTS DEUX FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="法国",|FR| RTS DEUX FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9506.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD HEVC" tvg-logo="http://one-iptv.com/imageslogo/W9.fr.png" group-title="法国",|FR| W9 FHD HEVC
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51173.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| EUROCHANNEL" tvg-logo="http://one-iptv.com/imageslogo/Eurochannel.fr.png" group-title="法国",|FR| EUROCHANNEL
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/108053.ts
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/serieclub.png" group-title="法国",|FR| SERIE CLUB FHD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51123.ts
 #EXTINF:-1 group-title="法国",|法语| TVM3 HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/17851
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141550.ts
+#EXTINF:-1 group-title="法国" tvg-id="MTV.fr",|法语| MTV FRANCE
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15146.ts
+#EXTINF:-1 group-title="法国" tvg-id="MTVHits.fr",|法语| MTV Hits
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/83113.ts
 
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR.H265| CINE FRISSON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx2dv2ZqcHt2GIZRiRTUwbja0xXLj-Ud-ny9Dpgezp1wVDgtEDQN5T1Kx&s" group-title="法国影视",|FR.H265| CINE FRISSON
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60734.ts
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR.H265| CINE EMOTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHyH7EWpuxU9_lXEVNvN0hKSySFNP86zHps71V664H5quw26sINt145Ob&s" group-title="法国影视",|FR.H265| CINE EMOTION
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60737.ts
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="|FR.H265| CINE PREMIER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazxajKMjc95SSXuHxa_brqfvQVB6quEL9rNwawLYuFFrbjByRB23iGsE&s" group-title="法国影视",|FR.H265| CINE PREMIER
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60738.ts
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="|FR.H265| CINE FAMIZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4EvLW2KBdoY7-UWBf6mMZ1y-4Bdgy1goKF9Q7129L6TQq1cm0U9_IXI&s" group-title="法国影视",|FR.H265| CINE FAMIZ
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60750.ts
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR.H265| CINE CLASSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTszm1FCl-_DRWqwaz1D5vauz7v8Ev39DummOe6aocqeQ1yYDX1-uNQBTk&s" group-title="法国影视",|FR.H265| CINE CLASSIC
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60751.ts
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="|FR| CANAL+ FHD H265" tvg-logo="http://one-iptv.com/imageslogo/CanalPlus.fr.png" group-title="法国影视",|FR| CANAL+ FHD H265
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51165.ts
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="|FR.RP| CANAL+ CINEMA HD" tvg-logo="http://one-iptv.com/imageslogo/CanalPlusCinema.fr.png" group-title="法国影视",|FR.RP| CANAL+ CINEMA HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15195.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ BOX OFFICE HD" tvg-logo="data:image/png;base64,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" group-title="法国影视",|FR| CANAL+ BOX OFFICE HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/278399.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR.RP| CANAL GRAND ECRAN HD" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/01/canalgrand-ecran.jpeg" group-title="法国影视",|FR.RP| CANAL GRAND ECRAN HD
@@ -464,6 +474,9 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15193.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15192.ts
 #EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="http://one-iptv.com/imageslogo/AlticeStudio.fr.png" group-title="法国影视",|FR| ALTICE STUDIO HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/40881.ts
+
+#EXTINF:-1 group-title="法国" tvg-id="OCSCity.ch",|法语| OCS CITY HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15223.ts
 #EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://one-iptv.com/logoX/francetnt/ocschoc.png" group-title="法国影视",|FR| OCS CHOC HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15140.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="http://one-iptv.com/logoX/francetnt/ocscity.png" group-title="法国影视",|FR| OCS CITY HD
@@ -480,6 +493,8 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15214.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9592.ts
 #EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="法国影视",|FR| TMC+1 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9494.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="http://one-iptv.com/logoX/francetnt/paramount.png" group-title="法国影视",|FR| PARAMOUNT CHANNEL HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15138.ts
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| CINE CLASSIC FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/cineclassic.png" group-title="法国影视",|FR| CINE CLASSIC FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50886.ts
 #EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="|FR| CINE CLUB FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUurUIvPusHpSUhU8ChTH2k0qye-Eep-srMZ_k-9-TyhLfMyPkho_s30&s" group-title="法国影视",|FR| CINE CLUB FHD
@@ -487,18 +502,20 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50883.ts
 #EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="|FR| CANAL+ SERIES FHD HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDbjeJSbze1AsQ-EkcQv_gpFa873Q4KlenMf0sjYumNVIZ2suiv5DfXw&s" group-title="法国影视",|FR| CANAL+ SERIES FHD HEVC
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51162.ts
 #EXTINF:-1 group-title="法国影视" tvg-id="PlanetePlus.fr",|法语| PLANET+ HD
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/5259
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15135.ts
 #EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="|FR.RP| PLANETE A&E HD" tvg-logo="http://one-iptv.com/imageslogo/PlaneteAction.fr.png" group-title="法国影视",|FR.RP| PLANETE A&E HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15134.ts
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="|FR.RP| PLANETE CI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMdv1Cd8EJ4oWr0QOYV7ZynEEIBZNolAVnJ3hZBodDJRrZ64NgO-qnIJ7" group-title="法国影视",|FR.RP| PLANETE CI HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15133.ts
 #EXTINF:-1 tvg-id="12Keshet.il" tvg-name="|FR| PLANETE CRIME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMdv1Cd8EJ4oWr0QOYV7ZynEEIBZNolAVnJ3hZBodDJRrZ64NgO-qnIJ7" group-title="法国影视",|FR| PLANETE CRIME FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9510.ts
 
 #EXTINF:-1 group-title="比利时、非洲及加勒比法语",|BE| RTBF LA UNE
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73122
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/70200.ts
 #EXTINF:-1 group-title="比利时、非洲及加勒比法语",|BE| RTL LA DEUX
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73121
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/70201.ts
 #EXTINF:-1 group-title="比利时、非洲及加勒比法语",|BE| RTBF LA TROIS
-http://s1.g6ip.us:1997/nf8SRztokh/5qgCQk3RAq/73120
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/70202.ts
 #EXTINF:-1 tvg-id="" tvg-name="|.BE.| CLUB RTL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Club_RTL_logo.svg/1280px-Club_RTL_logo.svg.png" group-title="比利时、非洲及加勒比法语",|.BE.| CLUB RTL FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/70203.ts
 #EXTINF:-1 tvg-id="" tvg-name="|.BE.| PLUG RTL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Plug_RTL_logo.svg/1200px-Plug_RTL_logo.svg.png" group-title="比利时、非洲及加勒比法语",|.BE.| PLUG RTL FHD
