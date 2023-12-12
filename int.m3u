@@ -329,15 +329,15 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15201.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/43444.ts
 #EXTINF:-1 group-title="法国" tvg-id="France24.fr",|法语| FRANCE 24 Français
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15164.ts
-#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="FRANCE NEWS",|FR| LA CHAINE METEO FHD
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="法国",|FR| LA CHAINE METEO FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/249114.ts
 #EXTINF:-1 group-title="法国" tvg-id="CNews.fr",|法语| C NEWS
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/117910.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="FRANCE NEWS",|FR| TOP SANTE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOP SANTE TV HD" tvg-logo="" group-title="法国",|FR| TOP SANTE TV HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126648.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TV78 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" group-title="FRANCE NEWS",|FR| TV78 HD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV78 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logo_tv78_yvelines.jpg" group-title="法国",|FR| TV78 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126660.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="FRANCE NEWS",|FR| LUXE TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="法国",|FR| LUXE TV FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126664.ts
 #EXTINF:-1 group-title="法国" tvg-id="AfricaNews.af",AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
@@ -389,9 +389,9 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15217.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15123.ts
 #EXTINF:-1 group-title="法国" tvg-id="TMC.fr",|法语| TMC HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="FRANCE CINEMA",|FR| TMC+1 HD
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="法国影视",|FR| TMC+1 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="FRANCE CINEMA",|FR| TMC+1 HD
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="法国影视",|FR| TMC+1 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9494.ts
 #EXTINF:-1 group-title="法国",|法语| TCM CINEMA HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126952.ts
