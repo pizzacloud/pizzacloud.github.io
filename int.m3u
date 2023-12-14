@@ -674,9 +674,9 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/103761.ts
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| MOVIES FIRST+2 HD" tvg-logo="https://media.elcinema.com/tvguide/1210_1.png" group-title="阿拉伯影视",|.AR.| MOVIES FIRST+2 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67252.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BOX OFFICE 01" tvg-logo="https://media.elcinema.com/tvguide/1295_1.png" group-title="阿拉伯影视",|.AR.| BOX OFFICE 01
+#EXTINF:-1 tvg-id="BEIN_Box Office HD 1" tvg-name="|.AR.| BOX OFFICE 01" tvg-logo="https://media.elcinema.com/tvguide/1295_1.png" group-title="阿拉伯影视",|.AR.| BOX OFFICE 01
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67281.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BOX OFFICE 02" tvg-logo="https://media.elcinema.com/tvguide/1294_1.png" group-title="阿拉伯影视",|.AR.| OSN BOX OFFICE 2
+#EXTINF:-1 tvg-id="BEIN_Box Office HD 2" tvg-name="|.AR.| BOX OFFICE 02" tvg-logo="https://media.elcinema.com/tvguide/1294_1.png" group-title="阿拉伯影视",|.AR.| OSN BOX OFFICE 2
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67282.ts
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| BOX OFFICE 03" tvg-logo="data:image/png;base64,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" group-title="阿拉伯影视",|.AR.| OSN BOX OFFICE 3
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67283.ts
@@ -686,8 +686,46 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67250.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67251.ts
 #EXTINF:-1 tvg-id="OSNComedy.ae" tvg-name="|.AR.| COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/OSN_Comedy.png/revision/latest?cb=20111115144458" group-title="阿拉伯影视",|.AR.| OSN COMEDY
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67253.ts
-#EXTINF:-1 group-title="阿拉伯影视" tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
+#EXTINF:-1 group-title="阿拉伯影视" tvg-id="Uae: Dubai One" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ACTION
+http://cord-cutter.net:8080/jesus1/jesus1/119419
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ANIMATION
+http://cord-cutter.net:8080/jesus1/jesus1/119420
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: BLOCKBUSTERS
+http://cord-cutter.net:8080/jesus1/jesus1/119421
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: CLASSIC
+http://cord-cutter.net:8080/jesus1/jesus1/119422
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: COMEDY
+http://cord-cutter.net:8080/jesus1/jesus1/119423
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: CULT
+http://cord-cutter.net:8080/jesus1/jesus1/119424
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: FAMILY
+http://cord-cutter.net:8080/jesus1/jesus1/119425
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: GREATS
+http://cord-cutter.net:8080/jesus1/jesus1/119426
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: GREATS TWO
+http://cord-cutter.net:8080/jesus1/jesus1/119427
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: HISTORICAL
+http://cord-cutter.net:8080/jesus1/jesus1/119428
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: MUSICAL
+http://cord-cutter.net:8080/jesus1/jesus1/119430
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: MYSTERY
+http://cord-cutter.net:8080/jesus1/jesus1/119431
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: PREMIERE
+http://cord-cutter.net:8080/jesus1/jesus1/119432
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ROMANCE
+http://cord-cutter.net:8080/jesus1/jesus1/119433
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: SCI-FI
+http://cord-cutter.net:8080/jesus1/jesus1/119434
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: WESTERN
+http://cord-cutter.net:8080/jesus1/jesus1/119435
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: HITS
+http://cord-cutter.net:8080/jesus1/jesus1/119436
+#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: THRILLER
+http://cord-cutter.net:8080/jesus1/jesus1/119437
 
 #EXTINF:-1 group-title="其他",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
