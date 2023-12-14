@@ -235,17 +235,15 @@ http://livetv.ktv.zone/105/play.m3u8
 http://livetv.ktv.zone/116/play.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: AB3 HD
+#EXTINF:-1 group-title="法语" tvg-id="AB3.fr" tvg-logo="",FR: AB3 HD
 http://cord-cutter.net:8080/jesus1/jesus1/160302
-#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: MCM
+#EXTINF:-1 group-title="法语" tvg-id="MCM.fr" tvg-logo="",FR: MCM
 http://cord-cutter.net:8080/jesus1/jesus1/160303
-#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CANAL+ CINEMA FHD
-http://cord-cutter.net:8080/jesus1/jesus1/160304
-#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: C8 FHD
+#EXTINF:-1 group-title="法语" tvg-id="C8.fr" tvg-logo="",FR: C8 FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160305
-#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CANAL+ DECALE FHD
-http://cord-cutter.net:8080/jesus1/jesus1/160306
-#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CANAL+ FAMILY FHD
+#EXTINF:-1 group-title="法语" tvg-id="CanalPlusCinema.fr" tvg-logo="",FR: CANAL+ CINEMA FHD
+http://cord-cutter.net:8080/jesus1/jesus1/160304
+#EXTINF:-1 group-title="法语" tvg-id="CanalPlusFamily.fr" tvg-logo="",FR: CANAL+ FAMILY FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160307
 #EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CINE+ FAMIZ FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160308
