@@ -127,8 +127,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/15336
 
 #EXTINF:-1 group-title="美国影视" tvg-id="8379" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792",US Comedy Central (East) (F)
 http://cord-cutter.net:8080/jesus1/jesus1/7466
-#EXTINF:-1 group-title="美国影视" tvg-id="" tvg-logo="",CA Adult Swim (R)
-http://cord-cutter.net:8080/jesus1/jesus1/11644
 #EXTINF:-1 group-title="美国影视" tvg-id="8372" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",US HBO 
 http://cord-cutter.net:8080/jesus1/jesus1/9264
 #EXTINF:-1 group-title="美国影视" tvg-id="8594" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png",US HBO 2 (A)
@@ -222,6 +220,8 @@ http://cord-cutter.net:8080/jesus1/jesus1/57408
 http://cord-cutter.net:8080/jesus1/jesus1/57254
 #EXTINF:-1 group-title="英国及加拿大",CA: CTV NEWS CHANNEL HD
 http://cord-cutter.net:8080/jesus1/jesus1/57350
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12837" tvg-logo="",CA Adult Swim (R)
+http://cord-cutter.net:8080/jesus1/jesus1/11644
 
 #EXTINF:-1 group-title="多国少儿节目",US Disney Channel East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/2206
