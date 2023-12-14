@@ -26,7 +26,7 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="FashionTV.fr" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",FASHIONTV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="12523" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/3c7ddca8f90cdf8123ae92e0c2294ebc4839b426/tv/trtworld.png",|土耳其| TRT World HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/149520.ts
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="8772" tvg-logo="https://tinyurl.com/logos4u/cnbc.world.us.png",US CNBC World
 http://cord-cutter.net:8080/jesus1/jesus1/20860
 #EXTINF:-1 group-title="国际及美国" tvg-id="8693" tvg-logo="https://tinyurl.com/logos4u/cnn.us.png",US CNN 
