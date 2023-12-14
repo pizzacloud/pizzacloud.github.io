@@ -9,7 +9,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国"  tvg-id="1889" tvg-logo="",KBS World
+#EXTINF:-1 group-title="国际及美国"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="9136" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
@@ -25,7 +25,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="FashionTV.fr" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",FASHIONTV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="12523" tvg-logo="",|土耳其| TRT World HD
+#EXTINF:-1 group-title="国际及美国" tvg-id="12523" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/3c7ddca8f90cdf8123ae92e0c2294ebc4839b426/tv/trtworld.png",|土耳其| TRT World HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/149520.ts
 #EXTINF:-1 group-title="国际及美国" tvg-id="8772" tvg-logo="https://tinyurl.com/logos4u/cnbc.world.us.png",US CNBC World
 http://cord-cutter.net:8080/jesus1/jesus1/20860
