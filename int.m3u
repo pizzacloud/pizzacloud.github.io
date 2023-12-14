@@ -570,7 +570,7 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141090.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141091.ts
 #EXTINF:-1 tvg-id="" tvg-name="|CA.O| Casa " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CASA_2021_logo.png" group-title="加拿大法语",|CA.O| Casa 
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141092.ts
-#EXTINF:-1 tvg-id="" tvg-name="|CA| Meteo" tvg-logo="" group-title="��拿大法语",|CA| Meteo
+#EXTINF:-1 tvg-id="" tvg-name="|CA| Meteo" tvg-logo="" group-title=加拿大法语",|CA| Meteo
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141095.ts
 #EXTINF:-1 tvg-id="" tvg-name="|CA| MOI & CIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/MoietCie.svg/1200px-MoietCie.svg.png" group-title="加拿大法语",|CA| MOI & CIE
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141096.ts
