@@ -245,10 +245,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/160305
 http://cord-cutter.net:8080/jesus1/jesus1/160304
 #EXTINF:-1 group-title="法语" tvg-id="CanalPlusFamily.fr" tvg-logo="",FR: CANAL+ FAMILY FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160307
-#EXTINF:-1 group-title="法语" tvg-id="MTVHits.fr",|FR| ARTE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9590.ts
-#EXTINF:-1 group-title="法语" tvg-id="MTVHits.fr",|FR| MTV HITS FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9525.ts
 
 #EXTINF:-1 group-title="法语" tvg-id="TV5.ca" tvg-logo="",,|法语| TV5 Quebec HD (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57288
