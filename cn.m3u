@@ -280,6 +280,8 @@ http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
 http://maomao.kandiantv.cn/m3u8.php?/migu/627198610
 #EXTINF:-1,tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://epg.112114.eu.org/logo/IPTV经典电影.png" group-title="影视",经典电影
 http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
+#EXTINF:-1 group-title="影视",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3

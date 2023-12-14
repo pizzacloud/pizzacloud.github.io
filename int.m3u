@@ -194,8 +194,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30886.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/31068.ts
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="ITV BE" tvg-logo="",|英国| ITVBe FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30927.ts
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12716" tvg-logo="",CA: CPAC
-http://cord-cutter.net:8080/jesus1/jesus1/57402
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="13069" tvg-logo="",CA: CPAC English
 http://cord-cutter.net:8080/jesus1/jesus1/57352
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="12819" tvg-logo="",CA: CRAVE 1 HD
@@ -275,8 +273,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15163.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15160.ts
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR| MANGA FHD" tvg-logo="http://one-iptv.com/imageslogo/Mangas.fr.png" group-title="多国少儿节目",|FR| MANGA FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9530.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| J ONE FHD" tvg-logo="http://one-iptv.com/imageslogo/JONE.fr.png" group-title="多国少儿节目",|FR| J ONE FHD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30600.ts
 #EXTINF:-1 tvg-id="Toonami.fr" tvg-name="|FR| TOONAMI FHD" tvg-logo="http://one-iptv.com/imageslogo/Toonami.fr.png" group-title="多国少儿节目",|FR| TOONAMI FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50674.ts
 #EXTINF:-1 tvg-id="TVPitchoun.fr" tvg-name="|FR| PITCHOUN TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3B8vKxTLBf_Rk7lB9gfMsxpYTwvXRFrztVeaaSfmoh8qvHAwEHBvJLBc&s" group-title="多国少儿节目",|FR| PITCHOUN TV HD
@@ -355,12 +351,8 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9561.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15217.ts
 #EXTINF:-1 group-title="法国" tvg-id="Syfy.fr",|法语| SYFY HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15123.ts
-#EXTINF:-1 group-title="法国" tvg-id="TMC.fr",|法语| TMC HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
-#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="法国影视",|FR| TMC+1 HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
 
-#EXTINF:-1 group-title="法国",|法语| TCM CINEMA HD
+#EXTINF:-1 group-title="法国" tvg-id="Animaux.fr",|法语| TCM CINEMA HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126952.ts
 #EXTINF:-1 group-title="法国" tvg-id="Animaux.fr",|法语| ANIMAUX HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15213.ts
@@ -467,6 +459,11 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15134.ts
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15133.ts
 #EXTINF:-1 tvg-id="12Keshet.il" tvg-name="|FR| PLANETE CRIME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMdv1Cd8EJ4oWr0QOYV7ZynEEIBZNolAVnJ3hZBodDJRrZ64NgO-qnIJ7" group-title="法国影视",|FR| PLANETE CRIME FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9510.ts
+#EXTINF:-1 group-title="法国影视" tvg-id="TMC.fr",|法语| TMC HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="|FR| TMC+1 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/tmc.png" group-title="法国影视",|FR| TMC+1 HD
+http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15119.ts
+
 
 #EXTINF:-1 tvg-id="ClubRTL.be" tvg-name="|.BE.| CLUB RTL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Club_RTL_logo.svg/1280px-Club_RTL_logo.svg.png" group-title="比利时、非洲及加勒比法语",|.BE.| CLUB RTL FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/70203.ts
@@ -696,8 +693,3 @@ http://cord-cutter.net:8080/jesus1/jesus1/119448
 http://cord-cutter.net:8080/jesus1/jesus1/119449
 #EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL WILD
 http://cord-cutter.net:8080/jesus1/jesus1/119451
-
-#EXTINF:-1 group-title="其他",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music: Free TV" tvg-logo="" group-title="其他",Music: Free TV
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/151443.ts
