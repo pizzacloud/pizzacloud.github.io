@@ -211,6 +211,8 @@ http://cord-cutter.net:8080/jesus1/jesus1/11644
 
 #EXTINF:-1 group-title="多国少儿节目" tvg-id="8725" tvg-logo="",US Disney Channel East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/2206
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="8984" tvg-logo="",USA-Disney Jr
+http://cord-cutter.net:8080/jesus1/jesus1/41960
 #EXTINF:-1 group-title="多国少儿节目" tvg-id="8393" tvg-logo="",US Nick Jr 
 http://cord-cutter.net:8080/jesus1/jesus1/46710
 #EXTINF:-1 group-title="多国少儿节目" tvg-id="8736" tvg-logo="",US Universal Kids (A)
@@ -219,10 +221,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/9235
 http://cord-cutter.net:8080/jesus1/jesus1/75621
 #EXTINF:-1 group-title="多国少儿节目" tvg-id="" tvg-logo="8676",US NickToons 
 http://cord-cutter.net:8080/jesus1/jesus1/36
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8984" tvg-logo="",USA-Disney Jr
-http://cord-cutter.net:8080/jesus1/jesus1/41960
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="" tvg-logo="",USA: Baby First HD
-http://cord-cutter.net:8080/jesus1/jesus1/58765
 #EXTINF:-1 group-title="多国少儿节目" tvg-id="8822" tvg-logo="",US Nickelodeon East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/38
 
