@@ -9,9 +9,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-logo="",KBS World
+#EXTINF:-1 group-title="国际及美国"  tvg-id="10994" tvg-logo="",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
+#EXTINF:-1 group-title="国际及美国" tvg-id="11743" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
@@ -182,62 +182,62 @@ http://cord-cutter.net:8080/jesus1/jesus1/46690
 #EXTINF:-1 group-title="美国影视" tvg-id="8389" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",US VH1 
 http://cord-cutter.net:8080/jesus1/jesus1/7404
 
-#EXTINF:-1 group-title="英国及加拿大",UK: BBC NEWS
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="1015" tvg-logo="",UK: BBC NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/53757
-#EXTINF:-1 group-title="英国及加拿大",CA | BBC EARTH
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12683" tvg-logo="",CA | BBC EARTH
 http://cord-cutter.net:8080/jesus1/jesus1/99621
-#EXTINF:-1 group-title="英国及加拿大",UK-ITV
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="",UK-ITV
 http://cord-cutter.net:8080/jesus1/jesus1/53651
-#EXTINF:-1 group-title="英国及加拿大",UK ITV2 HD 
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="",UK ITV2 HD 
 http://cord-cutter.net:8080/jesus1/jesus1/53671
-#EXTINF:-1 group-title="英国及加拿大",|英国| ITV3 FHD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="",|英国| ITV3 FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30886.ts
-#EXTINF:-1 group-title="英国及加拿大",|英国| ITV4 FHD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="",|英国| ITV4 FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/31068.ts
-#EXTINF:-1 group-title="英国及加拿大",|英国| ITVBe FHD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="",|英国| ITVBe FHD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30927.ts
-#EXTINF:-1 group-title="英国及加拿大",INFAST
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="",INFAST
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英国及加拿大",CA: CPAC
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12716" tvg-logo="",CA: CPAC
 http://cord-cutter.net:8080/jesus1/jesus1/57402
-#EXTINF:-1 group-title="英国及加拿大",CA: CPAC English
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="13069" tvg-logo="",CA: CPAC English
 http://cord-cutter.net:8080/jesus1/jesus1/57352
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 1 HD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12819" tvg-logo="",CA: CRAVE 1 HD
 http://cord-cutter.net:8080/jesus1/jesus1/57309
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 2 HD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12857" tvg-logo="",CA: CRAVE 2 HD
 http://cord-cutter.net:8080/jesus1/jesus1/57310
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 3
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="13050" tvg-logo="",CA: CRAVE 3
 http://cord-cutter.net:8080/jesus1/jesus1/57322
-#EXTINF:-1 group-title="英国及加拿大",CA: CRAVE 4 HD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12711" tvg-logo="",CA: CRAVE 4 HD
 http://cord-cutter.net:8080/jesus1/jesus1/57311
 #EXTINF:-1 tvg-id="" tvg-name="|CA| Oprah Winfrey Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1280px-OWN_2011_logo.svg.png" group-title="英国及加拿大",|CA| Oprah Winfrey Network
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141211.ts
-#EXTINF:-1 group-title="英国及加拿大",CA CTV Two Atlantic 
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12735" tvg-logo="",CA CTV Two Atlantic 
 http://cord-cutter.net:8080/jesus1/jesus1/79547
-#EXTINF:-1 group-title="英国及加拿大",CA CTV Comedy Channel (R)
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="12680" tvg-logo="",CA CTV Comedy Channel (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57408
-#EXTINF:-1 group-title="英国及加拿大",CA CTV Drama Channel (R)
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="13121" tvg-logo="",CA CTV Drama Channel (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57254
-#EXTINF:-1 group-title="英国及加拿大",CA: CTV NEWS CHANNEL HD
+#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="8983",CA: CTV NEWS CHANNEL HD
 http://cord-cutter.net:8080/jesus1/jesus1/57350
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="12837" tvg-logo="",CA Adult Swim (R)
 http://cord-cutter.net:8080/jesus1/jesus1/11644
 
-#EXTINF:-1 group-title="多国少儿节目",US Disney Channel East (A)
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="" tvg-logo="8725",US Disney Channel East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/2206
-#EXTINF:-1 group-title="多国少儿节目",US Nick Jr 
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="8393" tvg-logo="",US Nick Jr 
 http://cord-cutter.net:8080/jesus1/jesus1/46710
-#EXTINF:-1 group-title="多国少儿节目",US Universal Kids (A)
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="8736" tvg-logo="",US Universal Kids (A)
 http://cord-cutter.net:8080/jesus1/jesus1/9235
-#EXTINF:-1 group-title="多国少儿节目",US: Disney XD
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="8897" tvg-logo="",US: Disney XD
 http://cord-cutter.net:8080/jesus1/jesus1/75621
-#EXTINF:-1 group-title="多国少儿节目",US NickToons 
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="" tvg-logo="8676",US NickToons 
 http://cord-cutter.net:8080/jesus1/jesus1/36
-#EXTINF:-1 group-title="多国少儿节目",USA-Disney Jr
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="8984" tvg-logo="",USA-Disney Jr
 http://cord-cutter.net:8080/jesus1/jesus1/41960
-#EXTINF:-1 group-title="多国少儿节目",USA: Baby First HD
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="" tvg-logo="",USA: Baby First HD
 http://cord-cutter.net:8080/jesus1/jesus1/58765
-#EXTINF:-1 group-title="多国少儿节目",US Nickelodeon East (A)
+#EXTINF:-1 group-title="多国少儿节目" tvg-id="8822" tvg-logo="",US Nickelodeon East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/38
 #EXTINF:-1 tvg-id="" tvg-name="|.UK.| DISNEY CHANNEL" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="多国少儿节目",|.UK.| DISNEY CHANNEL
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/30916.ts
