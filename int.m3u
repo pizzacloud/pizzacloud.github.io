@@ -123,62 +123,64 @@ http://cord-cutter.net:8080/jesus1/jesus1/57969
 http://cord-cutter.net:8080/jesus1/jesus1/15336
 
 
-#EXTINF:-1 group-title="美国影视" tvg-id="8379" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792",US Comedy Central (East) (F)
+#EXTINF:-1 group-title="影视" tvg-id="8379" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792",US Comedy Central (East) (F)
 http://cord-cutter.net:8080/jesus1/jesus1/7466
-#EXTINF:-1 group-title="美国影视" tvg-id="8372" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",US HBO 
+#EXTINF:-1 group-title="影视" tvg-id="8372" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",US HBO 
 http://cord-cutter.net:8080/jesus1/jesus1/9264
-#EXTINF:-1 group-title="美国影视" tvg-id="8594" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png",US HBO 2 (A)
+#EXTINF:-1 group-title="影视" tvg-id="8594" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png",US HBO 2 (A)
 http://cord-cutter.net:8080/jesus1/jesus1/9816
-#EXTINF:-1 group-title="美国影视" tvg-id="8703" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png",US HBO Comedy (East) 
+#EXTINF:-1 group-title="影视" tvg-id="8703" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png",US HBO Comedy (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/17773
-#EXTINF:-1 group-title="美国影视" tvg-id="8810" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png",US HBO Family (East) 
+#EXTINF:-1 group-title="影视" tvg-id="8810" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png",US HBO Family (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/17772
-#EXTINF:-1 group-title="美国影视" tvg-id="8746" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png",US HBO SIGNATURE (East) 
+#EXTINF:-1 group-title="影视" tvg-id="8746" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png",US HBO SIGNATURE (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/9266
-#EXTINF:-1 group-title="美国影视" tvg-id="9115" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18431_h15_aa.png",US HBO Zone (East) (H)
+#EXTINF:-1 group-title="影视" tvg-id="9115" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18431_h15_aa.png",US HBO Zone (East) (H)
 http://cord-cutter.net:8080/jesus1/jesus1/9265
-#EXTINF:-1 group-title="美国影视" tvg-id="8649" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s33668_h15_ae.png",US HDNET MOVIES 
+#EXTINF:-1 group-title="影视" tvg-id="8649" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s33668_h15_ae.png",US HDNET MOVIES 
 http://cord-cutter.net:8080/jesus1/jesus1/16265
-#EXTINF:-1 group-title="美国影视" tvg-id="" tvg-logo="",Moviesphere
+#EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国影视" tvg-id="8440" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_aa.png",US Showtime East 
+#EXTINF:-1 group-title="影视" tvg-id="8440" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_aa.png",US Showtime East 
 http://cord-cutter.net:8080/jesus1/jesus1/46214
-#EXTINF:-1 group-title="美国影视" tvg-id="8828" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",US Syfy (East)   (F)
+#EXTINF:-1 group-title="影视" tvg-id="8828" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",US Syfy (East)   (F)
 http://cord-cutter.net:8080/jesus1/jesus1/46685
-#EXTINF:-1 group-title="美国影视" tvg-id="8629" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11163_h15_ac.png",US Paramount Network 
+#EXTINF:-1 group-title="影视" tvg-id="8629" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11163_h15_ac.png",US Paramount Network 
 http://cord-cutter.net:8080/jesus1/jesus1/16201
-#EXTINF:-1 group-title="美国影视" tvg-id="8912" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png",US Hallmark Channel
+#EXTINF:-1 group-title="影视" tvg-id="8912" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png",US Hallmark Channel
 http://cord-cutter.net:8080/jesus1/jesus1/46719
-#EXTINF:-1 group-title="美国影视" tvg-id="8819" tvg-logo="",US Hallmark Drama 
+#EXTINF:-1 group-title="影视" tvg-id="8819" tvg-logo="",US Hallmark Drama 
 http://cord-cutter.net:8080/jesus1/jesus1/9307
-#EXTINF:-1 group-title="美国影视" tvg-id="8936" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_aa.png",US Hallmark Movies & Mysteries 
+#EXTINF:-1 group-title="影视" tvg-id="8936" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_aa.png",US Hallmark Movies & Mysteries 
 http://cord-cutter.net:8080/jesus1/jesus1/10289
-#EXTINF:-1 group-title="美国影视" tvg-id="8713" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",US Lifetime 
+#EXTINF:-1 group-title="影视" tvg-id="8713" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",US Lifetime 
 http://cord-cutter.net:8080/jesus1/jesus1/46714
-#EXTINF:-1 group-title="美国影视" tvg-id="8637" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18480_h15_ad.png",US Lifetime Movies 
+#EXTINF:-1 group-title="影视" tvg-id="8637" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18480_h15_ad.png",US Lifetime Movies 
 http://cord-cutter.net:8080/jesus1/jesus1/20863
-#EXTINF:-1 group-title="美国影视" tvg-id="8593" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png",US TLC East (F)
+#EXTINF:-1 group-title="影视" tvg-id="8593" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png",US TLC East (F)
 http://cord-cutter.net:8080/jesus1/jesus1/12734
-#EXTINF:-1 group-title="美国影视" tvg-id="8549" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",US TNT East 
+#EXTINF:-1 group-title="影视" tvg-id="8549" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",US TNT East 
 http://cord-cutter.net:8080/jesus1/jesus1/10455
-#EXTINF:-1 group-title="美国影视" tvg-id="8995" tvg-logo="",US TBN 
+#EXTINF:-1 group-title="影视" tvg-id="8995" tvg-logo="",US TBN 
 http://cord-cutter.net:8080/jesus1/jesus1/21895
-#EXTINF:-1 group-title="美国影视" tvg-id="8651" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",US TBS 
+#EXTINF:-1 group-title="影视" tvg-id="8651" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",US TBS 
 http://cord-cutter.net:8080/jesus1/jesus1/20867
-#EXTINF:-1 group-title="美国影视" tvg-id="8517" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-405.png",US E! Entertainment Television East (A)
+#EXTINF:-1 group-title="影视" tvg-id="8517" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-405.png",US E! Entertainment Television East (A)
 http://cord-cutter.net:8080/jesus1/jesus1/11651
-#EXTINF:-1 group-title="美国影视" tvg-id="9112" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s25620_h15_ad.png",US 5 StarMax
+#EXTINF:-1 group-title="影视" tvg-id="9112" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s25620_h15_ad.png",US 5 StarMax
 http://cord-cutter.net:8080/jesus1/jesus1/13381
-#EXTINF:-1 group-title="美国影视" tvg-id="9089" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s76126_h15_ad.png",US Aspire (A)
+#EXTINF:-1 group-title="影视" tvg-id="9089" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s76126_h15_ad.png",US Aspire (A)
 http://cord-cutter.net:8080/jesus1/jesus1/21927
-#EXTINF:-1 group-title="美国影视" tvg-id="BET - Pacific Feed" tvg-logo="",US BET (East) 
+#EXTINF:-1 group-title="影视" tvg-id="BET - Pacific Feed" tvg-logo="",US BET (East) 
 http://cord-cutter.net:8080/jesus1/jesus1/46703
-#EXTINF:-1 group-title="美国影视" tvg-id="8573" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png",US Fuse (A)
+#EXTINF:-1 group-title="影视" tvg-id="8573" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png",US Fuse (A)
 http://cord-cutter.net:8080/jesus1/jesus1/46701
-#EXTINF:-1 group-title="美国影视" tvg-id="8691" tvg-logo="",US FX East 
+#EXTINF:-1 group-title="影视" tvg-id="8691" tvg-logo="",US FX East 
 http://cord-cutter.net:8080/jesus1/jesus1/46690
-#EXTINF:-1 group-title="美国影视" tvg-id="8389" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",US VH1 
+#EXTINF:-1 group-title="影视" tvg-id="8389" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",US VH1 
 http://cord-cutter.net:8080/jesus1/jesus1/7404
+#EXTINF:-1 group-title="影视" tvg-id="Uae: Dubai One" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="1015" tvg-logo="",UK: BBC NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/53757
@@ -186,18 +188,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/53757
 http://cord-cutter.net:8080/jesus1/jesus1/99621
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="ITV1 London HD" tvg-logo="",UK-ITV
 http://cord-cutter.net:8080/jesus1/jesus1/53651
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: itv 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8a47c9d5b3b3e5aa1a7df71d17673fb5.png" group-title="英国及加拿大",UK: itv 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/690
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: itv 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/78be616aa48bd50c9200cb4856cb664f.png" group-title="英国及加拿大",UK: itv 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/703
-#EXTINF:-1 tvg-id="" tvg-name="UK: itv 3 +1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/0d4c3962d58ff91457b86fccbca1c06c.png" group-title="英国及加拿大",UK: itv 3 +1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/145787
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: itv 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/19ce98ef689f2beb0a1e4da62f28db4c.png" group-title="英国及加拿大",UK: itv 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/691
-#EXTINF:-1 tvg-id="" tvg-name="UK: itv 4 +1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/16ca7e4156e3554810b42dd11ecf2c9f.png" group-title="英国及加拿大",UK: itv 4 +1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/295071
-#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: itv BE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0d53543bcc60d5d6f5895146d29e36f6.png" group-title="英国及加拿大",UK: itv BE
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1560
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="13069" tvg-logo="",CA: CPAC English
 http://cord-cutter.net:8080/jesus1/jesus1/57352
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="12819" tvg-logo="",CA: CRAVE 1 HD
@@ -208,8 +198,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/57310
 http://cord-cutter.net:8080/jesus1/jesus1/57322
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="12711" tvg-logo="",CA: CRAVE 4 HD
 http://cord-cutter.net:8080/jesus1/jesus1/57311
-#EXTINF:-1 tvg-id="" tvg-name="13162" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1280px-OWN_2011_logo.svg.png" group-title="英国及加拿大",|CA| Oprah Winfrey Network
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/295053
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="12735" tvg-logo="",CA CTV Two Atlantic 
 http://cord-cutter.net:8080/jesus1/jesus1/79547
 #EXTINF:-1 group-title="英国及加拿大" tvg-id="12680" tvg-logo="",CA CTV Comedy Channel (R)
@@ -249,205 +237,48 @@ http://livetv.ktv.zone/105/play.m3u8
 http://livetv.ktv.zone/116/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1919
-#EXTINF:-1 group-title="法国" tvg-id="FranceInfo.fr",|法语| FRANCE INFO HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/159
-#EXTINF:-1 group-title="法国" tvg-id="France24.fr",|法语| FRANCE 24 Français
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/870
-#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="法国",|FR| LA CHAINE METEO FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/168914
-#EXTINF:-1 group-title="法国" tvg-id="CNews.fr",|法语| C NEWS
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/168
-#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="法国",|FR| LUXE TV FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/290407
-#EXTINF:-1 group-title="法国" tvg-id="AfricaNews.af",AfricaNews Français
-https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png",TF1
-http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="LCI.fr",|法语| LCI HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/4342
-#EXTINF:-1 group-title="法国" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png",TF1 Series Films
-http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png",TFX
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/164
-#EXTINF:-1 group-title="法国" tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png",Paris Premiere
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/868
-#EXTINF:-1 group-title="法国" tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="MuseumTV.fr" tvg-logo="https://i.imgur.com/WbjURLo.png",Museum TV
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/267860
-#EXTINF:-1 group-title="法国" tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png",Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="LEquipe21.fr" tvg-logo="https://i.imgur.com/t35zhM9.png",L'EQUIPE 21 TV
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/147
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="法国",FR: M6
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/158
-#EXTINF:-1 group-title="法国" tvg-id="M6Music.fr",|法语| M6 MUSIC HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/224
-#EXTINF:-1 group-title="法国" tvg-id="6ter.fr",|法语| 6Ter HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/183
-#EXTINF:-1 group-title="法国" tvg-id="W9.fr",|法语| W9 HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/160
-#EXTINF:-1 group-title="法国" tvg-id="Arte.fr",|法语| ARTE HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/163
-#EXTINF:-1 group-title="法国" tvg-id="NRJ12.fr",|法语| NRJ12 HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/226
-#EXTINF:-1 group-title="法国" tvg-id="TV5Monde.fr",|法语| TV5 MONDE
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/879
-#EXTINF:-1 group-title="法国" tvg-id="Polar.fr",|法语| POLAR+ HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1202
-#EXTINF:-1 group-title="法国" tvg-id="C8.fr",|法语| C8 HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/161
-#EXTINF:-1 group-title="法国" tvg-id="CStar.fr",|法语| CStar
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1900
-#EXTINF:-1 group-title="法国" tvg-id="13eRue.fr",|法语| 13ème RUE HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/181
-#EXTINF:-1 group-title="法国" tvg-id="Syfy.fr",|法语| SYFY HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/867
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: AB3 HD
+http://cord-cutter.net:8080/jesus1/jesus1/160302
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: MCM
+http://cord-cutter.net:8080/jesus1/jesus1/160303
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CANAL+ CINEMA FHD
+http://cord-cutter.net:8080/jesus1/jesus1/160304
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: C8 FHD
+http://cord-cutter.net:8080/jesus1/jesus1/160305
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CANAL+ DECALE FHD
+http://cord-cutter.net:8080/jesus1/jesus1/160306
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CANAL+ FAMILY FHD
+http://cord-cutter.net:8080/jesus1/jesus1/160307
+#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CINE+ FAMIZ FHD
+http://cord-cutter.net:8080/jesus1/jesus1/160308
 
-#EXTINF:-1 group-title="法国" tvg-id="TCM.fr",|法语| TCM CINEMA HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1902
-#EXTINF:-1 group-title="法国" tvg-id="Animaux.fr",|法语| ANIMAUX HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/193
-#EXTINF:-1 group-title="法国" tvg-id="NatGeoWild.fr",|法语| NAT GEO WILD HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/278459
-#EXTINF:-1 group-title="法国" tvg-id="NationalGeographic.f",|法语| NATIONAL GEO HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/187
-#EXTINF:-1 group-title="法国" tvg-id="Histoire.fr",|法语| HISTOIRE HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/201
-#EXTINF:-1 group-title="法国" tvg-id="EEntertainment.fr",|法语| E! Entertainment
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/2978
-#EXTINF:-1 group-title="法国" tvg-id="TraceUrban.fr",|法语| TRACE Urban
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/225
-#EXTINF:-1 group-title="法国" tvg-id="RFMTV.fr",|法语| RFM TV HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/6238
-#EXTINF:-1 tvg-id="RTL9" tvg-name="|FR| RTL9 HD" tvg-logo="http://one-iptv.com/logoX/francetnt/RTL9.png" group-title="法国",|FR| RTL9 HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1178
-#EXTINF:-1 tvg-id="bet.fr" tvg-name="FR: BET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8519fed487f9edfe7184cdb3484a6f7f.png" group-title="法国",FR: BET
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/184
-#EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR: AB 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/42616ded544f2a9a332ec4838ce594b1.png" group-title="法国",FR: AB 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/165
-#EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR: AB 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/afdf0ddea900b73fb6587b38f997185f.png" group-title="法国",FR: AB 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/878
-#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE PLUS HD" tvg-logo="http://one-iptv.com/logoX/francetnt/comedie.png" group-title="法国",|FR| COMEDIE PLUS HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/180
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR| TEVA FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_teva.png" group-title="法国",|FR| TEVA FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/866
-#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="|FR| WARNER TV FHD" tvg-logo="http://one-iptv.com/imageslogo/WarnerTV.fr.png" group-title="法国",|FR| WARNER TV FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/13360
-#EXTINF:-1 tvg-id="Melody.fr" tvg-name="|FR| MELODY TV FHD" tvg-logo="http://one-iptv.com/imageslogo/Melody.fr.png" group-title="法国",|FR| MELODY TV FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/27959
-#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="|FR| NOVELAS TV" tvg-logo="http://one-iptv.com/imageslogo/pu_Novelas-tv.png" group-title="法国",|FR| NOVELAS TV
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/27960
-#EXTINF:-1 tvg-id="ComedyCentral.f" tvg-name="|FR| COMEDY CENTRAL FRANCE FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_mycomedy.png" group-title="法国",|FR| COMEDY CENTRAL FRANCE FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/280292
-#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR: W9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d960d09ece77aae73a8a667e7e31cde6.png" group-title="法国",FR: W9
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/160
-#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROCHANNEL" tvg-logo="http://one-iptv.com/imageslogo/Eurochannel.fr.png" group-title="法国",|FR| EUROCHANNEL
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/52215
-#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/serieclub.png" group-title="法国",|FR| SERIE CLUB FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1903
-#EXTINF:-1 group-title="法国" tvg-id="MTV.fr",|法语| MTV FRANCE
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/220
-#EXTINF:-1 group-title="法国" tvg-id="MTVHits.fr",|法语| MTV Hits
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/47249
-#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="FR: OCS choc" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d8ea34f424b302618ed592611d41741.png" group-title="法国",FR: OCS choc
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1184
-#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="FR: OCS City" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ee6e07092241909d50151f110bec6e3e.png" group-title="法国",FR: OCS City
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/178
-#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="FR: OCS geants" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4bec65556910525cf654e62f8c870e4c.png" group-title="法国",FR: OCS geants
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/177
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d77a80a484e8f5253aa56aafffab4f1.png" group-title="法国",FR: OCS Max
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/869
-
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR: CINE+ Classic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e05c81b3f43cb9650e2b25a6db1b56fa.png" group-title="法国影视",FR: CINE+ Classic
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/175
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ Club" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e0f6b0215f3841b3da3e3fadb76aac02.png" group-title="法国影视",FR: CINE+ Club
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/179
-#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR: CINE+ Emotion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3ffb0afe2c54484e43f3eea221271600.png" group-title="法国影视",FR: CINE+ Emotion
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/876
-#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR: CINE+ Famiz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a2be7c22dd2805bf8b1f757cd1202aab.png" group-title="法国影视",FR: CINE+ Famiz
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1896
-#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINE+ Frisson" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a3a37c957e6e3ca7f2cd5e14a571b572.png" group-title="法国影视",FR: CINE+ Frisson
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1895
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: CANAL+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/224417b4962845144900afd5b142613d.png" group-title="法国影视",FR: CANAL+
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/170
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f5d48cb102472e4ff6713c15fc967c2f.png" group-title="法国影视",FR: CANAL+ Cinema
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/172
-#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="FR: CANAL+ Decale" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5fd9ab796553f579830f23777d971867.png" group-title="法国影视",FR: CANAL+ Decale
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/171
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Docs" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/ba8136fe03e06b6ac848c955e214735a.png" group-title="法国影视",FR: CANAL+ Docs
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/298737
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Elles" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/a2cdd01433e5b0a0f1e83934b38b30f3.png" group-title="法国影视",FR: CANAL+ Elles
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/297370
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Film" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/cfd66762a2f793760da13ae4c5911dfa.png" group-title="法国影视",FR: CANAL+ Film
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/298738
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Grand Ecran" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="法国影视",FR: CANAL+ Grand Ecran
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/298741
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="法国影视",FR: CANAL+ Kids
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/281601
-#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR: CANAL+ Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3cb04d35c090108c3d40ea207b43fbda.png" group-title="法国影视",FR: CANAL+ Series
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/173
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR: PLANETE+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6d382ebba67b8042f09491f4c0166bfe.png" group-title="法国影视",FR: PLANETE+
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/191
-#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR: PLANETE+ CI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24f4bc4729d983ee924df459d4277062.png" group-title="法国影视",FR: PLANETE+ CI
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/192
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://one-iptv.com/logoX/francetnt/action.png" group-title="法国影视",|FR| ACTION FHD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/182
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="http://one-iptv.com/logoX/francetnt/paramount.png" group-title="法国影视",|FR| PARAMOUNT CHANNEL HD
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1183
-
-
-#EXTINF:-1 group-title="加拿大法语" tvg-id="TV5.ca" tvg-logo="",,|法语| TV5 Quebec HD (R)
+#EXTINF:-1 group-title="法语" tvg-id="TV5.ca" tvg-logo="",,|法语| TV5 Quebec HD (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57288
-#EXTINF:-1 group-title="加拿大法语" tvg-id="13136" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
+#EXTINF:-1 group-title="法语" tvg-id="13136" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="加拿大法语" tvg-id="TeleQuebec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
+#EXTINF:-1 group-title="法语" tvg-id="TeleQuebec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="加拿大法语" tvg-id="13166" tvg-logo="",,CA (FR) Historia HD 
+#EXTINF:-1 group-title="法语" tvg-id="13166" tvg-logo="",,CA (FR) Historia HD 
 http://cord-cutter.net:8080/jesus1/jesus1/57483
-#EXTINF:-1 group-title="加拿大法语" tvg-id="METEO.ca" tvg-logo="",,CA-FR | METEO
+#EXTINF:-1 group-title="法语" tvg-id="METEO.ca" tvg-logo="",,CA-FR | METEO
 http://cord-cutter.net:8080/jesus1/jesus1/57486
-#EXTINF:-1 group-title="加拿大法语" tvg-id="RDS2.ca" tvg-logo="",,CA (FR) RDS2 HD (B)
+#EXTINF:-1 group-title="法语" tvg-id="RDS2.ca" tvg-logo="",,CA (FR) RDS2 HD (B)
 http://cord-cutter.net:8080/jesus1/jesus1/57490
-#EXTINF:-1 group-title="加拿大法语" tvg-id="RDSInfo.ca" tvg-logo="",,CA-FR | RDS INFO
+#EXTINF:-1 group-title="法语" tvg-id="RDSInfo.ca" tvg-logo="",,CA-FR | RDS INFO
 http://cord-cutter.net:8080/jesus1/jesus1/57491
-#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA: Super Ecran 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f6bb82b4cd87744c22be621138b754a.png" group-title="加拿大法语",CA: Super Ecran 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/2603
-#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA: Super Ecran 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/12755b853632233279f634a801c45f4d.png" group-title="加拿大法语",CA: Super Ecran 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/2604
-#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA: Super Ecran 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ebe38d2bc668b7152d5dac0b8de55dee.png" group-title="加拿大法语",CA: Super Ecran 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/9333
-#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA: Super Ecran 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/52950cae585a7b0f79546135c3cd8394.png" group-title="Canada ➾ Movie",CA: Super Ecran 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/2605
-#EXTINF:-1 group-title="加拿大法语" tvg-id="TFO.ca" tvg-logo="",,CA (FR) TFO HD (R)
+#EXTINF:-1 group-title="法语" tvg-id="TFO.ca" tvg-logo="",,CA (FR) TFO HD (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57495
-#EXTINF:-1 tvg-id="RDS.ca" tvg-name="|CA.O| RDS" tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png" group-title="加拿大法语",|CA.O| RDS
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/280913
-#EXTINF:-1 tvg-id="Casa.ca" tvg-name="|CA.O| Casa " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CASA_2021_logo.png" group-title="加拿大法语",|CA.O| Casa 
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/487
-#EXTINF:-1 tvg-id="MoiEtCie.ca" tvg-name="|CA| MOI & CIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/MoietCie.svg/1200px-MoietCie.svg.png" group-title="加拿大法语",|CA| MOI & CIE
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/493
-#EXTINF:-1 tvg-id="prise2.ca" tvg-name="|CA| Prise 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/640px-Prise_2_logo_%282018%29.svg.png" group-title="加拿大法语",|CA| Prise 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/494
-#EXTINF:-1 tvg-id="TVA.ca" tvg-name="|CA.O| TVA Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="加拿大法语",|CA.O| TVA Montreal
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/2608
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBS East" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2bacaec436582655a0c7820a72d32a1b.png" group-title="加拿大法语",CA: CBS East
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/170018
-
-
-#EXTINF:-1 group-title="其他地区法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
+#EXTINF:-1 group-title="法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-#EXTINF:-1 group-title="其他地区法语" tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png",Télé Tchad
+#EXTINF:-1 group-title="法语" tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png",Télé Tchad
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-#EXTINF:-1 group-title="其他地区法语" tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png",Ivoire Channel
+#EXTINF:-1 group-title="法语" tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 group-title="其他地区法语" tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png",Haiti News Channel
+#EXTINF:-1 group-title="法语" tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png",Haiti News Channel
 https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 group-title="其他地区法语" tvg-id="ORTBTV.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png",ORTB TV
+#EXTINF:-1 group-title="法语" tvg-id="ORTBTV.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png",ORTB TV
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 group-title="其他地区法语" tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png",RTI 1
+#EXTINF:-1 group-title="法语" tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
 
@@ -488,51 +319,6 @@ https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
 #EXTINF:-1 group-title="西班牙语" tvg-id="MyTimeMovieNetworkSpain.es",MyTime movie network Spain 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/2e2bd5ae938e87eb279c657811c09466.jpg" group-title="阿拉伯影视",AR: beIN Box Office 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300137
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/21e5b736d43ca12c2cda6096e184d43e.png" group-title="阿拉伯影视",AR: beIN Box Office 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/283290
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/4528d895436686e22622bb757b4320ea.png" group-title="阿拉伯影视",AR: beIN Movies Drama 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/13652
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Family 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ad0bafa54ec39ccaa754c3798f65fb66.png" group-title="阿拉伯影视",AR: beIN Movies Family 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300139
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: beIN Series 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300142
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/c62f8bc2ce2ef4a62d2c66e692726a81.png" group-title="阿拉伯影视",AR: beIN Series 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/300485
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Box Office 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/263662
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Box Office 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Box Office 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/263660
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Cinema" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Cinema
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/17231
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Box Office 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Movies Box Office 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/260472
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Box Office 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/9f2136423665d814d01e1fc7d6f29eb1.jpg" group-title="阿拉伯影视",AR: OSN Movies Box Office 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/260464
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Thriller" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Movies Thriller
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/260469
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Music Now" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Music Now
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/260470
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Cinema 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Cinema 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299707
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Cinema 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Cinema 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299708
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Cinema 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Cinema 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299709
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Cinema 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Cinema 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299710
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Movies 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Movies 1
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299711
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Movies 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Movies 2
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299712
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Movies 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Movies 3
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299713
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Play Movies 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="阿拉伯影视",AR: OSN Play Movies 4
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/299714
-#EXTINF:-1 group-title="阿拉伯影视" tvg-id="Uae: Dubai One" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ANIMATION
