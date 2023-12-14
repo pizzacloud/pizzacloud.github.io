@@ -690,8 +690,6 @@ http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/67253.ts
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ACTION
-http://cord-cutter.net:8080/jesus1/jesus1/119419
 #EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ANIMATION
 http://cord-cutter.net:8080/jesus1/jesus1/119420
 #EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: BLOCKBUSTERS
@@ -726,6 +724,30 @@ http://cord-cutter.net:8080/jesus1/jesus1/119435
 http://cord-cutter.net:8080/jesus1/jesus1/119436
 #EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: THRILLER
 http://cord-cutter.net:8080/jesus1/jesus1/119437
+
+
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: 7NEWS SPOTLIGHT
+http://cord-cutter.net:8080/jesus1/jesus1/119438
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: ALL DOCUMENTERY
+http://cord-cutter.net:8080/jesus1/jesus1/119439
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: DISCOVERY
+http://cord-cutter.net:8080/jesus1/jesus1/119440
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: DW DOCUMENTERY
+http://cord-cutter.net:8080/jesus1/jesus1/119441
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FREE DOCUMENTERY
+http://cord-cutter.net:8080/jesus1/jesus1/119442
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FREE DOCUMENTERY ANILAMS
+http://cord-cutter.net:8080/jesus1/jesus1/119443
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FRONTLINE PBS
+http://cord-cutter.net:8080/jesus1/jesus1/119444
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: NAT GEO WILD
+http://cord-cutter.net:8080/jesus1/jesus1/119447
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: NETFLIX
+http://cord-cutter.net:8080/jesus1/jesus1/119448
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL CRIME
+http://cord-cutter.net:8080/jesus1/jesus1/119449
+#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL WILD
+http://cord-cutter.net:8080/jesus1/jesus1/119451
 
 #EXTINF:-1 group-title="其他",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
