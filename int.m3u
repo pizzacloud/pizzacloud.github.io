@@ -227,29 +227,29 @@ http://cord-cutter.net:8080/jesus1/jesus1/58765
 http://cord-cutter.net:8080/jesus1/jesus1/38
 
 
-#EXTINF:-1 group-title="法国" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
+#EXTINF:-1 group-title="法语" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
+#EXTINF:-1 group-title="法语" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
 http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
+#EXTINF:-1 group-title="法语" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
 http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
+#EXTINF:-1 group-title="法语" tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
 http://livetv.ktv.zone/116/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
+#EXTINF:-1 group-title="法语" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: AB3 HD
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: AB3 HD
 http://cord-cutter.net:8080/jesus1/jesus1/160302
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: MCM
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: MCM
 http://cord-cutter.net:8080/jesus1/jesus1/160303
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CANAL+ CINEMA FHD
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CANAL+ CINEMA FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160304
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: C8 FHD
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: C8 FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160305
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CANAL+ DECALE FHD
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CANAL+ DECALE FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160306
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CANAL+ FAMILY FHD
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CANAL+ FAMILY FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160307
-#EXTINF:-1 group-title="法国" tvg-id="" tvg-logo="",FR: CINE+ FAMIZ FHD
+#EXTINF:-1 group-title="法语" tvg-id="" tvg-logo="",FR: CINE+ FAMIZ FHD
 http://cord-cutter.net:8080/jesus1/jesus1/160308
 
 #EXTINF:-1 group-title="法语" tvg-id="TV5.ca" tvg-logo="",,|法语| TV5 Quebec HD (R)
@@ -290,30 +290,6 @@ http://darg.site:2082/P23002002/UgmrfwqcFsbD/178038
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178041
 #EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png",Telecinco HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178044
-#EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/966ee4301686bd3293f32284a44274d5.png",LA SEXTA
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/323991
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="|.ES.| TELEDEPORTE" tvg-logo="http://one-iptv.com/imageslogo/Teledeporte.es.png" group-title="西班牙语",|.ES.| TELEDEPORTE
-http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/2774
-#EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png",CO | CARACOL FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318374
-#EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png",CO | Caracol Internacional
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318375
-#EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/ea579624982a7b2006f31ac0abe3084e.png",CO | Pasiones FHD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318380
-#EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png",CO | RCN HD
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318382
-#EXTINF:-1 group-title="西班牙语" tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",Azteca Internacional 
-http://streamgo.vip:8008/CristianCorcuera/4vm5sFNWunSn/318383
-#EXTINF:-1 group-title="西班牙语" tvg-id="CBNEspanol.us" tvg-logo="https://i.imgur.com/Gm4fs9W.png",CBN Español 
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png",Foro TV 
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png",Las Estrellas Latin America
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-id=".es",Once México
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ANIMATION
 http://cord-cutter.net:8080/jesus1/jesus1/119420
