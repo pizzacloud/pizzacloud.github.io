@@ -258,15 +258,11 @@ http://cord-cutter.net:8080/jesus1/jesus1/57288
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="TeleQuebec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="13166" tvg-logo="",,CA (FR) Historia HD 
+#EXTINF:-1 group-title="法语" tvg-id="13166" tvg-logo="",CA (FR) Historia HD 
 http://cord-cutter.net:8080/jesus1/jesus1/57483
-#EXTINF:-1 group-title="法语" tvg-id="METEO.ca" tvg-logo="",,CA-FR | METEO
-http://cord-cutter.net:8080/jesus1/jesus1/57486
-#EXTINF:-1 group-title="法语" tvg-id="RDS2.ca" tvg-logo="",,CA (FR) RDS2 HD (B)
-http://cord-cutter.net:8080/jesus1/jesus1/57490
 #EXTINF:-1 group-title="法语" tvg-id="RDSInfo.ca" tvg-logo="",,CA-FR | RDS INFO
 http://cord-cutter.net:8080/jesus1/jesus1/57491
-#EXTINF:-1 group-title="法语" tvg-id="TFO.ca" tvg-logo="",,CA (FR) TFO HD (R)
+#EXTINF:-1 group-title="法语" tvg-id="TFO.ca" tvg-logo="",CA (FR) TFO HD (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57495
 #EXTINF:-1 group-title="法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
