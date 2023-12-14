@@ -294,15 +294,15 @@ http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png",BFM TV
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15201.ts
 #EXTINF:-1 group-title="法国" tvg-id="FranceInfo.fr",|法语| FRANCE INFO HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/43444.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/159
 #EXTINF:-1 group-title="法国" tvg-id="France24.fr",|法语| FRANCE 24 Français
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15164.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/870
 #EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="法国",|FR| LA CHAINE METEO FHD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/249114.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/168914
 #EXTINF:-1 group-title="法国" tvg-id="CNews.fr",|法语| C NEWS
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/117910.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/168
 #EXTINF:-1 tvg-id="LuxeTV.fr" tvg-name="|FR| LUXE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/1280px-Luxe_TV_Logo.svg.png" group-title="法国",|FR| LUXE TV FHD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126664.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/290407
 #EXTINF:-1 group-title="法国" tvg-id="AfricaNews.af",AfricaNews Français
 https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png",TF1
@@ -310,47 +310,45 @@ http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="TF1plus1.fr",|法语| TF1 +1 HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51179.ts
 #EXTINF:-1 group-title="法国" tvg-id="LCI.fr",|法语| LCI HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51179.ts
-#EXTINF:-1 group-title="法国" tvg-id="LCP100.fr",|法语| LCP
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60691.ts
-#EXTINF:-1 group-title="法国" tvg-id="BX1.be",|法语| BX1
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/249286.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/4342
 #EXTINF:-1 group-title="法国" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png",TF1 Series Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/d91GcVf.png",TFX
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/50640.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/164
 #EXTINF:-1 group-title="法国" tvg-id="ParisPremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png",Paris Premiere
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9238.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/868
 #EXTINF:-1 group-title="法国" tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",20 Minutes TV
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="MuseumTV.fr" tvg-logo="https://i.imgur.com/WbjURLo.png",Museum TV
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/62894.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/267860
 #EXTINF:-1 group-title="法国" tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 group-title="法国" tvg-id="LEquipe21.fr" tvg-logo="https://i.imgur.com/t35zhM9.png",L'EQUIPE 21 TV
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60707.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/147
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="法国",FR: M6
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/158
 #EXTINF:-1 group-title="法国" tvg-id="M6Music.fr",|法语| M6 MUSIC HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/60730.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/224
 #EXTINF:-1 group-title="法国" tvg-id="6ter.fr",|法语| 6Ter HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15216.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/183
 #EXTINF:-1 group-title="法国" tvg-id="W9.fr",|法语| W9 HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15111.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/160
 #EXTINF:-1 group-title="法国" tvg-id="Arte.fr",|法语| ARTE HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15212.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/163
 #EXTINF:-1 group-title="法国" tvg-id="NRJ12.fr",|法语| NRJ12 HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9366.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/226
 #EXTINF:-1 group-title="法国" tvg-id="TV5Monde.fr",|法语| TV5 MONDE
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/51170.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/879
 #EXTINF:-1 group-title="法国" tvg-id="Polar.fr",|法语| POLAR+ HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9564.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1202
 #EXTINF:-1 group-title="法国" tvg-id="C8.fr",|法语| C8 HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15232.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/161
 #EXTINF:-1 group-title="法国" tvg-id="CStar.fr",|法语| CStar
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/9561.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/1900
 #EXTINF:-1 group-title="法国" tvg-id="13eRue.fr",|法语| 13ème RUE HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15217.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/181
 #EXTINF:-1 group-title="法国" tvg-id="Syfy.fr",|法语| SYFY HD
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/15123.ts
+http://sysadminhost.net:8080/vtprotonium/CuUWPf5b7jywdD64t3BAZa/867
 
 #EXTINF:-1 group-title="法国" tvg-id="Animaux.fr",|法语| TCM CINEMA HD
 http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/126952.ts
