@@ -548,12 +548,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/57490
 http://cord-cutter.net:8080/jesus1/jesus1/57491
 #EXTINF:-1 group-title="加拿大法语" tvg-id="SuperEcran1.ca" tvg-logo="",,CA (FR) Super Ecran 1 (E)
 http://cord-cutter.net:8080/jesus1/jesus1/66363
-#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="|CA| Super Ecran 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/800px-Super_%C3%89cran_logo.png" group-title="加拿大法语",|CA| Super Ecran 2
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141240.ts
-#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="|CA| Super Ecran 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/800px-Super_%C3%89cran_logo.png" group-title="加拿大法语",|CA| Super Ecran 3
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141241.ts
-#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="|CA| Super Ecran 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/800px-Super_%C3%89cran_logo.png" group-title="加拿大法语",|CA| Super Ecran 4
-http://xpro.one-iptv.com:25443/live/Scooter7/D6ZYTRMHU4/141242.ts
 #EXTINF:-1 group-title="加拿大法语" tvg-id="TFO.ca" tvg-logo="",,CA (FR) TFO HD (R)
 http://cord-cutter.net:8080/jesus1/jesus1/57495
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="|CA| LCN " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_LCN_2014.png/1200px-Logo_LCN_2014.png" group-title="加拿大法语",|CA| LCN 
