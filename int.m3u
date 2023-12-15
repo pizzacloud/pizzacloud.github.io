@@ -35,8 +35,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/104884
 http://cord-cutter.net:8080/jesus1/jesus1/15158
 #EXTINF:-1 group-title="国际及美国" tvg-id="8749" tvg-logo="https://tinyurl.com/logos4u/fox.news.us.png",US Fox News  (F)
 http://cord-cutter.net:8080/jesus1/jesus1/1818
-#EXTINF:-1 group-title="国际及美国" tvg-id="USA| NBC HD" tvg-logo="",USA: NBC
-http://cord-cutter.net:8080/jesus1/jesus1/46687
 #EXTINF:-1 group-title="国际及美国" tvg-id="8419" tvg-logo="https://tinyurl.com/logos4u/msnbc.usa.us.png",US MSNBC 
 http://cord-cutter.net:8080/jesus1/jesus1/9296
 #EXTINF:-1 group-title="国际及美国" tvg-id="8510" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10145_h15_ac.png",US HLN (A)
@@ -117,9 +115,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/58770
 http://cord-cutter.net:8080/jesus1/jesus1/56410
 #EXTINF:-1 group-title="国际及美国" tvg-id="8545" tvg-logo="",US UniMas   (F)
 http://cord-cutter.net:8080/jesus1/jesus1/57969
-#EXTINF:-1 group-title="国际及美国" tvg-id="8608" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11118_h15_ab.png",US Univision (East) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/15336
-
 
 #EXTINF:-1 group-title="影视" tvg-id="8379" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792",US Comedy Central (East) (F)
 http://cord-cutter.net:8080/jesus1/jesus1/7466
