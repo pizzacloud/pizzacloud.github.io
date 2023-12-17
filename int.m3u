@@ -17,8 +17,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://i.imgur.com/scDKOLS.png",Bollywood HD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png",Deluxe Dance
@@ -66,6 +64,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="影视" tvg-id="Uae: Dubai One" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="影视" tvg-id="Bollywood" tvg-logo="https://i.imgur.com/scDKOLS.png",Bollywood HD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
 
 #EXTINF:-1 group-title="音乐",PMC
 https://hls.pmchd.live/hls/stream.m3u8
