@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_US.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 group-title="国际及美国" tvg-id="AlJazeeraEnglish.uk" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="CNN.uk" tvg-logo="https://live.fanmingming.com/tv/cnn.png",CNN International Europe
@@ -29,96 +29,19 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="12523" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/3c7ddca8f90cdf8123ae92e0c2294ebc4839b426/tv/trtworld.png",|土耳其| TRT World HD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="8772" tvg-logo="https://tinyurl.com/logos4u/cnbc.world.us.png",US CNBC World
-http://cord-cutter.net:8080/jesus1/jesus1/20860
-#EXTINF:-1 group-title="国际及美国" tvg-id="8693" tvg-logo="https://tinyurl.com/logos4u/cnn.us.png",US CNN 
-http://cord-cutter.net:8080/jesus1/jesus1/104884
-#EXTINF:-1 group-title="国际及美国" tvg-id="8659" tvg-logo="https://tinyurl.com/logos4u/Bloomberg_News.png",US Bloomberg
-http://cord-cutter.net:8080/jesus1/jesus1/15158
-#EXTINF:-1 group-title="国际及美国" tvg-id="8749" tvg-logo="https://tinyurl.com/logos4u/fox.news.us.png",US Fox News  (F)
-http://cord-cutter.net:8080/jesus1/jesus1/1818
-#EXTINF:-1 group-title="国际及美国" tvg-id="8419" tvg-logo="https://tinyurl.com/logos4u/msnbc.usa.us.png",US MSNBC 
-http://cord-cutter.net:8080/jesus1/jesus1/9296
 #EXTINF:-1 group-title="国际及美国",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="8510" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10145_h15_ac.png",US HLN (A)
-http://cord-cutter.net:8080/jesus1/jesus1/17748
 #EXTINF:-1 group-title="国际及美国" tvg-id="8914" tvg-logo="ttp://cdn.tvpassport.com/image/station/240x135/v2/s12553_h15_aa.png",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",美·NASA 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="8971" tvg-logo="https://tinyurl.com/logos4u/bbc.america.east.us.png",US BBC America (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20194
-#EXTINF:-1 group-title="国际及美国" tvg-id="8985" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png",US Discovery Channel East 
-http://cord-cutter.net:8080/jesus1/jesus1/9811
-#EXTINF:-1 group-title="国际及美国" tvg-id="8422" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_aa.png",USA: DISCOVERY FAMILY
-http://cord-cutter.net:8080/jesus1/jesus1/10538
-#EXTINF:-1 group-title="国际及美国" tvg-id="8397" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png",USA: Discovery Life HD
-http://cord-cutter.net:8080/jesus1/jesus1/9861
-#EXTINF:-1 group-title="国际及美国" tvg-id="Discovery Science EAST" tvg-logo="",US Discovery Science (A)
-http://cord-cutter.net:8080/jesus1/jesus1/20866
-#EXTINF:-1 group-title="国际及美国" tvg-id="8656" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png",US Animal Planet (A)
-http://cord-cutter.net:8080/jesus1/jesus1/17870
-#EXTINF:-1 group-title="国际及美国" tvg-id="8891" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14771_h15_af.png",US HISTORY 
-http://cord-cutter.net:8080/jesus1/jesus1/46724
-#EXTINF:-1 group-title="国际及美国" tvg-id="8487" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16615_h15_ad.png",US ID Investigation Discovery 
-http://cord-cutter.net:8080/jesus1/jesus1/46810
-#EXTINF:-1 group-title="国际及美国" tvg-id=""National Geographic Wild" tvg-logo="",US Nat Geo Wild East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/11664
-#EXTINF:-1 group-title="国际及美国" tvg-id="8825" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s24959_h15_ab.png",US National Geographic 
-http://cord-cutter.net:8080/jesus1/jesus1/46722
-#EXTINF:-1 group-title="国际及美国" tvg-id="8863" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18544_h15_ad.png",US Magnoia Network 
-http://cord-cutter.net:8080/jesus1/jesus1/10503
-#EXTINF:-1 group-title="国际及美国" tvg-id="Court TV" tvg-logo="",US  Court TV
-http://cord-cutter.net:8080/jesus1/jesus1/21092
-#EXTINF:-1 group-title="国际及美国" tvg-id="9038" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s21760_h15_aa.png",USA: A&E
-http://cord-cutter.net:8080/jesus1/jesus1/59056
-#EXTINF:-1 group-title="国际及美国" tvg-id="8396" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png",US AMC 
-http://cord-cutter.net:8080/jesus1/jesus1/18925
 #EXTINF:-1 group-title="国际及美国" tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png",Crime 360
 https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="8377" tvg-logo="https://tinyurl.com/logos4u/Comet_TV.png",US Comet (S)
-http://cord-cutter.net:8080/jesus1/jesus1/66244
-#EXTINF:-1 group-title="国际及美国" tvg-id="8619" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s30156_h15_aa.png",US Cooking Channel 
-http://cord-cutter.net:8080/jesus1/jesus1/9229
 #EXTINF:-1 group-title="国际及美国" tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="8712" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s12574_h15_ab.png",USA: Food Network HD
-http://cord-cutter.net:8080/jesus1/jesus1/7323
-#EXTINF:-1 group-title="国际及美国" tvg-id="8444" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16617_h15_aa.png",US Destination America (A)
-http://cord-cutter.net:8080/jesus1/jesus1/14222
-#EXTINF:-1 group-title="国际及美国" tvg-id="8451" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s66419_h15_aa.png",US MTV 
-http://cord-cutter.net:8080/jesus1/jesus1/9818
-#EXTINF:-1 group-title="国际及美国" tvg-id="9011" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16361_h15_aa.png",US MTV2 
-http://cord-cutter.net:8080/jesus1/jesus1/9308
-#EXTINF:-1 group-title="国际及美国" tvg-id="9100" tvg-logo="",US ION 
-http://cord-cutter.net:8080/jesus1/jesus1/9297
-#EXTINF:-1 group-title="国际及美国" tvg-id="8467" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s92052_h15_aa.png",US MotorTrend (A)
-http://cord-cutter.net:8080/jesus1/jesus1/10399
-#EXTINF:-1 group-title="国际及美国" tvg-id="8853" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png",US ESPN 1 (HD) 
-http://cord-cutter.net:8080/jesus1/jesus1/14197
-#EXTINF:-1 group-title="国际及美国" tvg-id="8362" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png",US ESPN 2 
-http://cord-cutter.net:8080/jesus1/jesus1/2210
 #EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="8533" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png",USA: NBA TV
-http://cord-cutter.net:8080/jesus1/jesus1/20073
-#EXTINF:-1 group-title="国际及美国" tvg-id="9064" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14776_h15_ab.png",US Outdoor Channel
-http://cord-cutter.net:8080/jesus1/jesus1/9244
-#EXTINF:-1 group-title="国际及美国" tvg-id="8966" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s83097_h15_ab.png",US Revolt 
-http://cord-cutter.net:8080/jesus1/jesus1/39276
-#EXTINF:-1 group-title="国际及美国" tvg-id="8814" tvg-logo="https://tinyurl.com/logos4u/the.weather.channel.us.png",US The Weather Channel (A)
-http://cord-cutter.net:8080/jesus1/jesus1/18926
-#EXTINF:-1 group-title="国际及美国" tvg-id="8855" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11118_h15_ab.png",US Univision (East) (SP)
-http://cord-cutter.net:8080/jesus1/jesus1/46692
-#EXTINF:-1 group-title="国际及美国" tvg-id="9013" tvg-logo="https://tinyurl.com/logos4u/wwe.network.ca.png",US: WWE NETWORK
-http://cord-cutter.net:8080/jesus1/jesus1/11645
-#EXTINF:-1 group-title="国际及美国" tvg-id="8536" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10222_h15_ab.png",US Latin Galavision
-http://cord-cutter.net:8080/jesus1/jesus1/58770
-#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",LAT: TELEMUNDO 51 MIAMI HD
-http://cord-cutter.net:8080/jesus1/jesus1/56410
-#EXTINF:-1 group-title="国际及美国" tvg-id="8545" tvg-logo="",US UniMas   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/57969
 #EXTINF:-1 group-title="国际及美国",「US」 WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国",TeleUno TV
@@ -133,70 +56,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="影视",AXN 台灣
-http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="影视",BBC Earth
 http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 #EXTINF:-1 group-title="影视",BBC2
 http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-#EXTINF:-1 group-title="影视" tvg-id="8379" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92480792",US Comedy Central (East) (F)
-http://cord-cutter.net:8080/jesus1/jesus1/7466
-EXTINF:-1 group-title="影视",衛視中文台
-http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
-#EXTINF:-1 group-title="影视" tvg-id="8372" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png",US HBO 
-http://cord-cutter.net:8080/jesus1/jesus1/9264
-#EXTINF:-1 group-title="影视" tvg-id="8594" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png",US HBO 2 (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9816
-#EXTINF:-1 group-title="影视" tvg-id="8703" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png",US HBO Comedy (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17773
-#EXTINF:-1 group-title="影视" tvg-id="8810" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png",US HBO Family (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/17772
-#EXTINF:-1 group-title="影视" tvg-id="8746" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png",US HBO SIGNATURE (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/9266
-#EXTINF:-1 group-title="影视" tvg-id="9115" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18431_h15_aa.png",US HBO Zone (East) (H)
-http://cord-cutter.net:8080/jesus1/jesus1/9265
-#EXTINF:-1 group-title="影视" tvg-id="8649" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s33668_h15_ae.png",US HDNET MOVIES 
-http://cord-cutter.net:8080/jesus1/jesus1/16265
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="影视" tvg-id="8440" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_aa.png",US Showtime East 
-http://cord-cutter.net:8080/jesus1/jesus1/46214
-#EXTINF:-1 group-title="影视" tvg-id="8828" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png",US Syfy (East)   (F)
-http://cord-cutter.net:8080/jesus1/jesus1/46685
-#EXTINF:-1 group-title="影视" tvg-id="8629" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11163_h15_ac.png",US Paramount Network 
-http://cord-cutter.net:8080/jesus1/jesus1/16201
-#EXTINF:-1 group-title="影视" tvg-id="8912" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11221_h15_aa.png",US Hallmark Channel
-http://cord-cutter.net:8080/jesus1/jesus1/46719
-#EXTINF:-1 group-title="影视" tvg-id="8819" tvg-logo="",US Hallmark Drama 
-http://cord-cutter.net:8080/jesus1/jesus1/9307
-#EXTINF:-1 group-title="影视" tvg-id="8936" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s61522_h15_aa.png",US Hallmark Movies & Mysteries 
-http://cord-cutter.net:8080/jesus1/jesus1/10289
-#EXTINF:-1 group-title="影视" tvg-id="8713" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s10918_h15_ac.png",US Lifetime 
-http://cord-cutter.net:8080/jesus1/jesus1/46714
-#EXTINF:-1 group-title="影视" tvg-id="8637" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s18480_h15_ad.png",US Lifetime Movies 
-http://cord-cutter.net:8080/jesus1/jesus1/20863
-#EXTINF:-1 group-title="影视" tvg-id="8593" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11158_h15_ad.png",US TLC East (F)
-http://cord-cutter.net:8080/jesus1/jesus1/12734
-#EXTINF:-1 group-title="影视" tvg-id="8549" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png",US TNT East 
-http://cord-cutter.net:8080/jesus1/jesus1/10455
-#EXTINF:-1 group-title="影视" tvg-id="8995" tvg-logo="",US TBN 
-http://cord-cutter.net:8080/jesus1/jesus1/21895
-#EXTINF:-1 group-title="影视" tvg-id="8651" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11867_h15_ac.png",US TBS 
-http://cord-cutter.net:8080/jesus1/jesus1/20867
-#EXTINF:-1 group-title="影视" tvg-id="8517" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-405.png",US E! Entertainment Television East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/11651
-#EXTINF:-1 group-title="影视" tvg-id="9112" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s25620_h15_ad.png",US 5 StarMax
-http://cord-cutter.net:8080/jesus1/jesus1/13381
-#EXTINF:-1 group-title="影视" tvg-id="9089" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s76126_h15_ad.png",US Aspire (A)
-http://cord-cutter.net:8080/jesus1/jesus1/21927
-#EXTINF:-1 group-title="影视" tvg-id="BET - Pacific Feed" tvg-logo="",US BET (East) 
-http://cord-cutter.net:8080/jesus1/jesus1/46703
-#EXTINF:-1 group-title="影视" tvg-id="8573" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s14929_h15_ac.png",US Fuse (A)
-http://cord-cutter.net:8080/jesus1/jesus1/46701
-#EXTINF:-1 group-title="影视" tvg-id="8691" tvg-logo="",US FX East 
-http://cord-cutter.net:8080/jesus1/jesus1/46690
-#EXTINF:-1 group-title="影视" tvg-id="8389" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",US VH1 
-http://cord-cutter.net:8080/jesus1/jesus1/7404
 #EXTINF:-1 group-title="影视",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="影视" tvg-id="Uae: Dubai One" tvg-logo="https://i.imgur.com/Dj16oKL.png",Dubai One 
@@ -215,48 +80,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 group-title="音乐",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8725" tvg-logo="",US Disney Channel East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/2206
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8984" tvg-logo="",USA-Disney Jr
-http://cord-cutter.net:8080/jesus1/jesus1/41960
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8393" tvg-logo="",US Nick Jr 
-http://cord-cutter.net:8080/jesus1/jesus1/46710
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8736" tvg-logo="",US Universal Kids (A)
-http://cord-cutter.net:8080/jesus1/jesus1/9235
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8897" tvg-logo="",US: Disney XD
-http://cord-cutter.net:8080/jesus1/jesus1/75621
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="" tvg-logo="8676",US NickToons 
-http://cord-cutter.net:8080/jesus1/jesus1/36
-#EXTINF:-1 group-title="多国少儿节目" tvg-id="8822" tvg-logo="",US Nickelodeon East (A)
-http://cord-cutter.net:8080/jesus1/jesus1/38
-
-
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="1015" tvg-logo="",UK: BBC NEWS
-http://cord-cutter.net:8080/jesus1/jesus1/53757
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12683" tvg-logo="",CA | BBC EARTH
-http://cord-cutter.net:8080/jesus1/jesus1/99621
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="ITV1 London HD" tvg-logo="",UK-ITV
-http://cord-cutter.net:8080/jesus1/jesus1/53651
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="13069" tvg-logo="",CA: CPAC English
-http://cord-cutter.net:8080/jesus1/jesus1/57352
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12819" tvg-logo="",CA: CRAVE 1 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57309
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12857" tvg-logo="",CA: CRAVE 2 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57310
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="13050" tvg-logo="",CA: CRAVE 3
-http://cord-cutter.net:8080/jesus1/jesus1/57322
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12711" tvg-logo="",CA: CRAVE 4 HD
-http://cord-cutter.net:8080/jesus1/jesus1/57311
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12735" tvg-logo="",CA CTV Two Atlantic 
-http://cord-cutter.net:8080/jesus1/jesus1/79547
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12680" tvg-logo="",CA CTV Comedy Channel (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57408
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="13121" tvg-logo="",CA CTV Drama Channel (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57254
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="" tvg-logo="8983",CA: CTV NEWS CHANNEL HD
-http://cord-cutter.net:8080/jesus1/jesus1/57350
-#EXTINF:-1 group-title="英国及加拿大" tvg-id="12837" tvg-logo="",CA Adult Swim (R)
-http://cord-cutter.net:8080/jesus1/jesus1/11644
 
 #EXTINF:-1 group-title="法语" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
@@ -268,39 +91,14 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9545.ts
 http://livetv.ktv.zone/116/play.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="AB3.fr" tvg-logo="",FR: AB3 HD
-http://cord-cutter.net:8080/jesus1/jesus1/160302
-#EXTINF:-1 group-title="法语" tvg-id="MCM.fr" tvg-logo="",FR: MCM
-http://cord-cutter.net:8080/jesus1/jesus1/160303
-#EXTINF:-1 group-title="法语" tvg-id="C8.fr" tvg-logo="",FR: C8 FHD
-http://cord-cutter.net:8080/jesus1/jesus1/160305
-#EXTINF:-1 group-title="法语" tvg-id="CanalPlusCinema.fr" tvg-logo="",FR: CANAL+ CINEMA FHD
-http://cord-cutter.net:8080/jesus1/jesus1/160304
-#EXTINF:-1 group-title="法语" tvg-id="CanalPlusFamily.fr" tvg-logo="",FR: CANAL+ FAMILY FHD
-http://cord-cutter.net:8080/jesus1/jesus1/160307
-
-#EXTINF:-1 group-title="法语" tvg-id="TV5.ca" tvg-logo="",,|法语| TV5 Quebec HD (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57288
 #EXTINF:-1 group-title="法语" tvg-id="13136" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="TeleQuebec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="13166" tvg-logo="",CA (FR) Historia HD 
-http://cord-cutter.net:8080/jesus1/jesus1/57483
-#EXTINF:-1 group-title="法语" tvg-id="RDSInfo.ca" tvg-logo="",,CA-FR | RDS INFO
-http://cord-cutter.net:8080/jesus1/jesus1/57491
-#EXTINF:-1 group-title="法语" tvg-id="TFO.ca" tvg-logo="",CA (FR) TFO HD (R)
-http://cord-cutter.net:8080/jesus1/jesus1/57495
 #EXTINF:-1 group-title="法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="TeleTchad.td" tvg-logo="https://i.imgur.com/udSzfHD.png",Télé Tchad
-https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="HaitiNewsChannel.ht" tvg-logo="https://m.media-amazon.com/images/I/51bJg+c7vRL.png",Haiti News Channel
-https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="ORTBTV.bj" tvg-logo="https://i.imgur.com/ovhVYvP.png",ORTB TV
-https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="RTI1.ci" tvg-logo="https://i.imgur.com/gbcHybd.png",RTI 1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
@@ -318,65 +116,8 @@ http://darg.site:2082/P23002002/UgmrfwqcFsbD/178041
 #EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png",Telecinco HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178044
 
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ANIMATION
-http://cord-cutter.net:8080/jesus1/jesus1/119420
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: BLOCKBUSTERS
-http://cord-cutter.net:8080/jesus1/jesus1/119421
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: CLASSIC
-http://cord-cutter.net:8080/jesus1/jesus1/119422
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: COMEDY
-http://cord-cutter.net:8080/jesus1/jesus1/119423
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: CULT
-http://cord-cutter.net:8080/jesus1/jesus1/119424
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: FAMILY
-http://cord-cutter.net:8080/jesus1/jesus1/119425
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: GREATS
-http://cord-cutter.net:8080/jesus1/jesus1/119426
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: GREATS TWO
-http://cord-cutter.net:8080/jesus1/jesus1/119427
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: HISTORICAL
-http://cord-cutter.net:8080/jesus1/jesus1/119428
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: MUSICAL
-http://cord-cutter.net:8080/jesus1/jesus1/119430
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: MYSTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119431
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: PREMIERE
-http://cord-cutter.net:8080/jesus1/jesus1/119432
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: ROMANCE
-http://cord-cutter.net:8080/jesus1/jesus1/119433
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: SCI-FI
-http://cord-cutter.net:8080/jesus1/jesus1/119434
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: WESTERN
-http://cord-cutter.net:8080/jesus1/jesus1/119435
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: HITS
-http://cord-cutter.net:8080/jesus1/jesus1/119436
-#EXTINF:-1 group-title="CINEBOX" tvg-id="" tvg-logo="",CINEBOX: THRILLER
-http://cord-cutter.net:8080/jesus1/jesus1/119437
-
-
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: 7NEWS SPOTLIGHT
-http://cord-cutter.net:8080/jesus1/jesus1/119438
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: ALL DOCUMENTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119439
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: DISCOVERY
-http://cord-cutter.net:8080/jesus1/jesus1/119440
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: DW DOCUMENTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119441
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FREE DOCUMENTERY
-http://cord-cutter.net:8080/jesus1/jesus1/119442
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: FREE DOCUMENTERY ANILAMS
-http://cord-cutter.net:8080/jesus1/jesus1/119443
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: NAT GEO WILD
-http://cord-cutter.net:8080/jesus1/jesus1/119447
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: NETFLIX
-http://cord-cutter.net:8080/jesus1/jesus1/119448
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL CRIME
-http://cord-cutter.net:8080/jesus1/jesus1/119449
-#EXTINF:-1 group-title="DOCUBOX" tvg-id="" tvg-logo="",DOCUBOX: REAL WILD
-http://cord-cutter.net:8080/jesus1/jesus1/119451
-
-#EXTINF:-1 group-title="其他",美国中文电视
-https://jpts.sinovision.net/livestream.m3u8
+EXTINF:-1 group-title="其他",衛視中文台
+http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",澳视卫星
 http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",澳门莲花
