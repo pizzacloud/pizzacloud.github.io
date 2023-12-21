@@ -116,8 +116,7 @@ http://darg.site:2082/P23002002/UgmrfwqcFsbD/178041
 #EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png",Telecinco HD
 http://darg.site:2082/P23002002/UgmrfwqcFsbD/178044
 
-EXTINF:-1 group-title="其他",衛視中文台
-http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",澳视卫星
 http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",澳门莲花
