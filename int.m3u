@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 group-title="国际及美国" tvg-id="AlJazeeraEnglish.uk" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="CNN.uk" tvg-logo="https://live.fanmingming.com/tv/cnn.png",CNN International Europe
+#EXTINF:-1 group-title="国际及美国" tvg-id="CNN.uk" tvg-logo="https://live.fanmingming.com/tv/cnn.png",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="2852" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -15,6 +15,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="国际及美国",ABC News（澳大利亚）
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png",Love Nature
@@ -27,8 +29,6 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="12523" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/3c7ddca8f90cdf8123ae92e0c2294ebc4839b426/tv/trtworld.png",|土耳其| TRT World HD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="国际及美国",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="8914" tvg-logo="ttp://cdn.tvpassport.com/image/station/240x135/v2/s12553_h15_aa.png",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",美·NASA 2
@@ -54,10 +54,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-s
 https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="影视",BBC Earth
-http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-#EXTINF:-1 group-title="影视",BBC2
-http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="影视",Action Hollywood Movies
@@ -86,7 +82,7 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
 http://livetv.ktv.zone/104/play.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9545.ts
+http://cord-cutter.net:8080/jesus1/jesus1/160298
 #EXTINF:-1 group-title="法语" tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
 http://livetv.ktv.zone/116/play.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
