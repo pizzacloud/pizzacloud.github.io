@@ -126,8 +126,6 @@ http://cord-cutter.net:8080/jesus1/jesus1/20932
 http://cord-cutter.net:8080/jesus1/jesus1/78599
 #EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",USA-Disney Jr
 http://cord-cutter.net:8080/jesus1/jesus1/41960
-#EXTINF:-1 group-title="葡萄牙" tvg-id="" tvg-logo="",PT Eleven Sports 1 FHD 
-http://cord-cutter.net:8080/jesus1/jesus1/35264
 #EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US ESPN NEWS
 http://cord-cutter.net:8080/jesus1/jesus1/17707
 #EXTINF:-1 group-title="美国" tvg-id="" tvg-logo="",US Fox Soccer Plus (F)
@@ -3701,6 +3699,8 @@ http://cord-cutter.net:8080/jesus1/jesus1/164958
 http://cord-cutter.net:8080/jesus1/jesus1/21020
 #EXTINF:-1 group-title="巴西" tvg-id="" tvg-logo="",BR: SBT HD
 http://cord-cutter.net:8080/jesus1/jesus1/20978
+#EXTINF:-1 group-title="葡萄牙" tvg-id="" tvg-logo="",PT Eleven Sports 1 FHD 
+http://cord-cutter.net:8080/jesus1/jesus1/35264
 #EXTINF:-1 group-title="葡萄牙" tvg-id="" tvg-logo="",PT: SPORT TV 1 FHD
 http://cord-cutter.net:8080/jesus1/jesus1/167742
 #EXTINF:-1 group-title="葡萄牙" tvg-id="" tvg-logo="",PT: SPORT TV 2 HD
