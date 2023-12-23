@@ -37,7 +37,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视IPV6",CGTN英语
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/CGTN记录.png" group-title="央视IPV6",CGTN记录
+#EXTINF:-1 tvg-id="" tvg-name="CGTNDocumentary" tvg-logo="https://epg.112114.eu.org/logo/CGTN记录.png" group-title="央视IPV6",CGTN记录
 http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV6",CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
