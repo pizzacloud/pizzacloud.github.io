@@ -7,7 +7,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="11775" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -19,9 +19,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png",Love Nature
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png",Deluxe Dance
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://i.imgur.com/Qu7t15Y.png",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="DemandAfrica.us" tvg-logo="https://i.imgur.com/usqoEug.png",Demand Africa
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
@@ -52,6 +52,10 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.co
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际及美国",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际及美国",USA BBC World News UHD
+http://supersonictv.live:8080/kevinmarcia/444666445/21755
+#EXTINF:-1 group-title="国际及美国",USA CNN Espanol LHD
+http://supersonictv.live:8080/kevinmarcia/444666445/21766
 
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="",Moviesphere
@@ -117,6 +121,8 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/59713.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/59739.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",大爱电视台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",澳视卫星
 http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",澳门莲花
