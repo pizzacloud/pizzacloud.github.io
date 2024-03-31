@@ -12,11 +12,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 group-title="国际"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="9136" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
-https://youtu.be/tkDUSYHoKxE
-#EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 French
-https://youtu.be/l8PMl7tUDIE
-#EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 Spanish
-https://youtu.be/Y-IlMeCCtIg
+http://filex.tv:8080/Diamond@pk/4193525345/253675
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC News（澳大利亚）
