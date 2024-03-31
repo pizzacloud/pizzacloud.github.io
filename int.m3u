@@ -5,14 +5,18 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="2852" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="国际及美国" tvg-id="11775" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWORLD
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="9136" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+https://youtu.be/tkDUSYHoKxE
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 French
+https://youtu.be/l8PMl7tUDIE
+#EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 Spanish
+https://youtu.be/Y-IlMeCCtIg
 #EXTINF:-1 group-title="国际及美国",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国",ABC News（澳大利亚）
@@ -40,10 +44,6 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际及美国" tvg-id="8712" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s12574_h15_ab.png",USA: Food Network HD
 #EXTINF:-1 group-title="国际及美国" tvg-id="" tvg-logo="",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国",「US」 WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="国际及美国",TeleUno TV
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际及美国",Clubbing TV
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际及美国",Colosal TV
@@ -66,17 +66,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="影视" tvg-id="Bollywood" tvg-logo="https://i.imgur.com/scDKOLS.png",Bollywood HD
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-
-#EXTINF:-1 group-title="音乐",PMC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="音乐",Retro
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="音乐",M2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="音乐",Vibee
-http://de1se01.v2beat.live/chunks.m3u8
-#EXTINF:-1 group-title="音乐",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+-p0=
 #EXTINF:-1 group-title="音乐",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
