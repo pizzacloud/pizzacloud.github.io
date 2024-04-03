@@ -11,8 +11,12 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="9136" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
-http://filex.tv:8080/Diamond@pk/4193525345/253675
+#EXTINF:-1 group-title="国际" tvg-id="9136" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English<Youtube>
+https://ythls-v2.onrender.com/video/tkDUSYHoKxE.m3u8
+#EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="",France 24 French<Youtube>
+https://ythls-v2.onrender.com/video/l8PMl7tUDIE.m3u8
+#EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="",France 24 Spanish<Youtube>
+https://ythls-v2.onrender.com/video/Y-IlMeCCtIg.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC News（澳大利亚）
@@ -70,15 +74,17 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.
 #EXTINF:-1 group-title="法语" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
-http://livetv.ktv.zone/104/play.m3u8
+http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56372
 #EXTINF:-1 group-title="法语" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
-http://cord-cutter.net:8080/jesus1/jesus1/160298
+http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56373
 #EXTINF:-1 group-title="法语" tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
-http://livetv.ktv.zone/116/play.m3u8
+http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56374
 #EXTINF:-1 group-title="法语" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
-http://livetv.ktv.zone/107/play.m3u8
+http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56375
 #EXTINF:-1 group-title="法语" tvg-id="13136" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="法语",FR: TF1 FHD
+http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56371
 #EXTINF:-1 group-title="法语" tvg-id="TeleQuebec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png",DBM
