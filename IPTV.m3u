@@ -281,10 +281,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="HRB蓝网" group-title="•地区",「黑龙江」HRB新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" group-title="•地区",「黑龙江」齐齐哈尔新闻综合「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔经济法治" group-title="•地区",「黑龙江」齐齐哈尔经济法治「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 tvg-name="佳木斯新闻综合" group-title="•地区",「黑龙江」佳木斯新闻综合「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 #EXTINF:-1 tvg-name="大庆新闻综合" group-title="•地区",「黑龙江」大庆新闻综合「IPV6」
