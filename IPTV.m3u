@@ -75,10 +75,6 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="地方频道",「浙江」云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-name="湖北综合" group-title="地方频道",「湖北」湖北综合「IPV6」
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-#EXTINF:-1 tvg-name="湖北影视" group-title="地方频道",「湖北」湖北影视「IPV6」
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 #EXTINF:-1 tvg-name="湖北教育" group-title="地方频道",「湖北」湖北教育「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 tvg-name="湖北生活" group-title="地方频道",「湖北」湖北生活「IPV6」
@@ -203,10 +199,6 @@ http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
 #EXTINF:-1 group-title="地方频道",「河南」宜阳综合频道
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
-#EXTINF:-1 group-title="地方频道",「河南」禹州公共
-http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
-#EXTINF:-1 group-title="地方频道",「河南」禹州公共
-http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 #EXTINF:-1 group-title="地方频道",「河南」禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
 #EXTINF:-1 group-title="地方频道",「湖南」湘潭新闻综合
@@ -241,10 +233,6 @@ http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方频道",「江苏」南京十八
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="地方频道",「江苏」南京信息
-http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
-#EXTINF:-1 group-title="地方频道",「江苏」南京娱乐
-http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方频道",「江苏」沛县新闻综合
 http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 #EXTINF:-1 group-title="地方频道",「江苏」如东新闻综合
@@ -289,10 +277,6 @@ http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199
 http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
 #EXTINF:-1 group-title="地方频道",「山西」晋中新闻
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
-#EXTINF:-1 group-title="地方频道",「山西」灵石新闻综合
-https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
-#EXTINF:-1 group-title="地方频道",「山西」襄垣电视
-http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
 #EXTINF:-1 group-title="地方频道",「山西」运城公共频道
 http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
 #EXTINF:-1 group-title="地方频道",「山西」运城科技教育
@@ -319,8 +303,6 @@ http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsi
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="地方频道",「四川」马尔康综合
 http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
-#EXTINF:-1 group-title="地方频道",「四川」蓬安新闻综合
-http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
 #EXTINF:-1 group-title="地方频道",「四川」青神综合
 http://lmt.scqstv.com/live1/live1.m3u8?zsicd
 #EXTINF:-1 group-title="地方频道",「四川」什邡新闻频道
@@ -329,8 +311,6 @@ http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 #EXTINF:-1 group-title="地方频道",「四川」汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-#EXTINF:-1 group-title="地方频道",「四川」西青新闻综合
-http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 #EXTINF:-1 group-title="地方频道",「四川」叙州新闻综合
 http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 #EXTINF:-1 group-title="地方频道",「四川」营山电视台
@@ -369,15 +349,6 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/play
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 
 
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="CGTN",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="CGTN",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="CGTN",CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CGTN",CGTN阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
-
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 group-title="国际" tvg-id="AlJazeeraEnglish.uk" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -386,7 +357,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="2852" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWORLD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
@@ -402,14 +373,10 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="FashionTV.fr" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",FASHIONTV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="12523" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/3c7ddca8f90cdf8123ae92e0c2294ebc4839b426/tv/trtworld.png",|土耳其| TRT World HD
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="国际" tvg-id="8914" tvg-logo="ttp://cdn.tvpassport.com/image/station/240x135/v2/s12553_h15_aa.png",美·NASA 1
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="8712" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/v2/s12574_h15_ab.png",USA: Food Network HD
-#EXTINF:-1 group-title="国际" tvg-id="" tvg-logo="",EdgeSport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="",Clubbing TV
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际",Colosal TV
@@ -423,18 +390,6 @@ http://supersonictv.live:8080/kevinmarcia/444666445/21755
 #EXTINF:-1 group-title="国际",USA CNN Espanol LHD
 http://supersonictv.live:8080/kevinmarcia/444666445/21766
 
-#EXTINF:-1 group-title="Youtube直播" tvg-id="9136" tvg-logo="https://live.fanmingming.com/tv/france24.png",France 24 English
-https://ythls-v2.onrender.com/video/tkDUSYHoKxE.m3u8
-#EXTINF:-1 group-title="Youtube直播" tvg-id="" tvg-logo="",France 24 French
-https://ythls-v2.onrender.com/video/l8PMl7tUDIE.m3u8
-#EXTINF:-1 group-title="Youtube直播" tvg-id="" tvg-logo="",France 24 Spanish
-https://ythls-v2.onrender.com/video/Y-IlMeCCtIg.m3u8
-#EXTINF:-1 group-title="Youtube直播" tvg-id="" tvg-logo="",Euronews French
-https://ythls-v2.onrender.com/video/NiRIbKwAejk.m3u8
-#EXTINF:-1 group-title="Youtube直播" tvg-id="" tvg-logo="",Euronews Spanish
-https://ythls-v2.onrender.com/video/O9mOtdZ-nSk.m3u8
-#EXTINF:-1 group-title="Youtube直播" tvg-id="" tvg-logo="",DW English
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712168162/ei/gkgNZtaCIc2P_9EPpaeQ6Ag/ip/20.57.75.161/id/6HodCcEW_oQ.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qs7nzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5u02nZPyw3YPyWZ_v-IXWoB2GQckth8woXiptUQEp2IXgCw4WU3AQ/vprv/1/playlist_type/DVR/mh/-I/mm/44/mn/sn-p5qs7nzr/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712144615/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALtV5opiT4orz-hXtm0VCJoWfNfabeUENyW5VrY5On-BAiBPmxtszfY7Hn2Bsi7lvuqjI9nYo7XLzEXhPILWd4f6DQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhANTL9_ztvi0gd8_23vRBjsRawzBWmpT6Usd4CvW14Uk1AiEAvEYcwYg10poIhioTPIt1Er_M7TDyGYcwO7-3x_V09UY%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="影视" tvg-id="" tvg-logo="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
@@ -485,3 +440,5 @@ http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/7575
 #EXTINF:-1 group-title="西班牙语",MOVISTAR PLUS 2 HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/16474
 
+#EXTINF:-1 group-title="葡萄牙语",Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
