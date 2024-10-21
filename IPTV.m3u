@@ -175,12 +175,12 @@ http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/7575
 #EXTINF:-1 group-title="西班牙语",MOVISTAR PLUS 2 HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/16474
 
+#EXTINF:-1 group-title="葡萄牙语",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd?tk=1729566000_a62c2e4777ddd62e0b8e7da94be9fee028115ef2
 #EXTINF:-1 group-title="葡萄牙语",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语",Record(巴西)
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 group-title="葡萄牙语",RTTL(东帝汶广播电视台)
-https://tv.rttlep.tl/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语",TV Muzangala(安哥拉)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语",KK TV(安哥拉)
@@ -189,4 +189,7 @@ https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语",TV Cidade(佛得角)
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
-
+#EXTINF:-1 group-title="葡萄牙语",澳視葡文
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语",澳門 - MACAU 衛星頻道
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
