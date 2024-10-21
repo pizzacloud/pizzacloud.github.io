@@ -150,10 +150,6 @@ http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLx
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="法语",FR: TF1 FHD
 http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56371
-#EXTINF:-1 group-title="法语" tvg-id="TeleQuebec.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",Télé-Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="法语" tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png",Ivoire Channel
-https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 
 #EXTINF:-1 group-title="西班牙语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png",La 1 HD
@@ -168,15 +164,9 @@ http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5801
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5802
 #EXTINF:-1 group-title="西班牙语" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png",Telecinco HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5803
-#EXTINF:-1 group-title="西班牙语",|.ES.| LASEXTA
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5804
-#EXTINF:-1 group-title="西班牙语",MOVISTAR PLUS +
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/7575
-#EXTINF:-1 group-title="西班牙语",MOVISTAR PLUS 2 HD
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/16474
 
-#EXTINF:-1 group-title="葡萄牙语",RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd?tk=1729566000_a62c2e4777ddd62e0b8e7da94be9fee028115ef2
+
+
 #EXTINF:-1 group-title="葡萄牙语",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语",Record(巴西)
