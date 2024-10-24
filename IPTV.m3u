@@ -17,6 +17,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+#EXTINF:-1 group-title="地方频道",宁波1套
+https://liveplay8.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1729774579-0-0-5480014c816d998354cc60765a678524
 #EXTINF:-1 group-title="地方频道",「浙江」宁波-象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="地方频道",「浙江」宁波-余姚综合
