@@ -19,6 +19,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 group-title="地方频道",宁波1套
 https://liveplay8.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1729774579-0-0-5480014c816d998354cc60765a678524
+#EXTINF:-1 group-title="地方频道",宁波2套
+https://liveplay8.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1729775026-0-0-539c7833c836be5c4e733a1c813bf112
+#EXTINF:-1 group-title="地方频道",宁波3套
+https://liveplay8.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1729775052-0-0-2eb15302ef39ed411e89ac59904d7d44
+#EXTINF:-1 group-title="地方频道",宁波4套
+https://liveplay8.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1729775069-0-0-77af31e3075b3e484bc484a3a4c6e20b
 #EXTINF:-1 group-title="地方频道",「浙江」宁波-象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1 group-title="地方频道",「浙江」宁波-余姚综合
