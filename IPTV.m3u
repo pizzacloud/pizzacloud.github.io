@@ -70,7 +70,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 group-title="国际"  tvg-id="1889" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/kbsworld.jpg",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="国际",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC News（澳大利亚）
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="国际" tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africanews
@@ -92,22 +92,25 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.co
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际",卢旺达KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+
 
 
 #EXTINF:-1 group-title="法语" tvg-id="Euronews.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="法语" tvg-id="tf1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png",TF 1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",France 2
-http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56372
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",France 3
-http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56373
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
-http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56374
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="France5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",France 5
-http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56375
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #EXTINF:-1 group-title="法语" tvg-id="13136" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="法语",FR: TF1 FHD
-http://treambura.com:8080/Laura_Florentina_Medeleanu/tnqVmQQRM7GCDNFXRwVOYVX2dLxchu/56371
 
 
 #EXTINF:-1 group-title="西班牙语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png",La 1 HD
