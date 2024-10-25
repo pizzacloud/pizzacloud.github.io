@@ -17,7 +17,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波1套
-https://liveplay8.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1729774579-0-0-5480014c816d998354cc60765a678524
+http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1729858210-0-0-1fc4b1f21f66c48fc712c2fbfc68a070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波2套
 https://liveplay8.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1729775026-0-0-539c7833c836be5c4e733a1c813bf112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波3套
