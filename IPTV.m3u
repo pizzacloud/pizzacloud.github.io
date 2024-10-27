@@ -53,8 +53,6 @@ https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="国际/英文",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="Azemeis TV" tvg-logo="" group-title="国际/英文",Azemeis TV
-https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="国际/英文",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="" group-title="国际/英文",Bloomberg TV+
@@ -73,10 +71,6 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="" tvg-name="CMC" tvg-logo="" group-title="国际/英文",CMC
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="2852" tvg-name="CNA International " tvg-logo="https://i.imgur.com/xWglicB.png" group-title="国际/英文",CNA International 
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="Colosal TV" tvg-logo="" group-title="国际/英文",Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-chno="41" tvg-id="" tvg-name="DW Arabic" tvg-logo="" group-title="国际/英文",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="FashionTV.fr" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际/英文",FASHIONTV
@@ -117,16 +111,12 @@ https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="国际/英文",CBC News Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" group-title="国际/英文",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="" tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="国际/英文",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="国际/英文",Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="CNN.uk" tvg-name="CNN International" tvg-logo="https://live.fanmingming.com/tv/cnn.png" group-title="国际/英文",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="国际/英文",DD India
-https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="国际/英文",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="国际/英文",AccuWeather NOW
@@ -267,6 +257,8 @@ https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="Alcarria TV墨西哥" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="西班牙语",Alcarria TV墨西哥
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="Colosal TV" tvg-logo="" group-title="西班牙语",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="Euronews PT" tvg-logo="" group-title="葡萄牙语",Euronews PT
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
