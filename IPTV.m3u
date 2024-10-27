@@ -240,19 +240,17 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h4
 #EXTINF:-1 tvg-chno="120" tvg-id="" tvg-name="Antena 3 HD" tvg-logo="http://streamgo.vip:8008/images/96e0af61777e711d54bc88e44a102ef8.jpg" group-title="西班牙语",Antena 3 HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5801
 #EXTINF:-1 tvg-chno="121" tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="西班牙语",Canal 24 Horas
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5835
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="" tvg-name="Cartoon Spanish" tvg-logo="" group-title="西班牙语",Cartoon Spanish
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="西班牙语",CUATRO HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5802
 #EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="DW Espanol" tvg-logo="" group-title="西班牙语",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-name="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="西班牙语",La 1 HD
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5799
+#EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="La 1 西班牙" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="西班牙语",La 1 西班牙
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙语",La 2
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5800
-#EXTINF:-1 tvg-chno="127" tvg-id="" tvg-name="RTVE 24h" tvg-logo="" group-title="西班牙语",RTVE 24h
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="SAT Espanol" tvg-logo="" group-title="西班牙语",SAT Espanol
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="Telecinco HD" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="西班牙语",Telecinco HD
@@ -271,44 +269,34 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-chno="136" tvg-id="" tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="西班牙语",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-chno="137" tvg-id="" tvg-name="3/24 西班牙" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="西班牙语",3/24 西班牙
+#EXTINF:-1 tvg-chno="137" tvg-id="" tvg-name="3/24 西班牙" tvg-logo="" group-title="西班牙语",3/24 西班牙
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-chno="138" tvg-id="" tvg-name="24h 西班牙" tvg-logo="https://i.imgur.com/ZKR2jKr.png" group-title="西班牙语",24h 西班牙
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="" tvg-name="Aragón TV 西班牙" tvg-logo="https://i.imgur.com/8H3Q07b.png" group-title="西班牙语",Aragón TV 西班牙
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="" tvg-name="Bon Dia 西班牙" tvg-logo="https://i.imgur.com/XaiP3nJ.png" group-title="西班牙语",Bon Dia 西班牙
 https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="" tvg-name="clan 西班牙" tvg-logo="https://i.imgur.com/38xIfQ3.png" group-title="西班牙语",clan 西班牙
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="" tvg-name="EITB1 西班牙" tvg-logo="https://i.imgur.com/VBVu2bu.png" group-title="西班牙语",EITB1 西班牙
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="EITB2 西班牙" tvg-logo="https://i.imgur.com/VBVu2bu.png" group-title="西班牙语",EITB2 西班牙
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="La 1 西班牙" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="西班牙语",La 1 西班牙
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="" tvg-name="Telesur 委内瑞拉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="西班牙语",Telesur 委内瑞拉
-https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="Vale TV Ⓢ 委内瑞拉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="西班牙语",Vale TV Ⓢ 委内瑞拉
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="Venevisión 委内瑞拉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/641px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="西班牙语",Venevisión 委内瑞拉
-https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="Alcarria TV墨西哥" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="西班牙语",Alcarria TV墨西哥
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+
+
+#EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="Euronews PT" tvg-logo="" group-title="葡萄牙语",Euronews PT
+https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="" tvg-name="AgroBrasilTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="葡萄牙语",AgroBrasilTV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="Anime TV" tvg-logo="" group-title="葡萄牙语",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="葡萄牙语",COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="Euronews PT" tvg-logo="" group-title="葡萄牙语",Euronews PT
-https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="" tvg-name="FM ITALIA TV" tvg-logo="" group-title="葡萄牙语",FM ITALIA TV
 https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="" tvg-name="Futura" tvg-logo="" group-title="葡萄牙语",Futura
+#EXTINF:-1 tvg-chno="154" tvg-id="" tvg-name="Futura" tvg-logo="" group-title="葡萄牙语",Futura TV巴西
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="葡萄牙语",ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="KK TV(安哥拉)" tvg-logo="" group-title="葡萄牙语",KK TV(安哥拉)
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-id="" tvg-name="MyTime Movie  PT" tvg-logo="" group-title="葡萄牙语",MyTime Movie  PT
@@ -331,12 +319,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="TV Muzangala(安哥拉)" tvg-logo="" group-title="葡萄牙语",TV Muzangala(安哥拉)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="V+ 888" tvg-logo="" group-title="葡萄牙语",V+ 888
-https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="澳視葡文" tvg-logo="" group-title="葡萄牙语",澳視葡文
-https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="MACAU 衛星頻道" tvg-logo="" group-title="葡萄牙语",MACAU 衛星頻道
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="葡萄牙SIC" tvg-logo="" group-title="葡萄牙语",葡萄牙SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-id="" tvg-name="Canal Macau" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="葡萄牙语",Canal Macau
@@ -379,592 +361,7 @@ https://iptv.peer.biz/live/peertv.m3u8
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="" tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" group-title="德国",WDR Ⓖ
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
-#EXTINF:-1 tvg-chno="191" tvg-id="" tvg-name="4 You Tv" tvg-logo="https://i.imgur.com/NN0cSbz.png" group-title="意大利",4 You Tv
-https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
-#EXTINF:-1 tvg-chno="192" tvg-id="" tvg-name="12 Tv Parma" tvg-logo="https://i.imgur.com/xnUgx6b.png" group-title="意大利",12 Tv Parma
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="193" tvg-id="" tvg-name="111 Tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="意大利",111 Tv
-https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
-#EXTINF:-1 tvg-chno="194" tvg-id="" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="意大利",Alma TV
-https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="195" tvg-id="" tvg-name="Alpauno" tvg-logo="https://i.imgur.com/4QKFtUa.png" group-title="意大利",Alpauno
-https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
-#EXTINF:-1 tvg-chno="196" tvg-id="" tvg-name="Alto Adige Tv" tvg-logo="https://i.imgur.com/S2sCFQi.png" group-title="意大利",Alto Adige Tv
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="197" tvg-id="" tvg-name="Antenna 2 Bergamo" tvg-logo="https://i.imgur.com/NfvHIAw.png" group-title="意大利",Antenna 2 Bergamo
-https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="198" tvg-id="" tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" group-title="意大利",Antenna 3 Massa
-https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
-#EXTINF:-1 tvg-chno="199" tvg-id="" tvg-name="Antenna 3 Veneto Nord Est" tvg-logo="https://i.imgur.com/NiVHLwp.png" group-title="意大利",Antenna 3 Veneto Nord Est
-https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="200" tvg-id="" tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/b8y6ImZ.png" group-title="意大利",Antenna Sud
-https://live.antennasudwebtv.it:9443/hls/vod.m3u8
-#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="Antenna Sud Extra" tvg-logo="https://i.imgur.com/6tBv8VD.png" group-title="意大利",Antenna Sud Extra
-https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
-#EXTINF:-1 tvg-chno="202" tvg-id="" tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" group-title="意大利",Aristanis SuperTv
-https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1 tvg-chno="203" tvg-id="" tvg-name="Arte Network Orler" tvg-logo="https://i.imgur.com/DP5y0Er.png" group-title="意大利",Arte Network Orler
-https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
-#EXTINF:-1 tvg-chno="204" tvg-id="" tvg-name="Aurora Arte" tvg-logo="https://i.imgur.com/BoLZ5wG.png" group-title="意大利",Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 tvg-chno="205" tvg-id="" tvg-name="Azzurra Tv Vco" tvg-logo="https://i.imgur.com/mSWw8uW.png" group-title="意大利",Azzurra Tv Vco
-https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
-#EXTINF:-1 tvg-chno="206" tvg-id="" tvg-name="Bergamo Tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="意大利",Bergamo Tv
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
-#EXTINF:-1 tvg-chno="207" tvg-id="" tvg-name="BIKE Channel" tvg-logo="https://i.imgur.com/4IzVSQI.png" group-title="意大利",BIKE Channel
-https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
-#EXTINF:-1 tvg-chno="208" tvg-id="" tvg-name="BOM Channel" tvg-logo="https://i.imgur.com/hISoOK3.png" group-title="意大利",BOM Channel
-https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 tvg-chno="209" tvg-id="" tvg-name="ByoBlu" tvg-logo="https://i.imgur.com/1xaHGtU.png" group-title="意大利",ByoBlu
-https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-id="" tvg-name="Cafe Tv 24" tvg-logo="https://i.imgur.com/KbcbxFw.png" group-title="意大利",Cafe Tv 24
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="211" tvg-id="" tvg-name="Calabria Uno Tv" tvg-logo="https://i.imgur.com/2TK1GQ5.png" group-title="意大利",Calabria Uno Tv
-https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="212" tvg-id="" tvg-name="Camera dei Deputati Ⓢ" tvg-logo="https://i.imgur.com/fqGn1k9.png" group-title="意大利",Camera dei Deputati Ⓢ
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-chno="213" tvg-id="" tvg-name="Canale 2" tvg-logo="https://i.imgur.com/ETqDkS1.png" group-title="意大利",Canale 2
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-chno="214" tvg-id="" tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="意大利",Canale 7
-http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-chno="215" tvg-id="" tvg-name="Canale 8 Campania" tvg-logo="https://i.imgur.com/ElAS2WC.png" group-title="意大利",Canale 8 Campania
-https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
-#EXTINF:-1 tvg-chno="216" tvg-id="" tvg-name="Canale 10" tvg-logo="https://i.imgur.com/KuQcjYV.png" group-title="意大利",Canale 10
-https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:-1 tvg-chno="217" tvg-id="" tvg-name="Canale 21" tvg-logo="https://i.imgur.com/mU6Cq89.png" group-title="意大利",Canale 21
-https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
-#EXTINF:-1 tvg-chno="218" tvg-id="" tvg-name="Canale 21 Extra" tvg-logo="https://i.imgur.com/cDAsrBl.png" group-title="意大利",Canale 21 Extra
-https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-id="" tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" group-title="意大利",Canale Italia
-https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="220" tvg-id="" tvg-name="Carina Tv" tvg-logo="https://i.imgur.com/FMGcm6I.jpg" group-title="意大利",Carina Tv
-https://samson.streamerr.co:8081/carinatv/index.m3u8
-#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-name="Casa Italia 53" tvg-logo="https://i.imgur.com/O4GQVCk.png" group-title="意大利",Casa Italia 53
-https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-name="Casa Sanremo Tv" tvg-logo="https://i.imgur.com/WL3SFTs.png" group-title="意大利",Casa Sanremo Tv
-https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-name="Castrovillari Tv" tvg-logo="https://i.imgur.com/V0kjYNG.png" group-title="意大利",Castrovillari Tv
-http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="意大利",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11219/cieloweb/master.m3u8
-#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="意大利",Cittaceleste Tv
-https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
-#EXTINF:-1 tvg-chno="226" tvg-id="" tvg-name="Company Tv" tvg-logo="https://i.imgur.com/IbabUDd.png" group-title="意大利",Company Tv
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="227" tvg-id="" tvg-name="Cremona 1" tvg-logo="https://i.imgur.com/a5d0F01.jpg" group-title="意大利",Cremona 1
-https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
-#EXTINF:-1 tvg-chno="228" tvg-id="" tvg-name="Cusano Italia Tv" tvg-logo="https://i.imgur.com/9F1sVjZ.png" group-title="意大利",Cusano Italia Tv
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="229" tvg-id="" tvg-name="Cusano News 7" tvg-logo="https://i.imgur.com/L49Ie1Q.png" group-title="意大利",Cusano News 7
-https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="230" tvg-id="" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="意大利",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-chno="231" tvg-id="" tvg-name="Deluxe 139" tvg-logo="https://i.imgur.com/kRexw3w.png" group-title="意大利",Deluxe 139
-https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
-#EXTINF:-1 tvg-chno="232" tvg-id="" tvg-name="Di.Tv 80" tvg-logo="https://i.imgur.com/kHxTsJw.png" group-title="意大利",Di.Tv 80
-https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-#EXTINF:-1 tvg-chno="233" tvg-id="" tvg-name="Di.Tv 92" tvg-logo="https://i.imgur.com/g3SI08H.png" group-title="意大利",Di.Tv 92
-https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Digital Tv7 Benevento" tvg-logo="https://i.imgur.com/NaQkklP.png" group-title="意大利",Digital Tv7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Donna TV Ⓢ" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="意大利",Donna TV Ⓢ
-https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-id="" tvg-name="E'live Brescia Tv" tvg-logo="https://i.imgur.com/bZ3B7pi.png" group-title="意大利",E'live Brescia Tv
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="237" tvg-id="" tvg-name="Easy Tv Canale 190" tvg-logo="https://i.imgur.com/LKrVuRR.jpg" group-title="意大利",Easy Tv Canale 190
-https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
-#EXTINF:-1 tvg-chno="238" tvg-id="" tvg-name="Entella Tv" tvg-logo="https://i.imgur.com/1VPXKrW.png" group-title="意大利",Entella Tv
-https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="239" tvg-id="" tvg-name="Espansione Tv" tvg-logo="https://i.imgur.com/mm9HKpD.png" group-title="意大利",Espansione Tv
-https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="240" tvg-id="" tvg-name="Esperia Tv" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png" group-title="意大利",Esperia Tv
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="241" tvg-id="" tvg-name="Euro Tv" tvg-logo="https://i.imgur.com/HCl5Zbu.png" group-title="意大利",Euro Tv
-https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-id="" tvg-name="Extra Tv" tvg-logo="https://i.imgur.com/KCBurST.png" group-title="意大利",Extra Tv
-https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
-#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="Fano Tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" group-title="意大利",Fano Tv
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
-#EXTINF:-1 tvg-chno="244" tvg-id="" tvg-name="Fascino Tv" tvg-logo="https://i.imgur.com/4XYYY5B.png" group-title="意大利",Fascino Tv
-https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
-#EXTINF:-1 tvg-chno="245" tvg-id="" tvg-name="FM Tv Marche" tvg-logo="https://i.imgur.com/yY01NhL.jpg" group-title="意大利",FM Tv Marche
-https://bbtv.intvstream.net:3988/hybrid/play.m3u8
-#EXTINF:-1 tvg-chno="246" tvg-id="" tvg-name="GarganoTv" tvg-logo="https://i.imgur.com/OlJohKK.png" group-title="意大利",GarganoTv
-https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="247" tvg-id="" tvg-name="Giornale Radio Tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" group-title="意大利",Giornale Radio Tv
-https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="248" tvg-id="" tvg-name="Giovanni Paolo Tv" tvg-logo="https://i.imgur.com/GH5eJE6.png" group-title="意大利",Giovanni Paolo Tv
-https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
-#EXTINF:-1 tvg-chno="249" tvg-id="" tvg-name="Globus Television" tvg-logo="https://i.imgur.com/yUTYqCv.png" group-title="意大利",Globus Television
-https://cdn.cubws.com/live/globus.m3u8
-#EXTINF:-1 tvg-chno="250" tvg-id="" tvg-name="GO-TV Channel" tvg-logo="https://i.imgur.com/xgjrAAn.png" group-title="意大利",GO-TV Channel
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="251" tvg-id="" tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" group-title="意大利",Gold Tv
-https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="252" tvg-id="" tvg-name="Gold TV Sat" tvg-logo="https://i.imgur.com/3rVi4kD.png" group-title="意大利",Gold TV Sat
-https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="253" tvg-id="" tvg-name="GRP Televisione" tvg-logo="https://i.imgur.com/1zNPpVE.png" group-title="意大利",GRP Televisione
-https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
-#EXTINF:-1 tvg-chno="254" tvg-id="" tvg-name="GS Channel" tvg-logo="https://i.imgur.com/ExfxCRv.png" group-title="意大利",GS Channel
-https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
-#EXTINF:-1 tvg-chno="255" tvg-id="" tvg-name="Icaro Tv Rimini" tvg-logo="https://i.imgur.com/z05VSSN.png" group-title="意大利",Icaro Tv Rimini
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 tvg-chno="256" tvg-id="" tvg-name="Idea Plus" tvg-logo="https://i.imgur.com/2edmxYF.png" group-title="意大利",Idea Plus
-https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
-#EXTINF:-1 tvg-chno="257" tvg-id="" tvg-name="Italia 2 Tv" tvg-logo="https://i.imgur.com/ISbxfY0.png" group-title="意大利",Italia 2 Tv
-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:-1 tvg-chno="258" tvg-id="" tvg-name="Italia 7" tvg-logo="https://i.imgur.com/YBXkY4w.png" group-title="意大利",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
-#EXTINF:-1 tvg-chno="259" tvg-id="" tvg-name="Italia Channel" tvg-logo="https://i.imgur.com/zuuKXGv.png" group-title="意大利",Italia Channel
-https://stream1.aswifi.it/italiachannel/stream/index.m3u8
-#EXTINF:-1 tvg-chno="260" tvg-id="" tvg-name="Iunior Tv" tvg-logo="https://i.imgur.com/9jeNlLE.png" group-title="意大利",Iunior Tv
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-id="" tvg-name="L'Altro Corriere Tv" tvg-logo="https://i.imgur.com/dgj79J3.png" group-title="意大利",L'Altro Corriere Tv
-https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="" tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="意大利",La7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-id="" tvg-name="La7d" tvg-logo="https://i.imgur.com/AOL9nMw.png" group-title="意大利",La7d
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-id="" tvg-name="La Nuova Tv" tvg-logo="https://i.imgur.com/wg8FhdN.png" group-title="意大利",La Nuova Tv
-https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="" tvg-name="La Tenda Tv" tvg-logo="https://i.imgur.com/XnBp0hT.png" group-title="意大利",La Tenda Tv
-https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-id="" tvg-name="La tr3 Marsala" tvg-logo="https://i.imgur.com/XlxpfEx.png" group-title="意大利",La tr3 Marsala
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 tvg-chno="267" tvg-id="" tvg-name="Lab Tv" tvg-logo="https://i.imgur.com/OpRS6Fl.png" group-title="意大利",Lab Tv
-https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-id="" tvg-name="LaC News 24" tvg-logo="https://i.imgur.com/02vCECa.png" group-title="意大利",LaC News 24
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
-#EXTINF:-1 tvg-chno="269" tvg-id="" tvg-name="LaC Tv Calabria" tvg-logo="https://i.imgur.com/2Ef6crS.png" group-title="意大利",LaC Tv Calabria
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 tvg-chno="270" tvg-id="" tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" group-title="意大利",Lazio Tv
-https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="271" tvg-id="" tvg-name="Lira Tv" tvg-logo="https://i.imgur.com/S0ReVEo.png" group-title="意大利",Lira Tv
-https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
-#EXTINF:-1 tvg-chno="272" tvg-id="" tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" group-title="意大利",Lombardia Tv
-https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="273" tvg-id="" tvg-name="Lucania Tv" tvg-logo="https://i.imgur.com/wuUNVR5.png" group-title="意大利",Lucania Tv
-https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="274" tvg-id="" tvg-name="Made in BO" tvg-logo="https://i.imgur.com/WFnrMS0.png" group-title="意大利",Made in BO
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="275" tvg-id="" tvg-name="Maria Vision" tvg-logo="https://i.imgur.com/fdx5YXi.png" group-title="意大利",Maria Vision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
-#EXTINF:-1 tvg-chno="276" tvg-id="" tvg-name="Medjugorje Italia Tv" tvg-logo="https://i.imgur.com/hkZScXf.png" group-title="意大利",Medjugorje Italia Tv
-https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="277" tvg-id="" tvg-name="Medjugorje Tv Puglia" tvg-logo="https://i.imgur.com/IWBeddh.png" group-title="意大利",Medjugorje Tv Puglia
-https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
-#EXTINF:-1 tvg-chno="278" tvg-id="" tvg-name="Motori Tv" tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="意大利",Motori Tv
-https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
-#EXTINF:-1 tvg-chno="279" tvg-id="" tvg-name="NTI Canale 271" tvg-logo="https://i.imgur.com/zlmcUe0.jpg" group-title="意大利",NTI Canale 271
-https://www.ntimedia.it/video/S0B/S0B_master.m3u8
-#EXTINF:-1 tvg-chno="280" tvg-id="" tvg-name="Nuova Tv 1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="意大利",Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1 tvg-chno="281" tvg-id="" tvg-name="Nuova Tv 2" tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="意大利",Nuova Tv 2
-https://nuovatv.net:8443/tv2/stream.m3u8
-#EXTINF:-1 tvg-chno="282" tvg-id="" tvg-name="Nuvola Tv" tvg-logo="https://i.imgur.com/EDGez2x.png" group-title="意大利",Nuvola Tv
-https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
-#EXTINF:-1 tvg-chno="283" tvg-id="" tvg-name="Odeon 24" tvg-logo="https://i.imgur.com/M1tVBuH.png" group-title="意大利",Odeon 24
-https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="284" tvg-id="" tvg-name="Onda Novara Tv" tvg-logo="https://i.imgur.com/Qoh9CFy.png" group-title="意大利",Onda Novara Tv
-https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
-#EXTINF:-1 tvg-chno="285" tvg-id="" tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" group-title="意大利",Onda Tv Sicilia
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
-#EXTINF:-1 tvg-chno="286" tvg-id="" tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" group-title="意大利",Onda Web Radio
-http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
-#EXTINF:-1 tvg-chno="287" tvg-id="" tvg-name="Ora Tv" tvg-logo="https://i.imgur.com/clWVrvE.png" group-title="意大利",Ora Tv
-https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
-#EXTINF:-1 tvg-chno="288" tvg-id="" tvg-name="Orler Tv" tvg-logo="https://i.imgur.com/dBkxD8e.png" group-title="意大利",Orler Tv
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="289" tvg-id="" tvg-name="Otto Channel" tvg-logo="https://i.imgur.com/HRonD2N.png" group-title="意大利",Otto Channel
-https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
-#EXTINF:-1 tvg-chno="290" tvg-id="" tvg-name="Padre Pio Tv" tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="意大利",Padre Pio Tv
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="" tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/M9mIiZD.png" group-title="意大利",Parole di Vita
-https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:-1 tvg-chno="292" tvg-id="" tvg-name="Partenope Tv" tvg-logo="https://i.imgur.com/FtuWkj1.png" group-title="意大利",Partenope Tv
-https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
-#EXTINF:-1 tvg-chno="293" tvg-id="" tvg-name="Peer Tv Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="意大利",Peer Tv Alto Adige
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-id="" tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="意大利",Prima Tv Napoli
-https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
-#EXTINF:-1 tvg-chno="295" tvg-id="" tvg-name="Prima Tv Sicilia" tvg-logo="https://i.imgur.com/br45JER.png" group-title="意大利",Prima Tv Sicilia
-https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="296" tvg-id="" tvg-name="PrimaFREE" tvg-logo="https://i.imgur.com/YrSSmOL.png" group-title="意大利",PrimaFREE
-https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-#EXTINF:-1 tvg-chno="297" tvg-id="" tvg-name="Primantenna Torino" tvg-logo="https://i.imgur.com/sqEcPFs.gif" group-title="意大利",Primantenna Torino
-https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTINF:-1 tvg-chno="298" tvg-id="" tvg-name="Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png" group-title="意大利",Primocanale
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="299" tvg-id="" tvg-name="Promovideo Tv" tvg-logo="https://i.imgur.com/MwK9HVG.png" group-title="意大利",Promovideo Tv
-https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
-#EXTINF:-1 tvg-chno="300" tvg-id="" tvg-name="Quarto Canale Flegreo" tvg-logo="https://i.imgur.com/8RKY3Du.png" group-title="意大利",Quarto Canale Flegreo
-http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="301" tvg-id="" tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="意大利",QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-id="" tvg-name="R101 TV Ⓖ" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="意大利",R101 TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="Radio 3M InBlu" tvg-logo="https://i.imgur.com/d7O7Uqa.png" group-title="意大利",Radio 3M InBlu
-https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="Radio 51 Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radio51.png" group-title="意大利",Radio 51 Tv
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
-#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="Radio 105 TV Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="意大利",Radio 105 TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="306" tvg-id="" tvg-name="Radio Birikina Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiobirikina.png" group-title="意大利",Radio Birikina Tv
-https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
-#EXTINF:-1 tvg-chno="307" tvg-id="" tvg-name="Radio Bruno Tv" tvg-logo="https://i.imgur.com/y4vKE83.png" group-title="意大利",Radio Bruno Tv
-https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="308" tvg-id="" tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" group-title="意大利",Radio Ibiza
-https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="309" tvg-id="" tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" group-title="意大利",Radio Immagine Tv
-https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
-#EXTINF:-1 tvg-chno="310" tvg-id="" tvg-name="Radio Italia Cina Tv" tvg-logo="https://i.imgur.com/QGkyrO3.png" group-title="意大利",Radio Italia Cina Tv
-https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
-#EXTINF:-1 tvg-chno="311" tvg-id="" tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" group-title="意大利",Radio KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="312" tvg-id="" tvg-name="Radio Libertà" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="意大利",Radio Libertà
-https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="313" tvg-id="" tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" group-title="意大利",Radio m2o Tv
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-chno="314" tvg-id="" tvg-name="Radio Monte Kronio Tv (R.M.K.)" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="意大利",Radio Monte Kronio Tv (R.M.K.)
-https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
-#EXTINF:-1 tvg-chno="315" tvg-id="" tvg-name="Radio Montecarlo TV Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="意大利",Radio Montecarlo TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="316" tvg-id="" tvg-name="Radio Norba Tv" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="意大利",Radio Norba Tv
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-id="" tvg-name="Radio Piter Pan Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png" group-title="意大利",Radio Piter Pan Tv
-https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
-#EXTINF:-1 tvg-chno="318" tvg-id="" tvg-name="Radio Radio Tv" tvg-logo="https://i.imgur.com/iKuRg2b.png" group-title="意大利",Radio Radio Tv
-https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
-#EXTINF:-1 tvg-chno="319" tvg-id="" tvg-name="Radio Radiosa Tv" tvg-logo="https://i.imgur.com/8kqyxvz.png" group-title="意大利",Radio Radiosa Tv
-https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="320" tvg-id="" tvg-name="Radio Roma" tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="意大利",Radio Roma
-https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:-1 tvg-chno="321" tvg-id="" tvg-name="Radio Roma Television" tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="意大利",Radio Roma Television
-https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
-#EXTINF:-1 tvg-chno="322" tvg-id="" tvg-name="Radio TV Serie A con RDS" tvg-logo="https://i.imgur.com/NzDeCIx.png" group-title="意大利",Radio TV Serie A con RDS
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 tvg-chno="323" tvg-id="" tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" group-title="意大利",Radio ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="324" tvg-id="" tvg-name="RadioFreccia" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="意大利",RadioFreccia
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="325" tvg-id="" tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="意大利",RadioItaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 tvg-chno="326" tvg-id="" tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="意大利",Rai 1 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="327" tvg-id="" tvg-name="Rai 2 Ⓖ" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="意大利",Rai 2 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="328" tvg-id="" tvg-name="Rai 3 Ⓖ" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="意大利",Rai 3 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="329" tvg-id="" tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="意大利",Rai 4 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="330" tvg-id="" tvg-name="Rai 5 Ⓖ" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="意大利",Rai 5 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="331" tvg-id="" tvg-name="Rai Gulp Ⓖ" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="意大利",Rai Gulp Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="332" tvg-id="" tvg-name="Rai Movie Ⓖ" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="意大利",Rai Movie Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="333" tvg-id="" tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="意大利",Rai News 24 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="334" tvg-id="" tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="意大利",Rai Premium Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="335" tvg-id="" tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" group-title="意大利",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="336" tvg-id="" tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="意大利",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="337" tvg-id="" tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="意大利",Rai Storia Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="338" tvg-id="" tvg-name="Rai YoYo Ⓖ" tvg-logo="https://i.imgur.com/DRSa3ys.png" group-title="意大利",Rai YoYo Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-chno="339" tvg-id="" tvg-name="Ran Friul" tvg-logo="https://i.imgur.com/Qs5eQPM.png" group-title="意大利",Ran Friul
-https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8
-#EXTINF:-1 tvg-chno="340" tvg-id="" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" group-title="意大利",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 tvg-chno="341" tvg-id="" tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" group-title="意大利",Reggio Tv
-https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-id="" tvg-name="Rei Tv" tvg-logo="https://i.imgur.com/YNRWFOo.png" group-title="意大利",Rei Tv
-https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:-1 tvg-chno="343" tvg-id="" tvg-name="Rete 8" tvg-logo="https://i.imgur.com/bGsjPRh.png" group-title="意大利",Rete 8
-https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:-1 tvg-chno="344" tvg-id="" tvg-name="Rete 8 Vga" tvg-logo="https://i.imgur.com/3wF2AJX.jpg" group-title="意大利",Rete 8 Vga
-https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
-#EXTINF:-1 tvg-chno="345" tvg-id="" tvg-name="Rete 55" tvg-logo="https://i.imgur.com/EsZn2cj.png" group-title="意大利",Rete 55
-https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-id="" tvg-name="Rete Biella Tv" tvg-logo="https://i.imgur.com/e2ryHx7.png" group-title="意大利",Rete Biella Tv
-https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:-1 tvg-chno="347" tvg-id="" tvg-name="Rete Mia" tvg-logo="https://i.imgur.com/kCJ621Q.png" group-title="意大利",Rete Mia
-https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:-1 tvg-chno="348" tvg-id="" tvg-name="Rete Oro Tv" tvg-logo="https://i.imgur.com/OCxGtwA.png" group-title="意大利",Rete Oro Tv
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 tvg-chno="349" tvg-id="" tvg-name="Rete Tv Italia" tvg-logo="https://i.imgur.com/lXGWoV9.png" group-title="意大利",Rete Tv Italia
-https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:-1 tvg-chno="350" tvg-id="" tvg-name="Rete Veneta" tvg-logo="https://i.imgur.com/cInhQFp.png" group-title="意大利",Rete Veneta
-http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 tvg-chno="351" tvg-id="" tvg-name="Rossini Tv" tvg-logo="https://i.imgur.com/K0Em0nx.jpg" group-title="意大利",Rossini Tv
-https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
-#EXTINF:-1 tvg-chno="352" tvg-id="" tvg-name="RTC Quarta Rete" tvg-logo="https://i.imgur.com/rFGA6qL.png" group-title="意大利",RTC Quarta Rete
-https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="353" tvg-id="" tvg-name="RTC Telecalabria" tvg-logo="https://i.imgur.com/tTYLcuh.jpg" group-title="意大利",RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="354" tvg-id="" tvg-name="RTI Calabria" tvg-logo="https://i.imgur.com/hVzEvmo.jpg" group-title="意大利",RTI Calabria
-https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
-#EXTINF:-1 tvg-chno="355" tvg-id="" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="意大利",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="356" tvg-id="" tvg-name="RTL 102.5 + Plus" tvg-logo="https://i.imgur.com/mPqDtCO.png" group-title="意大利",RTL 102.5 + Plus
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S12772175/FmIo5I5kmwTy/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="357" tvg-id="" tvg-name="RTL 102.5 News" tvg-logo="https://i.imgur.com/vAtzwXK.png" group-title="意大利",RTL 102.5 News
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="358" tvg-id="" tvg-name="RTM Manduria" tvg-logo="https://i.imgur.com/WwzU0EP.png" group-title="意大利",RTM Manduria
-https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
-#EXTINF:-1 tvg-chno="359" tvg-id="" tvg-name="Rtp Tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" group-title="意大利",Rtp Tv
-http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 tvg-chno="360" tvg-id="" tvg-name="RTR99 Tv" tvg-logo="https://i.imgur.com/mkO95pD.png" group-title="意大利",RTR99 Tv
-https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="361" tvg-id="" tvg-name="Rttr" tvg-logo="https://i.imgur.com/z7xMArA.png" group-title="意大利",Rttr
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="362" tvg-id="" tvg-name="Rtv 38 Toscana" tvg-logo="https://i.imgur.com/xqlhJqK.png" group-title="意大利",Rtv 38 Toscana
-https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="363" tvg-id="" tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="意大利",Sardegna 1
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
-#EXTINF:-1 tvg-chno="364" tvg-id="" tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" group-title="意大利",Senato TV
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-chno="365" tvg-id="" tvg-name="Sesta Rete" tvg-logo="https://i.imgur.com/0B0S2gI.png" group-title="意大利",Sesta Rete
-https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="366" tvg-id="" tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="意大利",Set Tv Cilento
-https://stream1.aswifi.it/settv/live/index.m3u8
-#EXTINF:-1 tvg-chno="367" tvg-id="" tvg-name="Sicilia 24 Tv" tvg-logo="https://i.imgur.com/GhQX36O.png" group-title="意大利",Sicilia 24 Tv
-https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-#EXTINF:-1 tvg-chno="368" tvg-id="" tvg-name="Sienatv" tvg-logo="https://i.imgur.com/gcysky4.png" group-title="意大利",Sienatv
-https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="369" tvg-id="" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="意大利",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/12221/web/master.m3u8
-#EXTINF:-1 tvg-chno="370" tvg-id="" tvg-name="Sophia Tv" tvg-logo="https://i.imgur.com/fiLNK3b.jpg" group-title="意大利",Sophia Tv
-https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="371" tvg-id="" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="意大利",Sportitalia Plus
-https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
-#EXTINF:-1 tvg-chno="372" tvg-id="" tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="意大利",Sportitalia SOLOCALCIO
-https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
-#EXTINF:-1 tvg-chno="373" tvg-id="" tvg-name="Stiletv" tvg-logo="https://i.imgur.com/ZP3cJi7.png" group-title="意大利",Stiletv
-https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
-#EXTINF:-1 tvg-chno="374" tvg-id="" tvg-name="Super J Tv" tvg-logo="https://i.imgur.com/5oy5Nuu.png" group-title="意大利",Super J Tv
-https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="375" tvg-id="" tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="意大利",Super Six
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-chno="376" tvg-id="" tvg-name="Super!" tvg-logo="https://i.imgur.com/zDByOwo.png" group-title="意大利",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="377" tvg-id="" tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="意大利",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-#EXTINF:-1 tvg-chno="378" tvg-id="" tvg-name="T9" tvg-logo="https://i.imgur.com/XzL05Py.png" group-title="意大利",T9
-https://t9tv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="379" tvg-id="" tvg-name="Tcf Tv" tvg-logo="https://i.imgur.com/fiylFs2.jpg" group-title="意大利",Tcf Tv
-https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="380" tvg-id="" tvg-name="Tci" tvg-logo="https://i.imgur.com/lCZTaKs.jpg" group-title="意大利",Tci
-https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
-#EXTINF:-1 tvg-chno="381" tvg-id="" tvg-name="Teatro Tv" tvg-logo="https://i.imgur.com/UsvffQL.png" group-title="意大利",Teatro Tv
-https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
-#EXTINF:-1 tvg-chno="382" tvg-id="" tvg-name="Tele8 Tv" tvg-logo="https://i.imgur.com/dM0HE6O.png" group-title="意大利",Tele8 Tv
-https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
-#EXTINF:-1 tvg-chno="383" tvg-id="" tvg-name="Tele A" tvg-logo="https://i.imgur.com/l7Za9KH.jpg" group-title="意大利",Tele A
-https://lostream.it/hls/telea/video.m3u8
-#EXTINF:-1 tvg-chno="384" tvg-id="" tvg-name="Tele Acras" tvg-logo="https://i.imgur.com/90Lsv8q.png" group-title="意大利",Tele Acras
-https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
-#EXTINF:-1 tvg-chno="385" tvg-id="" tvg-name="Tele Arena" tvg-logo="https://i.imgur.com/9hsoWMO.png" group-title="意大利",Tele Arena
-https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="386" tvg-id="" tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="意大利",Tele Bari
-https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="387" tvg-id="" tvg-name="Tele Belluno" tvg-logo="https://i.imgur.com/YiM2Z7E.png" group-title="意大利",Tele Belluno
-https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="388" tvg-id="" tvg-name="Tele Boario" tvg-logo="https://i.imgur.com/LlLD3L6.png" group-title="意大利",Tele Boario
-https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="389" tvg-id="" tvg-name="Tele Bruzzano" tvg-logo="https://i.imgur.com/7TWbCDt.jpg" group-title="意大利",Tele Bruzzano
-https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
-#EXTINF:-1 tvg-chno="390" tvg-id="" tvg-name="Tele Cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" group-title="意大利",Tele Cupole
-https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
-#EXTINF:-1 tvg-chno="391" tvg-id="" tvg-name="Tele Foggia" tvg-logo="https://i.imgur.com/M7tqBu9.jpg" group-title="意大利",Tele Foggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1 tvg-chno="392" tvg-id="" tvg-name="Tele Friuli" tvg-logo="https://i.imgur.com/AoQxZxD.png" group-title="意大利",Tele Friuli
-https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
-#EXTINF:-1 tvg-chno="393" tvg-id="" tvg-name="Tele Ischia" tvg-logo="https://i.imgur.com/vihHVQn.jpg" group-title="意大利",Tele Ischia
-https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
-#EXTINF:-1 tvg-chno="394" tvg-id="" tvg-name="Tele Jonio" tvg-logo="https://i.imgur.com/qJeDV8R.png" group-title="意大利",Tele Jonio
-http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
-#EXTINF:-1 tvg-chno="395" tvg-id="" tvg-name="Tele Liberta' HD" tvg-logo="https://i.imgur.com/XzAB5k7.jpg" group-title="意大利",Tele Liberta' HD
-https://streaming.liberta.it/hls/liberta.m3u8
-#EXTINF:-1 tvg-chno="396" tvg-id="" tvg-name="Tele Liguria Sud" tvg-logo="https://i.imgur.com/BeLAYJ6.jpg" group-title="意大利",Tele Liguria Sud
-https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
-#EXTINF:-1 tvg-chno="397" tvg-id="" tvg-name="Tele Mantova" tvg-logo="https://i.imgur.com/bkSPcs4.png" group-title="意大利",Tele Mantova
-https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="398" tvg-id="" tvg-name="Tele Mia" tvg-logo="https://i.imgur.com/SdXpCwL.png" group-title="意大利",Tele Mia
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
-#EXTINF:-1 tvg-chno="399" tvg-id="" tvg-name="Tele Mia Extra" tvg-logo="https://i.imgur.com/upzBG32.png" group-title="意大利",Tele Mia Extra
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-#EXTINF:-1 tvg-chno="400" tvg-id="" tvg-name="Tele Mistretta" tvg-logo="https://i.imgur.com/OJ3zUS0.png" group-title="意大利",Tele Mistretta
-https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="401" tvg-id="" tvg-name="Tele Molise" tvg-logo="https://i.imgur.com/u5VD0x9.png" group-title="意大利",Tele Molise
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:-1 tvg-chno="402" tvg-id="" tvg-name="Tele Nord Genova" tvg-logo="https://i.imgur.com/I6yegEK.png" group-title="意大利",Tele Nord Genova
-https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-chno="403" tvg-id="" tvg-name="Tele Oltre" tvg-logo="https://i.imgur.com/PxtJAxs.png" group-title="意大利",Tele Oltre
-http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
-#EXTINF:-1 tvg-chno="404" tvg-id="" tvg-name="Tele One" tvg-logo="https://i.imgur.com/9trB6mj.png" group-title="意大利",Tele One
-https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
-#EXTINF:-1 tvg-chno="405" tvg-id="" tvg-name="Tele Pace 1" tvg-logo="https://i.imgur.com/ut0Hg8o.png" group-title="意大利",Tele Pace 1
-https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="406" tvg-id="" tvg-name="Tele Pace 2" tvg-logo="https://i.imgur.com/RqrPraO.png" group-title="意大利",Tele Pace 2
-https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="407" tvg-id="" tvg-name="Tele Pace 3" tvg-logo="https://i.imgur.com/gLsE3mX.png" group-title="意大利",Tele Pace 3
-https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="408" tvg-id="" tvg-name="Tele Pace 4" tvg-logo="https://i.imgur.com/tEQvgpz.png" group-title="意大利",Tele Pace 4
-https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="409" tvg-id="" tvg-name="Tele Pace News" tvg-logo="https://i.imgur.com/AxmgoMT.png" group-title="意大利",Tele Pace News
-https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
-#EXTINF:-1 tvg-chno="410" tvg-id="" tvg-name="Tele Pace Roma" tvg-logo="https://i.imgur.com/54oi0cg.png" group-title="意大利",Tele Pace Roma
-https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
-#EXTINF:-1 tvg-chno="411" tvg-id="" tvg-name="Tele Pace Trento" tvg-logo="https://i.imgur.com/o5sQCpF.png" group-title="意大利",Tele Pace Trento
-https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
-#EXTINF:-1 tvg-chno="412" tvg-id="" tvg-name="Tele Piadena" tvg-logo="https://i.imgur.com/VqaPuQN.png" group-title="意大利",Tele Piadena
-https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="413" tvg-id="" tvg-name="Tele Quattro Trieste" tvg-logo="https://i.imgur.com/MFxQxve.png" group-title="意大利",Tele Quattro Trieste
-http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 tvg-chno="414" tvg-id="" tvg-name="Tele Radio Ercolano" tvg-logo="https://i.imgur.com/YPuoy8N.jpg" group-title="意大利",Tele Radio Ercolano
-https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-name="Tele Sirio" tvg-logo="https://i.imgur.com/mDN6QX1.png" group-title="意大利",Tele Sirio
-https://www.telesirio.it/live/stream.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-id="" tvg-name="Tele Spazio Messina" tvg-logo="https://i.imgur.com/Io5w6lT.png" group-title="意大利",Tele Spazio Messina
-https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-id="" tvg-name="Tele Tricolore" tvg-logo="https://i.imgur.com/A2XouAd.png" group-title="意大利",Tele Tricolore
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 tvg-chno="418" tvg-id="" tvg-name="Tele Tutto" tvg-logo="https://i.imgur.com/sZxMP7g.png" group-title="意大利",Tele Tutto
-https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="419" tvg-id="" tvg-name="Tele Tutto 2" tvg-logo="https://i.imgur.com/mxXbMaw.png" group-title="意大利",Tele Tutto 2
-https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="420" tvg-id="" tvg-name="Tele Tutto 24" tvg-logo="https://i.imgur.com/weKWQgx.png" group-title="意大利",Tele Tutto 24
-https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="421" tvg-id="" tvg-name="Tele Venezia" tvg-logo="https://i.imgur.com/SavGpCE.jpg" group-title="意大利",Tele Venezia
-https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
-#EXTINF:-1 tvg-chno="422" tvg-id="" tvg-name="TeleAmbiente" tvg-logo="https://i.imgur.com/jxZcQhU.png" group-title="意大利",TeleAmbiente
-https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
-#EXTINF:-1 tvg-chno="423" tvg-id="" tvg-name="Telecittà Padova" tvg-logo="https://i.imgur.com/xvVgEaA.jpg" group-title="意大利",Telecittà Padova
-https://tango.wifi4all.it/telecitta/telecitta.m3u8
-#EXTINF:-1 tvg-chno="424" tvg-id="" tvg-name="Telecity Lombardia" tvg-logo="https://i.imgur.com/ECvJ3ZD.jpeg" group-title="意大利",Telecity Lombardia
-https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1 tvg-chno="425" tvg-id="" tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" group-title="意大利",Telecity Piemonte
-https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
-#EXTINF:-1 tvg-chno="426" tvg-id="" tvg-name="Telecity Valle D'Aosta" tvg-logo="https://i.imgur.com/T9EsAOX.jpeg" group-title="意大利",Telecity Valle D'Aosta
-https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
-#EXTINF:-1 tvg-chno="427" tvg-id="" tvg-name="Telecolor" tvg-logo="https://i.imgur.com/urUG78J.png" group-title="意大利",Telecolor
-https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 tvg-chno="428" tvg-id="" tvg-name="TeleCostaSmeralda" tvg-logo="https://i.imgur.com/QLqkbss.png" group-title="意大利",TeleCostaSmeralda
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
-#EXTINF:-1 tvg-chno="429" tvg-id="" tvg-name="Telegenova" tvg-logo="https://i.imgur.com/D6HC0So.png" group-title="意大利",Telegenova
-https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
-#EXTINF:-1 tvg-chno="430" tvg-id="" tvg-name="Teleiblea" tvg-logo="https://i.imgur.com/n1THygZ.png" group-title="意大利",Teleiblea
-https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
-#EXTINF:-1 tvg-chno="431" tvg-id="" tvg-name="Teleitalia 41" tvg-logo="https://i.imgur.com/lTuPSOn.png" group-title="意大利",Teleitalia 41
-https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
-#EXTINF:-1 tvg-chno="432" tvg-id="" tvg-name="Telejato" tvg-logo="https://i.imgur.com/r3Dqzdj.png" group-title="意大利",Telejato
-https://telejato.liberotratto.com/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="433" tvg-id="" tvg-name="TeleMajg" tvg-logo="https://i.imgur.com/9tefonp.jpg" group-title="意大利",TeleMajg
-https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
-#EXTINF:-1 tvg-chno="434" tvg-id="" tvg-name="Telenova" tvg-logo="https://i.imgur.com/x41IkJK.png" group-title="意大利",Telenova
-https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-#EXTINF:-1 tvg-chno="435" tvg-id="" tvg-name="Telerama" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="意大利",Telerama
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="436" tvg-id="" tvg-name="TeleRegione" tvg-logo="https://i.imgur.com/i5WozUP.png" group-title="意大利",TeleRegione
-https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
-#EXTINF:-1 tvg-chno="437" tvg-id="" tvg-name="TeleRegione Color" tvg-logo="https://i.imgur.com/vi5Nf3S.png" group-title="意大利",TeleRegione Color
-https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
-#EXTINF:-1 tvg-chno="438" tvg-id="" tvg-name="TeleRegione Live" tvg-logo="https://i.imgur.com/DBrt8L3.png" group-title="意大利",TeleRegione Live
-https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
-#EXTINF:-1 tvg-chno="439" tvg-id="" tvg-name="TeleRomaDue" tvg-logo="https://i.imgur.com/78hA7ma.png" group-title="意大利",TeleRomaDue
-https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
-#EXTINF:-1 tvg-chno="440" tvg-id="" tvg-name="Teleromagna" tvg-logo="https://i.imgur.com/4jWadI8.png" group-title="意大利",Teleromagna
-https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="441" tvg-id="" tvg-name="Teleromagna 24" tvg-logo="https://i.imgur.com/Bpml478.png" group-title="意大利",Teleromagna 24
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="442" tvg-id="" tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/u8E9wBb.png" group-title="意大利",Teleuniverso
-https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
-#EXTINF:-1 tvg-chno="443" tvg-id="" tvg-name="Televallo Trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" group-title="意大利",Televallo Trapani
-https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-#EXTINF:-1 tvg-chno="444" tvg-id="" tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/9MhrrJK.png" group-title="意大利",TG Norba 24
-https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="445" tvg-id="" tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/wgwD7gh.png" group-title="意大利",TLT Molise
-https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
-#EXTINF:-1 tvg-chno="446" tvg-id="" tvg-name="Top Calcio 24" tvg-logo="https://i.imgur.com/DnVPKPE.png" group-title="意大利",Top Calcio 24
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8
-#EXTINF:-1 tvg-chno="447" tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="意大利",Travel TV
-https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:-1 tvg-chno="448" tvg-id="" tvg-name="TRC Santeramo" tvg-logo="https://i.imgur.com/VbYdS8P.jpg" group-title="意大利",TRC Santeramo
-https://stream7.livinlive.it/trc/trc/playlist.m3u8
-#EXTINF:-1 tvg-chno="449" tvg-id="" tvg-name="Trentino Tv" tvg-logo="https://i.imgur.com/ROKOCR2.png" group-title="意大利",Trentino Tv
-https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-chno="450" tvg-id="" tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="意大利",TRL Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
-#EXTINF:-1 tvg-chno="451" tvg-id="" tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://i.imgur.com/WQ8eQXc.png" group-title="意大利",TSD Tv Arezzo(Tele San Domenico)
-https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="452" tvg-id="" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" group-title="意大利",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11223/tv8web/master.m3u8
-#EXTINF:-1 tvg-chno="453" tvg-id="" tvg-name="Tv 12" tvg-logo="https://i.imgur.com/oxv08pJ.png" group-title="意大利",Tv 12
-https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
-#EXTINF:-1 tvg-chno="454" tvg-id="" tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="意大利",TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-chno="455" tvg-id="" tvg-name="Tv Luna Napoli" tvg-logo="https://i.imgur.com/jxhuoyE.png" group-title="意大利",Tv Luna Napoli
-https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
-#EXTINF:-1 tvg-chno="456" tvg-id="" tvg-name="Tv Prato" tvg-logo="https://i.imgur.com/zDeVpZd.png" group-title="意大利",Tv Prato
-https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="457" tvg-id="" tvg-name="Tv Qui Modena" tvg-logo="https://i.imgur.com/4bOYlfg.png" group-title="意大利",Tv Qui Modena
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-chno="458" tvg-id="" tvg-name="Tv Uno" tvg-logo="https://i.imgur.com/OtCwYsh.jpg" group-title="意大利",Tv Uno
-http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
-#EXTINF:-1 tvg-chno="459" tvg-id="" tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="意大利",Tv Yes
-https://stream1.aswifi.it/radioyes/live/index.m3u8
-#EXTINF:-1 tvg-chno="460" tvg-id="" tvg-name="TVL (TV Libera Pistoia)" tvg-logo="https://i.imgur.com/07geF0L.png" group-title="意大利",TVL (TV Libera Pistoia)
-http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
-#EXTINF:-1 tvg-chno="461" tvg-id="" tvg-name="Tvm Palermo" tvg-logo="https://i.imgur.com/uqOdAXB.png" group-title="意大利",Tvm Palermo
-https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="462" tvg-id="" tvg-name="Tvr Xenon" tvg-logo="https://i.imgur.com/kLzW1Pf.jpg" group-title="意大利",Tvr Xenon
-https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="463" tvg-id="" tvg-name="Tvrs Tv" tvg-logo="https://i.imgur.com/6p7hTmY.jpg" group-title="意大利",Tvrs Tv
-https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
-#EXTINF:-1 tvg-chno="464" tvg-id="" tvg-name="Umbria Tv" tvg-logo="https://i.imgur.com/XKCVEmK.png" group-title="意大利",Umbria Tv
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
-#EXTINF:-1 tvg-chno="465" tvg-id="" tvg-name="UniNettuno University TV Ⓖ" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="意大利",UniNettuno University TV Ⓖ
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-chno="466" tvg-id="" tvg-name="Uno4 Tv" tvg-logo="https://i.imgur.com/wfPPpBA.png" group-title="意大利",Uno4 Tv
-https://cdn.uno4.it/index.m3u8
-#EXTINF:-1 tvg-chno="467" tvg-id="" tvg-name="Uno Tv" tvg-logo="https://i.imgur.com/4PNbqqL.png" group-title="意大利",Uno Tv
-https://stream1.aswifi.it/unotv/live/index.m3u8
-#EXTINF:-1 tvg-chno="468" tvg-id="" tvg-name="VB33" tvg-logo="https://i.imgur.com/ygDuIxU.png" group-title="意大利",VB33
-https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="469" tvg-id="" tvg-name="Video Calabria" tvg-logo="https://i.imgur.com/Bc2AvIm.png" group-title="意大利",Video Calabria
-https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
-#EXTINF:-1 tvg-chno="470" tvg-id="" tvg-name="Video Mediterraneo" tvg-logo="https://i.imgur.com/hJHC3uQ.png" group-title="意大利",Video Mediterraneo
-https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:-1 tvg-chno="471" tvg-id="" tvg-name="Video Nola" tvg-logo="https://i.imgur.com/M5z5UoD.jpg" group-title="意大利",Video Nola
-https://videonola.aswifi.it/videonolaabr/live.m3u8
-#EXTINF:-1 tvg-chno="472" tvg-id="" tvg-name="Video Regione Sicilia" tvg-logo="https://i.imgur.com/0szwnR3.png" group-title="意大利",Video Regione Sicilia
-https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
-#EXTINF:-1 tvg-chno="473" tvg-id="" tvg-name="Video Star Tv Sicilia" tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" group-title="意大利",Video Star Tv Sicilia
-https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="474" tvg-id="" tvg-name="Video Touring Tv" tvg-logo="https://i.imgur.com/E2Feao5.jpg" group-title="意大利",Video Touring Tv
-https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
-#EXTINF:-1 tvg-chno="475" tvg-id="" tvg-name="Videotelecarnia" tvg-logo="https://i.imgur.com/r4K9JHW.png" group-title="意大利",Videotelecarnia
-https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
-#EXTINF:-1 tvg-chno="476" tvg-id="" tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" group-title="意大利",Vintage Radio Tv
-https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
-#EXTINF:-1 tvg-chno="477" tvg-id="" tvg-name="Virgin Radio TV Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="意大利",Virgin Radio TV Ⓖ
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="478" tvg-id="" tvg-name="WLTV" tvg-logo="https://i.imgur.com/aL8jKtU.png" group-title="意大利",WLTV
-https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
-#EXTINF:-1 tvg-chno="479" tvg-id="" tvg-name="Zerouno Tv Music" tvg-logo="https://i.imgur.com/r74lqW8.png" group-title="意大利",Zerouno Tv Music
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 tvg-chno="480" tvg-id="" tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="意大利",Zerouno Tv News
-https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
-#EXTINF:-1 tvg-chno="481" tvg-id="" tvg-name="è Tv Marche" tvg-logo="https://i.imgur.com/vxgbFnR.png" group-title="意大利",è Tv Marche
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="482" tvg-id="" tvg-name="è Tv Rete7" tvg-logo="https://i.imgur.com/FXFzJhM.png" group-title="意大利",è Tv Rete7
-https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="483" tvg-id="" tvg-name="è Tv Umbria" tvg-logo="https://i.imgur.com/DASRCe2.png" group-title="意大利",è Tv Umbria
-https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="484" tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="日本",ANN News
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1 tvg-chno="485" tvg-id="" tvg-name="Asahi Shimbun Digital" tvg-logo="https://i.imgur.com/DuGepQp.jpg" group-title="日本",Asahi Shimbun Digital
@@ -1035,12 +432,6 @@ https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
 #EXTINF:-1 tvg-chno="518" tvg-id="" tvg-name="TJB TV" tvg-logo="https://i.imgur.com/q9Nx801.png" group-title="韩国",TJB TV
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-chno="519" tvg-id="" tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png" group-title="朝鲜",KCTV
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-chno="520" tvg-id="" tvg-name="Pro TV" tvg-logo="https://i.imgur.com/aKAfKtW.png" group-title="罗马尼亚",Pro TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-chno="521" tvg-id="" tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="罗马尼亚",Telestar1
-http://89.47.97.15/telestar/telestar.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-id="" tvg-name="360 Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="俄罗斯",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-id="" tvg-name="CGTN Pусский" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="俄罗斯",CGTN Pусский
@@ -1103,16 +494,6 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-chno="552" tvg-id="" tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="塞尔维亚",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-chno="553" tvg-id="" tvg-name="Dacwa TV Ⓢ" tvg-logo="https://i.imgur.com/rMqrLzV.png" group-title="索马里",Dacwa TV Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
-#EXTINF:-1 tvg-chno="554" tvg-id="" tvg-name="MM Somali TV Ⓢ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mm-somali-tv-so.png" group-title="索马里",MM Somali TV Ⓢ
-https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
-#EXTINF:-1 tvg-chno="555" tvg-id="" tvg-name="Saab TV Ⓢ" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="索马里",Saab TV Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
-#EXTINF:-1 tvg-chno="556" tvg-id="" tvg-name="SNTV Daljir Ⓢ" tvg-logo="https://i.imgur.com/Re3ur88.png" group-title="索马里",SNTV Daljir Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
-#EXTINF:-1 tvg-chno="557" tvg-id="" tvg-name="Somali National TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="索马里",Somali National TV Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-chno="558" tvg-id="" tvg-name="Chernivtsi Promin" tvg-logo="https://i.imgur.com/IbwmfzF.png" group-title="乌克兰",Chernivtsi Promin
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-chno="559" tvg-id="" tvg-name="GIT" tvg-logo="https://i.imgur.com/v5J8tiS.png" group-title="乌克兰",GIT
@@ -1211,6 +592,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-chno="606" tvg-id="" tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="电影点播(英语)",Pluto TV Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="V+ 888" tvg-logo="" group-title="电影点播(英语)",V+ 888
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="607" tvg-id="" tvg-name="Albarquel" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Beachcam",Albarquel
 https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
 #EXTINF:-1 tvg-chno="608" tvg-id="" tvg-name="Baía de Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Beachcam",Baía de Cascais
