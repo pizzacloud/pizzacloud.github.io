@@ -164,7 +164,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="" tvg-name="RT Español Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="西班牙语",RT Español Ⓖ
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="DW Espanol" tvg-logo="" group-title="西班牙语",DW Espanol
+#EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="DW Espanol" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/dw-int.png?raw=true" group-title="西班牙语",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="La 1 西班牙" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="西班牙语",La 1 西班牙
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
@@ -175,11 +175,9 @@ http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5801
 #EXTINF:-1 tvg-chno="123" tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="西班牙语",CUATRO HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5802#EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="Telecinco HD" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="西班牙语",Telecinco HD
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5803
-#EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="Canal Málaga" tvg-logo="" group-title="西班牙语",Canal Málaga
+#EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="Canal Málaga" tvg-logo="https://www.canalmalaga.es/wp-content/uploads/2018/01/Logo_CanalM%C3%A1laga_x2.png" group-title="西班牙语",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="" tvg-name="Cartoon Spanish" tvg-logo="" group-title="西班牙语",Cartoon Spanish
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="SAT Espanol" tvg-logo="" group-title="西班牙语",SAT Espanol
+#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="SAT" tvg-logo="" group-title="西班牙语",SAT西班牙
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="" tvg-name="Aragón TV 西班牙" tvg-logo="https://i.imgur.com/8H3Q07b.png" group-title="西班牙语",Aragón TV 西班牙
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
