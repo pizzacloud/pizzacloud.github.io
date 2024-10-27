@@ -270,6 +270,52 @@ https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-id="" tvg-name="MyTime Movie  PT" tvg-logo="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/69804bd6-2657-4f33-b093-2cb590fd40cf" group-title="葡萄牙语",MyTime Movie  PT
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ifGQGJx.png",SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/OOB7nrS.png",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/rHPY0Yv.png",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticias
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/w9R9IIX.png",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/03jFV68.png",Clan TVE Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/XN6jjMR.png",ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/Md3xibE.png",Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",Jovem Pan News (JP News)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/R0aflu1.png",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/JSiZG2B.png",Rede Mais
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ZFN1R4B.png",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$",Revry Brasil
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/qeo2oPM.png",TV A7 Plus
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/W6bHHqE.png",TV Liberdade
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/MQ6lJpS.png",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="KK TV(安哥拉)" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="葡萄牙语",KK TV(安哥拉)
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-id="" tvg-name="TV Cidade(佛得角)" tvg-logo="https://spaceks.net/sites/cidadefm.cv/images/pubs/user_196067263.jpg" group-title="葡萄牙语",TV Cidade(佛得角)
