@@ -46,8 +46,7 @@ http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="「陕西」延安" tvg-logo="" group-title="地方频道",「陕西」延安
 http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
 
-#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="ABC News（澳大利亚）" tvg-logo="" group-title="国际/英文",ABC News（澳大利亚）
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:-1 tvg-chno="26" tvg-id="AfricanewsEnglish.cg" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="国际/英文",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际/英文",Al Jazeera English
@@ -56,7 +55,9 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="Azemeis TV" tvg-logo="" group-title="国际/英文",Azemeis TV
 https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Bloomberg TV" tvg-logo="" group-title="国际/英文",Bloomberg TV
+#EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="国际/英文",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="" group-title="国际/英文",Bloomberg TV+
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/22e25f0b-ff48-4517-9faa-35f78c10f563/0.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="bonappetit.us" tvg-name="bon appétit" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="国际/英文",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
@@ -126,30 +127,20 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="国际/英文",DD India
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="国际/英文",Bloomberg TV+
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="国际/英文",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="国际/英文",AccuWeather NOW
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="" tvg-name="KTCA-DT5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Twin_Cities_Public_Television_logo_%28PBS%29.png" group-title="国际/英文",KTCA-DT5
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" group-title="国际/英文",WeatherNation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 #EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="CGTN Documentary English Ⓢ" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="国际/英文",CGTN Documentary English Ⓢ
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="国际/英文",Peer TV South Tyrol
 https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" group-title="国际/英文",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="国际/英文",ABC News
+#EXTINF:-1 tvg-chno="74" tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="国际/英文",ABC News(US)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="" tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="国际/英文",BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-chno="76" tvg-id="" tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="国际/英文",BBC Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="国际/英文",Bloomberg
-https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="" tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="国际/英文",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="国际/英文",NASA TV Media
@@ -272,15 +263,10 @@ https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="" tvg-name="Bon Dia 西班牙" tvg-logo="https://i.imgur.com/XaiP3nJ.png" group-title="西班牙语",Bon Dia 西班牙
 https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-name="EITB1 西班牙" tvg-logo="https://i.imgur.com/VBVu2bu.png" group-title="西班牙语",EITB1 西班牙
-https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="EITB2 西班牙" tvg-logo="https://i.imgur.com/VBVu2bu.png" group-title="西班牙语",EITB2 西班牙
-https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="Vale TV Ⓢ 委内瑞拉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="西班牙语",Vale TV Ⓢ 委内瑞拉
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="Alcarria TV墨西哥" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="西班牙语",Alcarria TV墨西哥
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-
 
 #EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="Euronews PT" tvg-logo="" group-title="葡萄牙语",Euronews PT
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/de58ab88-b103-4df8-b87a-71190e6f9482/5.m3u8
