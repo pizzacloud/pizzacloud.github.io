@@ -419,12 +419,6 @@ https://tvtogliatti24.ru/hls/live1080/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-chno="549" tvg-id="" tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" group-title="俄罗斯",Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="550" tvg-id="" tvg-name="Euronews Serbia" tvg-logo="https://i.imgur.com/b24QKcq.png" group-title="塞尔维亚",Euronews Serbia
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="551" tvg-id="" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="塞尔维亚",RTS 1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-chno="552" tvg-id="" tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="塞尔维亚",RTS 2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-chno="558" tvg-id="" tvg-name="Chernivtsi Promin" tvg-logo="https://i.imgur.com/IbwmfzF.png" group-title="乌克兰",Chernivtsi Promin
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-chno="559" tvg-id="" tvg-name="GIT" tvg-logo="https://i.imgur.com/v5J8tiS.png" group-title="乌克兰",GIT
