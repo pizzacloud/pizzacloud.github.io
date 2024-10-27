@@ -45,8 +45,7 @@ http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="「陕西」延安" tvg-logo="" group-title="地方频道",「陕西」延安
 http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
-#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="1 German" tvg-logo="" group-title="国际/英文",1 German
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
 #EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="ABC News（澳大利亚）" tvg-logo="" group-title="国际/英文",ABC News（澳大利亚）
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="AfricanewsEnglish.cg" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="国际/英文",Africanews
@@ -335,6 +334,10 @@ https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="" tvg-name="Trace URBAN" tvg-logo="" group-title="音乐",Trace URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="1 German" tvg-logo="" group-title="德国",1
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-chno="179" tvg-id="" tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" group-title="德国",BR Süd Ⓖ
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-chno="180" tvg-id="" tvg-name="DW Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" group-title="德国",DW Deutsch
@@ -360,76 +363,6 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="" tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" group-title="德国",WDR Ⓖ
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 
-#EXTINF:-1 tvg-chno="484" tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="日本",ANN News
-https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-#EXTINF:-1 tvg-chno="485" tvg-id="" tvg-name="Asahi Shimbun Digital" tvg-logo="https://i.imgur.com/DuGepQp.jpg" group-title="日本",Asahi Shimbun Digital
-https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:-1 tvg-chno="486" tvg-id="" tvg-name="Chukyo TV News" tvg-logo="https://i.imgur.com/fSNc0jP.png" group-title="日本",Chukyo TV News
-https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
-#EXTINF:-1 tvg-chno="487" tvg-id="" tvg-name="HBC Hokkaido News 24" tvg-logo="https://i.imgur.com/vcGsZVD.png" group-title="日本",HBC Hokkaido News 24
-https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-#EXTINF:-1 tvg-chno="488" tvg-id="" tvg-name="Hokkaido News UHB" tvg-logo="https://i.imgur.com/G8lAJYc.png" group-title="日本",Hokkaido News UHB
-https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
-#EXTINF:-1 tvg-chno="489" tvg-id="" tvg-name="HTB Hokkaido News 24" tvg-logo="https://i.imgur.com/yqUItvM.png" group-title="日本",HTB Hokkaido News 24
-https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
-#EXTINF:-1 tvg-chno="490" tvg-id="" tvg-name="JapanesePod101" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Japanesepod101.png" group-title="日本",JapanesePod101
-https://ythls.armelin.one/channel/UC0ox9NuTHYeRys63yZpBFuA.m3u8
-#EXTINF:-1 tvg-chno="491" tvg-id="" tvg-name="MBS TV (MBSテレビ) Ⓢ" tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="日本",MBS TV (MBSテレビ) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=7
-#EXTINF:-1 tvg-chno="492" tvg-id="" tvg-name="NHK E Ⓢ" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="日本",NHK E Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7
-#EXTINF:-1 tvg-chno="493" tvg-id="" tvg-name="NHK Kishou-Saigai Ⓢ" tvg-logo="https://i.imgur.com/oWKCBIz.png" group-title="日本",NHK Kishou-Saigai Ⓢ
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 tvg-chno="494" tvg-id="" tvg-name="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="日本",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-chno="495" tvg-id="" tvg-name="Niigata News NST" tvg-logo="https://i.imgur.com/5dJE8Fc.jpg" group-title="日本",Niigata News NST
-https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
-#EXTINF:-1 tvg-chno="496" tvg-id="" tvg-name="Nippon TV (日テレ) Ⓢ" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="日本",Nippon TV (日テレ) Ⓢ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7
-#EXTINF:-1 tvg-chno="497" tvg-id="" tvg-name="QVC" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="日本",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-chno="498" tvg-id="" tvg-name="SATV News 24H" tvg-logo="https://i.imgur.com/PxFcRh9.jpg" group-title="日本",SATV News 24H
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-#EXTINF:-1 tvg-chno="499" tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/GTyQhBF.png" group-title="日本",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-chno="500" tvg-id="" tvg-name="STV News Hokkaido" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="日本",STV News Hokkaido
-https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
-#EXTINF:-1 tvg-chno="501" tvg-id="" tvg-name="TBS News" tvg-logo="https://i.imgur.com/GoNmywa.png" group-title="日本",TBS News
-https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
-#EXTINF:-1 tvg-chno="502" tvg-id="" tvg-name="TOS News" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="日本",TOS News
-https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
-#EXTINF:-1 tvg-chno="503" tvg-id="" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="日本",Weathernews
-https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
-#EXTINF:-1 tvg-chno="504" tvg-id="" tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/Wfu61ZU.png" group-title="日本",日テレNEWS24 Ⓢ
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-chno="505" tvg-id="" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="韩国",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="506" tvg-id="" tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" group-title="韩国",CJB TV
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="507" tvg-id="" tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="韩国",EBS 1 Ⓢ
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="508" tvg-id="" tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="韩国",EBS 2 Ⓢ
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="509" tvg-id="" tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="韩国",EBS English Ⓢ
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="510" tvg-id="" tvg-name="EBS Kids Ⓢ" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="韩国",EBS Kids Ⓢ
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="511" tvg-id="" tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" group-title="韩国",EBS Plus 1 Ⓢ
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="512" tvg-id="" tvg-name="EBS Plus 2 Ⓢ" tvg-logo="https://i.imgur.com/mgFRZFq.png" group-title="韩国",EBS Plus 2 Ⓢ
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-chno="513" tvg-id="" tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" group-title="韩国",JIBS TV
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-chno="514" tvg-id="" tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="韩国",KBC TV
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="515" tvg-id="" tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="韩国",MBC TV
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-chno="516" tvg-id="" tvg-name="OBS TV" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="韩国",OBS TV
-https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
-#EXTINF:-1 tvg-chno="517" tvg-id="" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="韩国",SBS TV
-https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
-#EXTINF:-1 tvg-chno="518" tvg-id="" tvg-name="TJB TV" tvg-logo="https://i.imgur.com/q9Nx801.png" group-title="韩国",TJB TV
-http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-chno="522" tvg-id="" tvg-name="360 Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="俄罗斯",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="523" tvg-id="" tvg-name="CGTN Pусский" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="俄罗斯",CGTN Pусский
