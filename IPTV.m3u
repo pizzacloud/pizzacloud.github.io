@@ -165,6 +165,12 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="DW Espanol" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/dw-int.png?raw=true" group-title="西班牙语",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://i.imgur.com/03jFV68.png",Clan TVE Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 group-title="西班牙语" tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="La 1 西班牙" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="西班牙语",La 1 西班牙
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙语",La 2
@@ -281,8 +287,6 @@ https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/03jFV68.png",Clan TVE Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/XN6jjMR.png",ConecTV Brasil
@@ -309,12 +313,6 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/W6bHHqE.png",TV Liberdade
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional America
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/MQ6lJpS.png",TVE RS
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE Star HD
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="KK TV(安哥拉)" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="葡萄牙语",KK TV(安哥拉)
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-id="" tvg-name="TV Cidade(佛得角)" tvg-logo="https://spaceks.net/sites/cidadefm.cv/images/pubs/user_196067263.jpg" group-title="葡萄牙语",TV Cidade(佛得角)
