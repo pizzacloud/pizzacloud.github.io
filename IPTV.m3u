@@ -1,28 +1,41 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-chno="2" tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="浙江频道",浙江教科影视
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江频道",浙江经济生活
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生休闲
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="浙江钱江都市" tvg-name="浙江钱江频道" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="浙江频道",之江纪录
+#EXTVLCOPT:http-user-agent=Firefox
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="" tvg-name="宁波1套" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波1套
-http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1729858210-0-0-1fc4b1f21f66c48fc712c2fbfc68a070
+#EXTVLCOPT:http-user-agent=Firefox
+http://liveplay.nbtv.cn/live/nbtv1_md.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="宁波2套" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波2套
-https://liveplay8.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1729775026-0-0-539c7833c836be5c4e733a1c813bf112
+#EXTVLCOPT:http-user-agent=Firefox
+https://liveplay8.nbtv.cn/live/nbtv2_md.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="宁波3套" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波3套
-https://liveplay8.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1729775052-0-0-2eb15302ef39ed411e89ac59904d7d44
+#EXTVLCOPT:http-user-agent=Firefox
+https://liveplay8.nbtv.cn/live/nbtv3_md.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="宁波4套" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/main/tv/nbtv.png" group-title="浙江频道",宁波4套
-https://liveplay8.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1729775069-0-0-77af31e3075b3e484bc484a3a4c6e20b
+#EXTVLCOPT:http-user-agent=Firefox
+https://liveplay8.nbtv.cn/live/nbtv4_md.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="" tvg-name="宁波-余姚综合" tvg-logo="https://th.bing.com/th/id/R.081badbdffbc1e5c23b6a2b8b1cb0f5a?rik=CC8R1X0IKmKomQ&riu=http%3a%2f%2ftv.haoqu99.com%2fd%2ffile%2f2021%2f0217%2f647270a980efd92a229c0cf961b76a80.jpg&ehk=77Nv4yremOassvLiKJAHMbqUkUlz%2b9v0JST0v7o029w%3d&risl=&pid=ImgRaw&r=0" group-title="浙江频道",宁波-余姚综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-chno="14" tvg-id="" tvg-name="宁波-象山综合" tvg-logo="https://th.bing.com/th/id/R.3f7ee5220f82a115520339ed03bcf8f5?rik=HjFupP9H2uPc4Q&riu=http%3a%2f%2ftv.haoqu99.com%2fd%2ffile%2f2021%2f0217%2fd3574274d145da0a737cc34290abcd8b.jpg&ehk=8GViEzbaVFWCRycDVO4WCXu4ldNgmCGXzsWOeylDafE%3d&risl=&pid=ImgRaw&r=0" group-title="浙江频道",宁波-象山综合
