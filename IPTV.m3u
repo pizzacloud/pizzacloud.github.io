@@ -175,11 +175,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙语",La 2
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5800
-#EXTINF:-1 tvg-chno="120" tvg-id="" tvg-name="Antena 3 HD" tvg-logo="http://streamgo.vip:8008/images/96e0af61777e711d54bc88e44a102ef8.jpg" group-title="西班牙语",Antena 3 HD
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5801
-#EXTINF:-1 tvg-chno="123" tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="西班牙语",CUATRO HD
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5802#EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="Telecinco HD" tvg-logo="http://streamgo.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="西班牙语",Telecinco HD
-http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5803
 #EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="Canal Málaga" tvg-logo="https://www.canalmalaga.es/wp-content/uploads/2018/01/Logo_CanalM%C3%A1laga_x2.png" group-title="西班牙语",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="SAT" tvg-logo="" group-title="西班牙语",SAT西班牙
@@ -204,16 +199,6 @@ http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 
 #EXTINF:-1 tvg-chno="103" tvg-id="Euronews.fr" tvg-name="Euronews FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/euro-news-int.png?raw=true" group-title="法语",Euronews FR
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="tf1.fr" tvg-name="TF 1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="法语",TF 1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="法语",France 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="法语",France 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="法语",France 4
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-5-fr.png?raw=true" group-title="法语",France 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="" tvg-name="CPAC" tvg-logo="https://i.imgur.com/AbdFD0S.png" group-title="法语",CPAC（加拿大）
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="13136" tvg-name="ICI RDI （加拿大）" tvg-logo="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/554fe3ff-76f3-4250-8e50-e33678b36833" group-title="法语",ICI RDI （加拿大）
