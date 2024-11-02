@@ -252,8 +252,6 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="" tvg-name="Canal Futura" tvg-logo="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/37091e66-64b1-4d76-97fa-acf9dd8abb08" group-title="葡萄牙语",Canal Futura巴西
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-id="" tvg-name="Record News(巴西)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="葡萄牙语",Record News(巴西)
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" group-title="葡萄牙语",Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="葡萄牙语",TV Câmara(巴西)
