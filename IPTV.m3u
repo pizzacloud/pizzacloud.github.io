@@ -49,12 +49,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="英语新闻",Africanews
 https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="英语新闻",Channel News Asia
-https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="CNN.uk" tvg-name="CNN International" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CNN.png?raw=true" group-title="英语新闻",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="" tvg-name="France 24" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/france24.png?raw=true" group-title="英语新闻",France 24
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="英语新闻",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="英语新闻",Bloomberg
