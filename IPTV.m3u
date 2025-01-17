@@ -69,8 +69,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-id="" tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="英语新闻",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="" tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="英语新闻",Sky News (UK)
-https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="英语新闻",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="" tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="英语新闻",Global News
