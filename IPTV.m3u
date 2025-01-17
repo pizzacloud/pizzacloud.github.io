@@ -63,15 +63,12 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="90" tvg-id="" tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="英语新闻",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" group-title="英语新闻",NBC News NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="英语新闻",Russia Today Ⓖ
+#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="英语新闻",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" group-title="英语新闻",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-id="" tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" group-title="英语新闻",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="英语新闻",Scripps News
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="" tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="英语新闻",Sky News (UK)
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="英语新闻",The Guardian
@@ -146,10 +143,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="" tvg-name="UCV Televisión智利" tvg-logo="https://i.imgur.com/2VL4Pts.png" group-title="西班牙语",UCV Televisión智利
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="Vale TV Ⓢ 委内瑞拉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="西班牙语",Vale TV Ⓢ 委内瑞拉
-https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="Alcarria TV墨西哥" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" group-title="西班牙语",Alcarria TV墨西哥
-http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 
 
 #EXTINF:-1 tvg-chno="103" tvg-id="Euronews.fr" tvg-name="Euronews FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/euro-news-int.png?raw=true" group-title="法语",Euronews FR
