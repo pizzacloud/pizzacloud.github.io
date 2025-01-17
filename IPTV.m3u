@@ -43,12 +43,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="英语新闻",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="" tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="英语新闻",ABC News(US)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="" tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="英语新闻",ABC News (AU)
-https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="英语新闻",Africanews
-https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="英语新闻",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="英语新闻",Bloomberg
@@ -70,10 +64,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="90" tvg-id="" tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="英语新闻",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" group-title="英语新闻",NBC News NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="Pluto TV News" tvg-logo="https://i.imgur.com/JdqA4r9.png" group-title="英语新闻",Pluto TV News
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
-#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="英语新闻",Russia Today Ⓖ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="英语新闻",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" group-title="英语新闻",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -83,16 +74,10 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b2500
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="" tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="英语新闻",Sky News (UK)
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="" tvg-name="Taiwan+" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="英语新闻",Taiwan+
-https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="英语新闻",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="英语新闻",WION
-https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="" tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="英语新闻",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="" tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="英语新闻",i24 News
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="" tvg-name="KTCA-DT5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Twin_Cities_Public_Television_logo_%28PBS%29.png" group-title="英语新闻",KTCA-DT5
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="英语新闻",Peer TV South Tyrol
@@ -119,8 +104,6 @@ https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/152ce4a1-aa15-4761-ae5b-d4f13449c1b9/4.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-id="" tvg-name="Red Bull" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true" group-title="英语娱乐",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="" tvg-name="Retro Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="英语娱乐",Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 
 
@@ -145,13 +128,9 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="DW Espanol" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/dw-int.png?raw=true" group-title="西班牙语",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-logo="https://i.imgur.com/03jFV68.png",Clan TVE Internacional
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 group-title="西班牙语" tvg-logo="https://i.imgur.com/iODADvi.png",TVE Internacional America
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 group-title="西班牙语" tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="La 1 西班牙" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="西班牙语",La 1 西班牙
+#EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="La 1 西班牙" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="西班牙语",La 1
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="西班牙语",La 2
 http://live.11odin.xyz:8080/PzusEwXVwO/tgNBd7xUYP/5800
@@ -161,10 +140,6 @@ http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="" tvg-name="Aragón TV 西班牙" tvg-logo="https://i.imgur.com/8H3Q07b.png" group-title="西班牙语",Aragón TV 西班牙
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-chno="137" tvg-id="" tvg-name="3/24 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/300px-324_%28CCMA%29_logo.svg.png" group-title="西班牙语",3/24 加泰隆尼亚
-https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="" tvg-name="Bon Dia 西班牙" tvg-logo="https://i.imgur.com/XaiP3nJ.png" group-title="西班牙语",Bon Dia 加泰隆尼亚
-https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="" tvg-name="El Trece 阿根廷" tvg-logo="https://i.imgur.com/ZK7AQFg.png" group-title="西班牙语",El Trece 阿根廷
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-id="" tvg-name="Net TV 阿根廷" tvg-logo="https://i.imgur.com/EWmshtx.png" group-title="西班牙语",Net TV 阿根廷
@@ -201,9 +176,6 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="" tvg-name="卢旺达KC2" tvg-logo="https://www.rba.co.rw/IMG/logokc2.jpg" group-title="法语",Kigali Channel 2卢旺达
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="Télé Tchad Ⓢ乍得" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png" group-title="法语",Télé Tchad Ⓢ乍得
-https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="Euronews PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/euro-news-int.png?raw=true" group-title="葡萄牙语",Euronews PT
@@ -216,74 +188,21 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-id="" tvg-name="Canal Macau" tvg-logo="https://i.imgur.com/oFPUZ97.png" group-title="葡萄牙语",Canal Macau
 https://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="" tvg-name="TDM Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" group-title="葡萄牙语",TDM澳门综艺
-https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="" tvg-name="TDM Information" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="葡萄牙语",TDM澳门资讯
-https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-id="" tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="葡萄牙语",TDM澳视澳门
-https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="175" tvg-id="" tvg-name="TDM Ou Mun-Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="葡萄牙语",TDM澳视葡文
-https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="" tvg-name="TDM Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="葡萄牙语",TDM澳门体育
-https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="" tvg-name="AgroBrasilTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="葡萄牙语",AgroBrasilTV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="葡萄牙语",COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="" tvg-name="Canal Futura" tvg-logo="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/37091e66-64b1-4d76-97fa-acf9dd8abb08" group-title="葡萄牙语",Canal Futura巴西
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" group-title="葡萄牙语",Rede Brasil
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="葡萄牙语",TV Câmara(巴西)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-id="" tvg-name="MyTime Movie  PT" tvg-logo="blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/69804bd6-2657-4f33-b093-2cb590fd40cf" group-title="葡萄牙语",MyTime Movie  PT
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ifGQGJx.png",SBT
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/OOB7nrS.png",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/rHPY0Yv.png",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/G0x4xqa.png",Canal Metropolitano de Noticias
-https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/w9R9IIX.png",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/XN6jjMR.png",ConecTV Brasil
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/Md3xibE.png",Demais TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png",Fanpop TV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",Jovem Pan News (JP News)
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/R0aflu1.png",Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/JSiZG2B.png",Rede Mais
-https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/ZFN1R4B.png",Rede NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",Jovem Pan News
 #EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$",Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/qeo2oPM.png",TV A7 Plus
-https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 group-title="葡萄牙语" tvg-logo="https://i.imgur.com/W6bHHqE.png",TV Liberdade
-https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="KK TV(安哥拉)" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="葡萄牙语",KK TV(安哥拉)
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-id="" tvg-name="TV Cidade(佛得角)" tvg-logo="https://spaceks.net/sites/cidadefm.cv/images/pubs/user_196067263.jpg" group-title="葡萄牙语",TV Cidade(佛得角)
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="TV Muzangala(安哥拉)" tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="葡萄牙语",TV Muzangala(安哥拉)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="V+" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/vmaistvi.png" group-title="葡萄牙语",V+ (葡萄牙)
-https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="566" tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png" group-title="阿联酋",Abu Dhabi Sports 1
