@@ -181,31 +181,3 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-chno="583" tvg-id="" tvg-name="Wanasah" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="阿联酋",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="1 German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/400px-One_2022.svg.png" group-title="德国",ONE(德国)
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-id="" tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" group-title="德国",BR Süd Ⓖ
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="" tvg-name="DW Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" group-title="德国",DW Deutsch
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="" tvg-name="DW Deutsch+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" group-title="德国",DW Deutsch+
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-id="" tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/640px-HR-Fernsehen_Logo_2023.svg.png" group-title="德国",HR Ⓖ
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-id="" tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Hamburg Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-chno="184" tvg-id="" tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR International
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-chno="185" tvg-id="" tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Mecklenburg-Vorpommern Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-chno="186" tvg-id="" tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Niedersachsen Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-chno="187" tvg-id="" tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" group-title="德国",NDR Schleswig-Holstein Ⓖ
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-chno="188" tvg-id="" tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="德国",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-chno="189" tvg-id="" tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/538px-SR_Fernsehen_Logo_2023.svg.png" group-title="德国",SR Ⓖ
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-chno="190" tvg-id="" tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" group-title="德国",WDR Ⓖ
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
