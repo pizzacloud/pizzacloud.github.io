@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
@@ -386,4 +387,5 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="" tvg-name="TVM 3 瑞士" tvg-logo="https://i.imgur.com/3v6iZE6.png" group-title="法语",TVM 3 瑞士
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="" tvg-name="TVO 瑞士" tvg-logo="https://i.imgur.com/5QFZ05B.png" group-title="法语",TVO 瑞士
+
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
