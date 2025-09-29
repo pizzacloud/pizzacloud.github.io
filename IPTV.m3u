@@ -1,38 +1,3 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-chno="1" tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-chno="2" tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="浙江频道",浙江教科影视
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江频道",浙江经济生活
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生休闲
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="浙江钱江都市" tvg-name="浙江钱江频道" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="浙江频道",之江纪录
-#EXTVLCOPT:http-user-agent=Firefox
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="" tvg-name="绍兴公共频道" tvg-logo="" group-title="浙江频道",绍兴公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
-#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="绍兴文化影院" tvg-logo="" group-title="浙江频道",绍兴文化影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1 tvg-chno="17" tvg-id="" tvg-name="绍兴新闻综合" tvg-logo="" group-title="浙江频道",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-
-
-
 #EXTINF:-1 tvg-chno="35" tvg-id="" tvg-name="CGTN News" tvg-logo="https://github.com/fanmingming/live/blob/main/radio/cgtn.png?raw=true" group-title="英语新闻",CGTN News
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CGTNDoc.png?raw=true" group-title="英语新闻",CGTN Documentary
@@ -47,14 +12,10 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="英语新闻",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qswOpfKhebBn3udxoPp3Qt3LOlSnB21-iA&s" group-title="英语新闻",Bloomberg TV+
-https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/22e25f0b-ff48-4517-9faa-35f78c10f563/0.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="DW" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/DW.png?raw=true" group-title="英语新闻",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="12523" tvg-name="|土耳其| TRT World HD" tvg-logo="https://raw.githubusercontent.com/pizzacloud/pizzacloud.github.io/3c7ddca8f90cdf8123ae92e0c2294ebc4839b426/tv/trtworld.png" group-title="英语新闻",|土耳其| TRT World HD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="英语新闻",Yahoo! Finance
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="英语新闻",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" group-title="英语新闻",RT Documentary English Ⓖ
@@ -65,10 +26,6 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b2500
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="英语新闻",Peer TV South Tyrol
 https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="" tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="英语新闻",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="" tvg-name="NDTV India 印度" tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="英语新闻",NDTV India 印度
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="47" tvg-id="" tvg-name="Loupe 4K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/loupe.png?raw=true" group-title="英语娱乐",Loupe 4K
@@ -181,3 +138,4 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-chno="583" tvg-id="" tvg-name="Wanasah" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="阿联酋",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
