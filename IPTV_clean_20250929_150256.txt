@@ -1,0 +1,94 @@
+4K,#genre#
+CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+北京卫视4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
+CCTV4K(备用),http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236655/1/index.m3u8?fmt=ts2hls
+
+卫视,#genre#
+重庆卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/341733166.smil/index.m3u8?fmt=ts2hls
+河北卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/235855194.smil/index.m3u8?fmt=ts2hls
+广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/42329945.smil/index.m3u8?fmt=ts2hls
+山东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/42329957.smil/index.m3u8?fmt=ts2hls
+河南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/235855023.smil/index.m3u8?fmt=ts2hls
+东南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/235855022.smil/index.m3u8?fmt=ts2hls
+甘肃卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236626/1056652255.smil/index.m3u8?fmt=ts2hls
+青海卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/42329203.smil/index.m3u8?fmt=ts2hls
+陕西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272/42329208.smil/index.m3u8?fmt=ts2hls
+西藏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330007.smil/index.m3u8?fmt=ts2hls
+吉林卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231289/235855024.smil/index.m3u8?fmt=ts2hls
+内蒙古卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/42329883.smil/index.m3u8?fmt=ts2hls
+CGTN西,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235414/682652892.smil/index.m3u8?fmt=ts2hls
+CETV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/482524877.smil/index.m3u8?fmt=ts2hls
+
+浙江,#genre#
+教科影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/396328931.smil/index.m3u8?fmt=ts2hls
+杭州影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
+浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/396328929.smil/index.m3u8?fmt=ts2hls
+杭州生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
+金华公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236605/1082207617.smil/index.m3u8?fmt=ts2hls
+丽水新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8?fmt=ts2hls
+嘉兴文化,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/1/index.m3u8?fmt=ts2hls
+舟山新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/1/index.m3u8?fmt=ts2hls
+嘉兴新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/1/index.m3u8?fmt=ts2hls
+丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8?fmt=ts2hls
+湖州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/1/index.m3u8?fmt=ts2hls
+金华教育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236660/1082207305.smil/index.m3u8?fmt=ts2hls
+湖州新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/1/index.m3u8?fmt=ts2hls
+
+节目,#genre#
+爱历史,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236593/1075853682.smil/index.m3u8?fmt=ts2hls
+漫游世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/59463297.smil/index.m3u8?fmt=ts2hls
+爱喜剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/133451466.smil/index.m3u8?fmt=ts2hls
+睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls
+动作电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
+爱浪漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/133448347.smil/index.m3u8?fmt=ts2hls
+炫舞未来,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
+探索纪实,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
+金牌综艺,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
+军旅剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
+潮妈辣婆,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8
+哒啵赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
+
+英语新闻,#genre#
+CGTN Español,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN Français,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN News,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN Documentary,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+Bloomberg,https://bloomberg.com/media-manifest/streams/us.m3u8
+|土耳其| TRT World HD,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+Peer TV South Tyrol,https://iptv.peer.biz/live/peertv-en.m3u8
+Russia Today Ⓖ,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+SABC News,https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u
+
+英语娱乐,#genre#
+Red Bull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+HollyWire,https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
+bon appétit,https://bonappetit-samsung.amagi.tv/playlist.m3u8
+Gusto TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+
+音乐,#genre#
+ON FM,https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+Trace URBAN,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+CMC,https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+FM ITALIA TV,https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+Trace LATINA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+西班牙语,#genre#
+DW Espanol,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+Net TV 阿根廷,https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+UCV Televisión智利,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+El Trece 阿根廷,https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+法语,#genre#
+CPAC,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+ICI RDI （加拿大）,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+ICI Télé HD Ⓖ （加拿大）,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+ICI Montreal （加拿大）,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+TVO 瑞士,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+BX1比利时,https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+Chamber TV 卢森堡,https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+卢旺达KC2,https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+RTL Télé Lëtzebuerg 卢森堡,https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+RTL Zwee 卢森堡,https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+TVM 3 瑞士,http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
