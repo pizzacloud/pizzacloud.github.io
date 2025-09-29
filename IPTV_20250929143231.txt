@@ -1,0 +1,71 @@
+英语新闻,#genre#
+CGTN News,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN Documentary,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN Español,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN Français,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+Al Jazeera English,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Bloomberg,https://bloomberg.com/media-manifest/streams/us.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+|土耳其| TRT World HD,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+Russia Today Ⓖ,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT Documentary English Ⓖ,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+SABC News,https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+Peer TV South Tyrol,https://iptv.peer.biz/live/peertv-en.m3u8
+英语娱乐,#genre#
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+LoveNature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+bon appétit,https://bonappetit-samsung.amagi.tv/playlist.m3u8
+FASHIONTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Gusto TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+HollyWire,https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
+Red Bull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+音乐,#genre#
+Trace LATINA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+Trace URBAN,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Clubbing TV,https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+CMC,https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+Colosal TV,http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.com
+FM ITALIA TV,https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+ON FM,https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+西班牙语,#genre#
+Canal 24 Horas,https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+RT Español Ⓖ,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+DW Espanol,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+TVE Star HD,https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+El Trece 阿根廷,https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+Net TV 阿根廷,https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+UCV Televisión智利,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+法语,#genre#
+Euronews FR,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+CPAC,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+ICI RDI （加拿大）,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+ICI Télé HD Ⓖ （加拿大）,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+ICI Montreal （加拿大）,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+BX1比利时,https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+Chamber TV 卢森堡,https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+RTL Télé Lëtzebuerg 卢森堡,https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+RTL Zwee 卢森堡,https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+TVM 3 瑞士,http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+TVO 瑞士,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+卢旺达KC2,https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+阿联酋,#genre#
+Abu Dhabi Sports 1,https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+Abu Dhabi Sports 2,https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+Al Arabiya Business,https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+Al Wousta,https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+Baynounah TV,https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+Cartoon Network Arabic,https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+Dubai Sports 2,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+Dubai Sports 3,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+MBC 1,https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+MBC 3,https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+MBC 5,https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+MBC Bollywood,https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+MBC Drama,https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+MBC Persia,https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+Sharjah Sports,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+Sharjah TV,https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+Sky News Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8
+Wanasah,https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
